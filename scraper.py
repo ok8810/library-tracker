@@ -93,7 +93,7 @@ def fetch_all_loans(config_path: str = "config.json") -> list[dict]:
     all_loans = []
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        browser = p.chromium.launch(headless=True)
         for member in config["members"]:
             page = browser.new_page()
             try:
