@@ -4,315 +4,463 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>図書館 返却リスト</title>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;700;900&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg: #f5f0e8;
-      --card: #fffdf7;
-      --accent: #c0392b;
-      --accent-light: #f9e8e6;
-      --warn: #e67e22;
-      --warn-light: #fef3e2;
-      --ok: #27ae60;
-      --ok-light: #e8f8ee;
-      --text: #2c2c2c;
-      --muted: #888;
-      --border: #e0d8cc;
+      --bg:       #f2ede4;
+      --paper:    #faf8f2;
+      --ink:      #1a1714;
+      --red:      #bf3b2e;
+      --red-bg:   #faeae7;
+      --amber:    #c97c1a;
+      --amber-bg: #fdf3e0;
+      --green:    #2e7d50;
+      --green-bg: #e6f4ec;
+      --rule:     #d8d0c2;
+      --muted:    #7a7060;
+      --chip-bg:  #e8e2d6;
     }
 
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
       background: var(--bg);
-      font-family: 'Noto Sans JP', sans-serif;
-      color: var(--text);
+      font-family: 'Zen Kaku Gothic New', sans-serif;
+      color: var(--ink);
       min-height: 100vh;
     }
 
-    header {
-      background: var(--text);
-      color: #fff;
-      padding: 1.2rem 1rem 1rem;
-      text-align: center;
-      position: sticky;
-      top: 0;
-      z-index: 10;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    /* ─── HEADER ─── */
+    .site-header {
+      background: var(--ink);
+      color: var(--paper);
+      padding: 1.4rem 1.2rem 1.1rem;
     }
 
-    header h1 {
-      font-size: 1.15rem;
-      font-weight: 700;
-      letter-spacing: 0.05em;
-    }
-
-    header p {
-      font-size: 0.72rem;
-      color: #aaa;
-      margin-top: 0.2rem;
-    }
-
-    .refresh-btn {
-      margin-top: 0.6rem;
-      background: none;
-      border: 1px solid #555;
-      color: #ccc;
-      border-radius: 20px;
-      padding: 0.3rem 1rem;
-      font-size: 0.75rem;
-      font-family: inherit;
-      cursor: pointer;
-      transition: all 0.2s;
-    }
-    .refresh-btn:hover { background: #333; color: #fff; }
-    .refresh-btn:disabled { opacity: 0.4; cursor: not-allowed; }
-
-    .container {
-      max-width: 600px;
-      margin: 0 auto;
-      padding: 1rem 0.8rem 2rem;
-    }
-
-    .summary {
+    .header-top {
       display: flex;
-      gap: 0.6rem;
-      margin-bottom: 1rem;
+      align-items: baseline;
+      gap: 0.7rem;
       flex-wrap: wrap;
     }
 
-    .summary-chip {
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 20px;
-      padding: 0.3rem 0.8rem;
-      font-size: 0.75rem;
-      color: var(--muted);
+    .site-title {
+      font-size: 1.1rem;
+      font-weight: 900;
+      letter-spacing: 0.08em;
     }
 
-    .summary-chip strong {
-      color: var(--text);
-      font-weight: 700;
+    .header-meta {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.68rem;
+      color: #888;
+      margin-top: 0.25rem;
     }
 
-    .card {
-      background: var(--card);
-      border-radius: 12px;
-      border: 1px solid var(--border);
-      margin-bottom: 0.7rem;
-      padding: 0.9rem 1rem;
+    .refresh-btn {
+      margin-top: 0.7rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      background: transparent;
+      border: 1px solid #444;
+      color: #bbb;
+      border-radius: 4px;
+      padding: 0.3rem 0.85rem;
+      font-family: inherit;
+      font-size: 0.73rem;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }
+    .refresh-btn:hover:not(:disabled) { background: #2a2a2a; color: #fff; }
+    .refresh-btn:disabled { opacity: 0.35; cursor: not-allowed; }
+    .refresh-btn svg { transition: transform 0.4s; }
+    .refresh-btn.spinning svg { animation: spin 0.7s linear infinite; }
+
+    /* ─── TOOLBAR ─── */
+    .toolbar {
+      background: var(--paper);
+      border-bottom: 1px solid var(--rule);
+      padding: 0.75rem 1rem;
+      position: sticky;
+      top: 0;
+      z-index: 20;
       display: flex;
-      flex-direction: column;
-      gap: 0.4rem;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
-      animation: fadeIn 0.3s ease both;
-    }
-
-    .card.urgent {
-      border-left: 4px solid var(--accent);
-      background: var(--accent-light);
-    }
-
-    .card.warn {
-      border-left: 4px solid var(--warn);
-      background: var(--warn-light);
-    }
-
-    .card.ok {
-      border-left: 4px solid var(--ok);
-    }
-
-    .card-top {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
+      flex-wrap: wrap;
       gap: 0.5rem;
+      align-items: center;
     }
 
-    .title {
-      font-size: 0.9rem;
-      font-weight: 600;
-      line-height: 1.4;
-      flex: 1;
-    }
-
-    .badge {
-      flex-shrink: 0;
+    .toolbar-label {
       font-size: 0.68rem;
       font-weight: 700;
-      border-radius: 6px;
-      padding: 0.2rem 0.5rem;
+      letter-spacing: 0.1em;
+      color: var(--muted);
+      text-transform: uppercase;
       white-space: nowrap;
     }
 
-    .badge.urgent { background: var(--accent); color: #fff; }
-    .badge.warn    { background: var(--warn);   color: #fff; }
-    .badge.ok      { background: var(--ok);     color: #fff; }
+    .chip-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+    }
 
-    .card-bottom {
+    .chip {
+      display: inline-block;
+      background: var(--chip-bg);
+      border: 1px solid transparent;
+      border-radius: 3px;
+      padding: 0.25rem 0.65rem;
+      font-family: inherit;
+      font-size: 0.75rem;
+      color: var(--muted);
+      cursor: pointer;
+      transition: all 0.12s;
+      white-space: nowrap;
+    }
+    .chip:hover { background: #ddd8cc; color: var(--ink); }
+    .chip.active {
+      background: var(--ink);
+      color: var(--paper);
+      border-color: var(--ink);
+    }
+
+    .divider {
+      width: 1px;
+      height: 1.2rem;
+      background: var(--rule);
+      flex-shrink: 0;
+    }
+
+    .sort-select {
+      background: var(--chip-bg);
+      border: 1px solid transparent;
+      border-radius: 3px;
+      padding: 0.25rem 0.6rem;
+      font-family: inherit;
+      font-size: 0.75rem;
+      color: var(--ink);
+      cursor: pointer;
+      appearance: none;
+      -webkit-appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%237a7060'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 0.5rem center;
+      padding-right: 1.5rem;
+    }
+    .sort-select:focus { outline: none; border-color: var(--ink); }
+
+    /* ─── SUMMARY BAR ─── */
+    .summary-bar {
+      padding: 0.55rem 1rem;
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      font-size: 0.72rem;
+      color: var(--muted);
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .sum-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.2rem;
+    }
+    .sum-pill strong { color: var(--ink); font-weight: 700; }
+    .sum-pill.danger strong { color: var(--red); }
+
+    /* ─── CARDS ─── */
+    .container {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 0.9rem 0.8rem 3rem;
+    }
+
+    .card {
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-left-width: 4px;
+      border-radius: 6px;
+      margin-bottom: 0.6rem;
+      padding: 0.85rem 0.95rem 0.75rem;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      grid-template-rows: auto auto;
+      gap: 0.35rem 0.6rem;
+      animation: fadeUp 0.25s ease both;
+    }
+
+    .card.urgent { border-left-color: var(--red);   background: var(--red-bg); }
+    .card.warn   { border-left-color: var(--amber);  background: var(--amber-bg); }
+    .card.ok     { border-left-color: var(--green); }
+
+    .card-title {
+      font-size: 0.88rem;
+      font-weight: 700;
+      line-height: 1.45;
+      grid-column: 1;
+      grid-row: 1;
+    }
+
+    .card-badge {
+      grid-column: 2;
+      grid-row: 1;
+      align-self: start;
+      font-family: 'DM Mono', monospace;
+      font-size: 0.68rem;
+      font-weight: 500;
+      border-radius: 3px;
+      padding: 0.2rem 0.45rem;
+      white-space: nowrap;
+    }
+    .card-badge.urgent { background: var(--red);   color: #fff; }
+    .card-badge.warn   { background: var(--amber);  color: #fff; }
+    .card-badge.ok     { background: var(--green); color: #fff; }
+
+    .card-footer {
+      grid-column: 1 / -1;
+      grid-row: 2;
       display: flex;
       justify-content: space-between;
       align-items: center;
-      font-size: 0.78rem;
     }
 
     .member-tag {
-      background: #eee;
+      background: var(--chip-bg);
+      border-radius: 2px;
+      padding: 0.1rem 0.45rem;
+      font-size: 0.7rem;
       color: var(--muted);
-      border-radius: 4px;
-      padding: 0.1rem 0.5rem;
-      font-size: 0.72rem;
     }
 
-    .due {
-      font-weight: 600;
-      font-size: 0.82rem;
+    .card-due {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.76rem;
+      font-weight: 500;
     }
+    .card-due.urgent { color: var(--red); }
+    .card-due.warn   { color: var(--amber); }
+    .card-due.ok     { color: var(--green); }
 
-    .due.urgent { color: var(--accent); }
-    .due.warn   { color: var(--warn); }
-    .due.ok     { color: var(--ok); }
-
-    .loading {
+    /* ─── STATES ─── */
+    .state-box {
       text-align: center;
-      padding: 3rem 1rem;
+      padding: 3.5rem 1rem;
       color: var(--muted);
-      font-size: 0.9rem;
     }
+    .state-box .icon { font-size: 2rem; margin-bottom: 0.5rem; }
+    .state-box p { font-size: 0.88rem; }
+    .state-box small { font-size: 0.75rem; display: block; margin-top: 0.3rem; color: #aaa; }
 
-    .loading .spinner {
-      width: 36px;
-      height: 36px;
-      border: 3px solid var(--border);
-      border-top-color: var(--text);
+    .spinner-ring {
+      width: 32px; height: 32px;
+      border: 3px solid var(--rule);
+      border-top-color: var(--ink);
       border-radius: 50%;
-      animation: spin 0.8s linear infinite;
-      margin: 0 auto 1rem;
+      animation: spin 0.7s linear infinite;
+      margin: 0 auto 0.8rem;
     }
 
-    .error {
-      background: var(--accent-light);
-      border: 1px solid var(--accent);
-      border-radius: 10px;
-      padding: 1rem;
-      font-size: 0.85rem;
-      color: var(--accent);
+    .no-results {
       text-align: center;
-      margin-top: 1rem;
-    }
-
-    .empty {
-      text-align: center;
-      padding: 3rem 1rem;
+      padding: 2.5rem 1rem;
       color: var(--muted);
-      font-size: 0.9rem;
+      font-size: 0.85rem;
     }
 
-    @keyframes spin   { to { transform: rotate(360deg); } }
-    @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @keyframes spin    { to { transform: rotate(360deg); } }
+    @keyframes fadeUp  { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; } }
   </style>
 </head>
 <body>
 
-<header>
-  <h1>📚 図書館 返却リスト</h1>
-  <p id="last-updated">読み込み中...</p>
-  <button class="refresh-btn" id="refresh-btn" onclick="loadLoans()">↺ 更新</button>
+<header class="site-header">
+  <div class="header-top">
+    <span class="site-title">📚 図書館 返却リスト</span>
+  </div>
+  <div class="header-meta" id="last-updated">読み込み中...</div>
+  <button class="refresh-btn" id="refresh-btn" onclick="loadLoans()">
+    <svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.8">
+      <path d="M10.5 6A4.5 4.5 0 1 1 8.3 2.2" stroke-linecap="round"/>
+      <polyline points="8,1 8.3,2.2 7,3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    更新
+  </button>
 </header>
 
+<!-- ツールバー（フィルター・ソート） -->
+<div class="toolbar" id="toolbar" style="display:none">
+  <span class="toolbar-label">家族</span>
+  <div class="chip-group" id="member-filters"></div>
+
+  <div class="divider"></div>
+
+  <span class="toolbar-label">並び替え</span>
+  <select class="sort-select" id="sort-select" onchange="applyFilters()">
+    <option value="due_asc">期限 近い順</option>
+    <option value="due_desc">期限 遠い順</option>
+    <option value="title_asc">タイトル A→Z</option>
+    <option value="title_desc">タイトル Z→A</option>
+    <option value="member">家族別</option>
+  </select>
+</div>
+
+<!-- サマリー -->
+<div class="summary-bar" id="summary-bar" style="display:none"></div>
+
+<!-- カードリスト -->
 <div class="container">
-  <div class="summary" id="summary"></div>
   <div id="list-container">
-    <div class="loading">
-      <div class="spinner"></div>
+    <div class="state-box">
+      <div class="spinner-ring"></div>
       <p>貸出情報を取得中...</p>
     </div>
   </div>
 </div>
 
 <script>
-  function getDaysLeft(dueDateStr) {
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
-    const due = new Date(dueDateStr.replace(/\//g, '-'));
-    return Math.ceil((due - today) / (1000 * 60 * 60 * 24));
-  }
+  let allLoans = [];
+  let activeMembers = new Set(); // 空 = すべて表示
 
-  function getStatus(days) {
-    if (days <= 3)  return 'urgent';
-    if (days <= 7)  return 'warn';
-    return 'ok';
+  // ── 日付ユーティリティ ──────────────────────────────────
+  function daysLeft(dueDateStr) {
+    const today = new Date(); today.setHours(0,0,0,0);
+    const due   = new Date(dueDateStr.replace(/\//g, '-'));
+    return Math.ceil((due - today) / 864e5);
   }
-
-  function getBadgeLabel(days) {
+  function status(days) {
+    return days <= 3 ? 'urgent' : days <= 7 ? 'warn' : 'ok';
+  }
+  function badgeLabel(days) {
     if (days < 0)  return `${Math.abs(days)}日超過`;
     if (days === 0) return '本日期限';
     if (days === 1) return '明日期限';
     return `あと${days}日`;
   }
+  function esc(s) {
+    return String(s)
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+      .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
 
+  // ── データ取得 ─────────────────────────────────────────
   async function loadLoans() {
     const btn = document.getElementById('refresh-btn');
     btn.disabled = true;
-    document.getElementById('list-container').innerHTML = `
-      <div class="loading"><div class="spinner"></div><p>貸出情報を取得中...</p></div>`;
-    document.getElementById('summary').innerHTML = '';
+    btn.classList.add('spinning');
+    document.getElementById('list-container').innerHTML =
+      `<div class="state-box"><div class="spinner-ring"></div><p>貸出情報を取得中...</p></div>`;
+    document.getElementById('toolbar').style.display = 'none';
+    document.getElementById('summary-bar').style.display = 'none';
 
     try {
-      const res = await fetch('/api/loans');
+      const res  = await fetch('loans.json');
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
-      renderLoans(data.loans);
+      allLoans = data.loans ?? data; // 配列直接 or {loans:[...]}
+      buildMemberChips();
+      applyFilters();
 
-      const now = new Date();
-      document.getElementById('last-updated').textContent =
-        `更新: ${now.getMonth()+1}/${now.getDate()} ${now.getHours()}:${String(now.getMinutes()).padStart(2,'0')}`;
+      document.getElementById('toolbar').style.display = '';
+      document.getElementById('summary-bar').style.display = '';
+
+      const updated = data.updated_at
+        ? new Date(data.updated_at).toLocaleString('ja-JP', {month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'})
+        : new Date().toLocaleString('ja-JP', {month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'});
+      document.getElementById('last-updated').textContent = `最終更新: ${updated}`;
     } catch (e) {
       document.getElementById('list-container').innerHTML =
-        `<div class="error">⚠️ 取得に失敗しました<br><small>${e.message}</small></div>`;
+        `<div class="state-box"><div class="icon">⚠️</div><p>取得に失敗しました</p><small>${esc(e.message)}</small></div>`;
     } finally {
       btn.disabled = false;
+      btn.classList.remove('spinning');
     }
   }
 
-  function renderLoans(loans) {
-    const container = document.getElementById('list-container');
-    const summary   = document.getElementById('summary');
+  // ── メンバーチップ生成 ──────────────────────────────────
+  function buildMemberChips() {
+    const members = [...new Set(allLoans.map(l => l.member))].sort();
+    const wrap    = document.getElementById('member-filters');
+    wrap.innerHTML = `<button class="chip active" data-member="all" onclick="toggleMember('all', this)">全員</button>`;
+    members.forEach(m => {
+      wrap.innerHTML += `<button class="chip" data-member="${esc(m)}" onclick="toggleMember('${esc(m)}', this)">${esc(m)}</button>`;
+    });
+  }
 
-    if (!loans || loans.length === 0) {
-      container.innerHTML = '<div class="empty">📭 現在借りている本はありません</div>';
+  function toggleMember(name, el) {
+    const allChip = document.querySelector('.chip[data-member="all"]');
+    if (name === 'all') {
+      activeMembers.clear();
+      document.querySelectorAll('.chip[data-member]').forEach(c => c.classList.remove('active'));
+      allChip.classList.add('active');
+    } else {
+      allChip.classList.remove('active');
+      if (el.classList.toggle('active')) {
+        activeMembers.add(name);
+      } else {
+        activeMembers.delete(name);
+      }
+      if (activeMembers.size === 0) {
+        allChip.classList.add('active');
+      }
+    }
+    applyFilters();
+  }
+
+  // ── フィルター＆ソート適用 ───────────────────────────────
+  function applyFilters() {
+    let loans = activeMembers.size === 0
+      ? [...allLoans]
+      : allLoans.filter(l => activeMembers.has(l.member));
+
+    const sort = document.getElementById('sort-select').value;
+    loans.sort((a, b) => {
+      if (sort === 'due_asc')   return a.due_date < b.due_date ? -1 : 1;
+      if (sort === 'due_desc')  return a.due_date > b.due_date ? -1 : 1;
+      if (sort === 'title_asc') return a.title.localeCompare(b.title, 'ja');
+      if (sort === 'title_desc')return b.title.localeCompare(a.title, 'ja');
+      if (sort === 'member')    return a.member.localeCompare(b.member, 'ja') || (a.due_date < b.due_date ? -1 : 1);
+      return 0;
+    });
+
+    renderSummary(loans);
+    renderCards(loans);
+  }
+
+  // ── サマリーバー ────────────────────────────────────────
+  function renderSummary(loans) {
+    const bar     = document.getElementById('summary-bar');
+    const urgent  = loans.filter(l => daysLeft(l.due_date) <= 3).length;
+    const members = new Set(loans.map(l => l.member)).size;
+    bar.innerHTML = `
+      <span class="sum-pill"><strong>${loans.length}</strong>冊</span>
+      <span class="sum-pill"><strong>${members}</strong>人</span>
+      ${urgent ? `<span class="sum-pill danger">⚠️ 期限間近 <strong>${urgent}</strong>冊</span>` : ''}
+    `;
+  }
+
+  // ── カードレンダリング ────────────────────────────────────
+  function renderCards(loans) {
+    const container = document.getElementById('list-container');
+    if (!loans.length) {
+      container.innerHTML = '<div class="no-results">📭 該当する本がありません</div>';
       return;
     }
-
-    // サマリー
-    const members = [...new Set(loans.map(l => l.member))];
-    const urgentCount = loans.filter(l => getDaysLeft(l.due_date) <= 3).length;
-    summary.innerHTML = `
-      <div class="summary-chip">全 <strong>${loans.length}</strong> 冊</div>
-      <div class="summary-chip">家族 <strong>${members.length}</strong> 人</div>
-      ${urgentCount > 0 ? `<div class="summary-chip" style="color:#c0392b;border-color:#c0392b;">⚠️ 期限間近 <strong>${urgentCount}</strong> 冊</div>` : ''}
-    `;
-
-    // カード一覧（返却期限順、すでにAPIでソート済み）
     container.innerHTML = loans.map((loan, i) => {
-      const days   = getDaysLeft(loan.due_date);
-      const status = getStatus(days);
-      const label  = getBadgeLabel(days);
+      const days  = daysLeft(loan.due_date);
+      const st    = status(days);
+      const label = badgeLabel(days);
       return `
-        <div class="card ${status}" style="animation-delay:${i * 0.04}s">
-          <div class="card-top">
-            <div class="title">${escHtml(loan.title)}</div>
-            <span class="badge ${status}">${label}</span>
-          </div>
-          <div class="card-bottom">
-            <span class="member-tag">${escHtml(loan.member)}</span>
-            <span class="due ${status}">${loan.due_date} まで</span>
+        <div class="card ${st}" style="animation-delay:${Math.min(i*0.035, 0.5)}s">
+          <div class="card-title">${esc(loan.title)}</div>
+          <span class="card-badge ${st}">${label}</span>
+          <div class="card-footer">
+            <span class="member-tag">${esc(loan.member)}</span>
+            <span class="card-due ${st}">${esc(loan.due_date)}</span>
           </div>
         </div>`;
     }).join('');
-  }
-
-  function escHtml(s) {
-    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
   }
 
   loadLoans();

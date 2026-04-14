@@ -1,0 +1,56 @@
+name: 図書館 返却リスト 日次更新
+
+on:
+  schedule:
+    # 毎朝 7:00 JST（= UTC 22:00 前日）に実行
+    - cron: '0 22 * * *'
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # gh-pagesブランチへのpushに必要
+
+    steps:
+      # ── 1. リポジトリをチェックアウト ──────────────────────
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # ── 2. Python セットアップ ─────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # ── 3. 依存ライブラリをインストール ────────────────────
+      - name: Install dependencies
+        run: |
+          pip install playwright beautifulsoup4
+          playwright install chromium --with-deps
+
+      # ── 4. config.json をシークレットから復元 ──────────────
+      #   GitHub リポジトリ Settings → Secrets and variables → Actions で
+      #   「LIBRARY_CONFIG」という名前でconfig.jsonの中身をまるごと登録してください。
+      - name: Restore config.json
+        run: echo '${{ secrets.LIBRARY_CONFIG }}' > config.json
+
+      # ── 5. スクレイピング実行 → loans.json 生成 ────────────
+      - name: Run scraper
+        run: python export_loans.py
+
+      # ── 6. gh-pages ブランチにデプロイ ────────────────────
+      #   index.html と loans.json を gh-pages ブランチに配置する。
+      #   peaceiris/actions-gh-pages は publish_dir 以下を丸ごとデプロイする。
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./    # リポジトリルートをそのまま公開
+          publish_branch: gh-pages
+          # デプロイ対象ファイルを明示（不要なファイルを除外）
+          exclude_assets: '.github,scraper.py,app.py,export_loans.py,config.json,README.md'
+          # デプロイコミットメッセージ
+          commit_message: "🤖 loans.json 更新 (${{ github.run_id }})"
+          # 毎回クリーンデプロイしない（loans.jsonのみ上書き）
+          keep_files: true
