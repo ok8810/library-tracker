@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>図書館 返却リスト</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f5f0e8;
+      --card: #fffdf7;
+      --accent: #c0392b;
+      --accent-light: #f9e8e6;
+      --warn: #e67e22;
+      --warn-light: #fef3e2;
+      --ok: #27ae60;
+      --ok-light: #e8f8ee;
+      --text: #2c2c2c;
+      --muted: #888;
+      --border: #e0d8cc;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      font-family: 'Noto Sans JP', sans-serif;
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    header {
+      background: var(--text);
+      color: #fff;
+      padding: 1.2rem 1rem 1rem;
+      text-align: center;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    }
+
+    header h1 {
+      font-size: 1.15rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+    }
+
+    header p {
+      font-size: 0.72rem;
+      color: #aaa;
+      margin-top: 0.2rem;
+    }
+
+    .refresh-btn {
+      margin-top: 0.6rem;
+      background: none;
+      border: 1px solid #555;
+      color: #ccc;
+      border-radius: 20px;
+      padding: 0.3rem 1rem;
+      font-size: 0.75rem;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .refresh-btn:hover { background: #333; color: #fff; }
+    .refresh-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 1rem 0.8rem 2rem;
+    }
+
+    .summary {
+      display: flex;
+      gap: 0.6rem;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .summary-chip {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 0.3rem 0.8rem;
+      font-size: 0.75rem;
+      color: var(--muted);
+    }
+
+    .summary-chip strong {
+      color: var(--text);
+      font-weight: 700;
+    }
+
+    .card {
+      background: var(--card);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      margin-bottom: 0.7rem;
+      padding: 0.9rem 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      animation: fadeIn 0.3s ease both;
+    }
+
+    .card.urgent {
+      border-left: 4px solid var(--accent);
+      background: var(--accent-light);
+    }
+
+    .card.warn {
+      border-left: 4px solid var(--warn);
+      background: var(--warn-light);
+    }
+
+    .card.ok {
+      border-left: 4px solid var(--ok);
+    }
+
+    .card-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+
+    .title {
+      font-size: 0.9rem;
+      font-weight: 600;
+      line-height: 1.4;
+      flex: 1;
+    }
+
+    .badge {
+      flex-shrink: 0;
+      font-size: 0.68rem;
+      font-weight: 700;
+      border-radius: 6px;
+      padding: 0.2rem 0.5rem;
+      white-space: nowrap;
+    }
+
+    .badge.urgent { background: var(--accent); color: #fff; }
+    .badge.warn    { background: var(--warn);   color: #fff; }
+    .badge.ok      { background: var(--ok);     color: #fff; }
+
+    .card-bottom {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.78rem;
+    }
+
+    .member-tag {
+      background: #eee;
+      color: var(--muted);
+      border-radius: 4px;
+      padding: 0.1rem 0.5rem;
+      font-size: 0.72rem;
+    }
+
+    .due {
+      font-weight: 600;
+      font-size: 0.82rem;
+    }
+
+    .due.urgent { color: var(--accent); }
+    .due.warn   { color: var(--warn); }
+    .due.ok     { color: var(--ok); }
+
+    .loading {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .loading .spinner {
+      width: 36px;
+      height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--text);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 1rem;
+    }
+
+    .error {
+      background: var(--accent-light);
+      border: 1px solid var(--accent);
+      border-radius: 10px;
+      padding: 1rem;
+      font-size: 0.85rem;
+      color: var(--accent);
+      text-align: center;
+      margin-top: 1rem;
+    }
+
+    .empty {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    @keyframes spin   { to { transform: rotate(360deg); } }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>📚 図書館 返却リスト</h1>
+  <p id="last-updated">読み込み中...</p>
+  <button class="refresh-btn" id="refresh-btn" onclick="loadLoans()">↺ 更新</button>
+</header>
+
+<div class="container">
+  <div class="summary" id="summary"></div>
+  <div id="list-container">
+    <div class="loading">
+      <div class="spinner"></div>
+      <p>貸出情報を取得中...</p>
+    </div>
+  </div>
+</div>
+
+<script>
+  function getDaysLeft(dueDateStr) {
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    const due = new Date(dueDateStr.replace(/\//g, '-'));
+    return Math.ceil((due - today) / (1000 * 60 * 60 * 24));
+  }
+
+  function getStatus(days) {
+    if (days <= 3)  return 'urgent';
+    if (days <= 7)  return 'warn';
+    return 'ok';
+  }
+
+  function getBadgeLabel(days) {
+    if (days < 0)  return `${Math.abs(days)}日超過`;
+    if (days === 0) return '本日期限';
+    if (days === 1) return '明日期限';
+    return `あと${days}日`;
+  }
+
+  async function loadLoans() {
+    const btn = document.getElementById('refresh-btn');
+    btn.disabled = true;
+    document.getElementById('list-container').innerHTML = `
+      <div class="loading"><div class="spinner"></div><p>貸出情報を取得中...</p></div>`;
+    document.getElementById('summary').innerHTML = '';
+
+    try {
+      const res = await fetch('/api/loans');
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      renderLoans(data.loans);
+
+      const now = new Date();
+      document.getElementById('last-updated').textContent =
+        `更新: ${now.getMonth()+1}/${now.getDate()} ${now.getHours()}:${String(now.getMinutes()).padStart(2,'0')}`;
+    } catch (e) {
+      document.getElementById('list-container').innerHTML =
+        `<div class="error">⚠️ 取得に失敗しました<br><small>${e.message}</small></div>`;
+    } finally {
+      btn.disabled = false;
+    }
+  }
+
+  function renderLoans(loans) {
+    const container = document.getElementById('list-container');
+    const summary   = document.getElementById('summary');
+
+    if (!loans || loans.length === 0) {
+      container.innerHTML = '<div class="empty">📭 現在借りている本はありません</div>';
+      return;
+    }
+
+    // サマリー
+    const members = [...new Set(loans.map(l => l.member))];
+    const urgentCount = loans.filter(l => getDaysLeft(l.due_date) <= 3).length;
+    summary.innerHTML = `
+      <div class="summary-chip">全 <strong>${loans.length}</strong> 冊</div>
+      <div class="summary-chip">家族 <strong>${members.length}</strong> 人</div>
+      ${urgentCount > 0 ? `<div class="summary-chip" style="color:#c0392b;border-color:#c0392b;">⚠️ 期限間近 <strong>${urgentCount}</strong> 冊</div>` : ''}
+    `;
+
+    // カード一覧（返却期限順、すでにAPIでソート済み）
+    container.innerHTML = loans.map((loan, i) => {
+      const days   = getDaysLeft(loan.due_date);
+      const status = getStatus(days);
+      const label  = getBadgeLabel(days);
+      return `
+        <div class="card ${status}" style="animation-delay:${i * 0.04}s">
+          <div class="card-top">
+            <div class="title">${escHtml(loan.title)}</div>
+            <span class="badge ${status}">${label}</span>
+          </div>
+          <div class="card-bottom">
+            <span class="member-tag">${escHtml(loan.member)}</span>
+            <span class="due ${status}">${loan.due_date} まで</span>
+          </div>
+        </div>`;
+    }).join('');
+  }
+
+  function escHtml(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  loadLoans();
+</script>
+</body>
+</html>
