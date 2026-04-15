@@ -19,7 +19,7 @@ def get_loans(member: dict, page) -> list[dict]:
     """1人分の貸出情報を取得する"""
     loans = []
     current_page = 1
-    max_pages = 5
+    max_pages = 2
 
     while current_page <= max_pages:
         url = (f"{BASE_URL}/OPWUSERINFO.CSP?DB=LIB&MODE=1"
@@ -107,6 +107,10 @@ def get_reservations(member: dict, page) -> list[dict]:
                     title = f"{title} {extra}"
 
         pickup_deadline = tds[6].get_text(strip=True)  # 取り置き期限（空欄あり）
+
+        # td[0] が数字（予約番号）の行だけを対象にする
+        if not tds[0].get_text(strip=True).isdigit():
+            continue
 
         if not title or not status:
             continue
