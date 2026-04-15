@@ -42,12 +42,9 @@ def get_loans(member: dict, page) -> list[dict]:
             if not title_tag:
                 continue
 
-            title = title_tag.get_text(strip=True)
-            next_text = title_tag.next_sibling
-            if next_text and isinstance(next_text, str):
-                extra = next_text.strip().split('[')[0].strip()
-                if extra:
-                    title = f"{title} {extra}"
+            # セル内の全テキストノードを結合してタイトルを取得する
+            # （<a>の外にサブタイトルが複数ノードで分散していても全量取得できる）
+            title = " ".join(tds[1].get_text(" ", strip=True).split())
 
             due_text = tds[4].get_text(strip=True)
             try:
