@@ -326,14 +326,15 @@
   // ── 日付ユーティリティ ──────────────────────────────────
   function daysLeft(dueDateStr) {
     const today = new Date(); today.setHours(0,0,0,0);
-    const due   = new Date(dueDateStr.replace(/\//g, '-'));
-    return Math.ceil((due - today) / 864e5);
+    const due   = new Date(dueDateStr.replace(/\//g, '-')); // 当日0時
+    // due < today なら超過（負の値）、due === today なら0（本日期限）
+    return Math.floor((due - today) / 864e5);
   }
   function status(days) {
     return days <= 3 ? 'urgent' : days <= 7 ? 'warn' : 'ok';
   }
   function badgeLabel(days) {
-    if (days < 0)  return `${Math.abs(days)}日超過`;
+    if (days < 0)   return `${Math.abs(days)}日超過`;
     if (days === 0) return '本日期限';
     if (days === 1) return '明日期限';
     return `あと${days}日`;
