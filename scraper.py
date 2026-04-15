@@ -79,76 +79,47 @@ def get_loans(member: dict, page) -> list[dict]:
 
 
 def get_reservations(member: dict, page) -> list[dict]:
-    """1人分の予約情報を取得する"""
+    """1人分の予約情報を取得する（予約は常に1ページに収まるためページ遷移なし）"""
     reservations = []
-    current_page = 1
-    max_pages = 5
 
-    # ステータスの優先度（表示順ソート用）
-    STATUS_ORDER = {
-        "準備できました": 0,
-        "移送中":        1,
-    }
+    url = f"{BASE_URL}/OPWUSERINFO.CSP?DB=LIB&MODE=1&active=rsv&PAGE=1"
+    page.goto(url)
+    page.wait_for_load_state("networkidle")
 
-    while current_page <= max_pages:
-        url = (f"{BASE_URL}/OPWUSERINFO.CSP?DB=LIB&MODE=1"
-               f"&active=rsv&PAGE={current_page}")
-        page.goto(url)
-        page.wait_for_load_state("networkidle")
+    soup = BeautifulSoup(page.content(), "html.parser")
+    rows = soup.find_all("tr", class_=["lightcolor", "basecolor"])
 
-        soup = BeautifulSoup(page.content(), "html.parser")
-        rows = soup.find_all("tr", class_=["lightcolor", "basecolor"])
-        if not rows:
-            break
+    for row in rows:
+        tds = row.find_all("td")
+        if len(tds) != 10:
+            continue
 
-        found = 0
-        seen = set()
-        for row in rows:
-            tds = row.find_all("td")
-            if len(tds) != 10:
-                continue
+        status    = tds[1].get_text(strip=True)
+        title_tag = tds[3].find("a")
+        title     = title_tag.get_text(strip=True) if title_tag else tds[3].get_text(strip=True)
 
-            status    = tds[1].get_text(strip=True)
-            title_tag = tds[3].find("a")
-            title     = title_tag.get_text(strip=True) if title_tag else tds[3].get_text(strip=True)
+        # タイトル後のサブタイトル補完
+        if title_tag:
+            next_text = title_tag.next_sibling
+            if next_text and isinstance(next_text, str):
+                extra = next_text.strip().split('[')[0].strip()
+                if extra:
+                    title = f"{title} {extra}"
 
-            # タイトル後のサブタイトル補完
-            if title_tag:
-                next_text = title_tag.next_sibling
-                if next_text and isinstance(next_text, str):
-                    extra = next_text.strip().split('[')[0].strip()
-                    if extra:
-                        title = f"{title} {extra}"
+        pickup_deadline = tds[6].get_text(strip=True)  # 取り置き期限（空欄あり）
 
-            pickup_deadline = tds[6].get_text(strip=True)  # 取り置き期限（空欄あり）
+        if not title or not status:
+            continue
 
-            if not title or not status:
-                continue
+        reservations.append({
+            "member":          member["name"],
+            "title":           title,
+            "status":          status,
+            "pickup_deadline": pickup_deadline,
+            "sort_order":      {"準備できました": 0, "移送中": 1}.get(status, 99),
+        })
 
-            key = f"{title}_{status}"
-            if key in seen:
-                continue
-            seen.add(key)
-
-            # ソート用の優先度
-            sort_order = STATUS_ORDER.get(status, 99)
-
-            reservations.append({
-                "member":          member["name"],
-                "title":           title,
-                "status":          status,
-                "pickup_deadline": pickup_deadline,
-                "sort_order":      sort_order,
-            })
-            found += 1
-
-        print(f"  [予約] {member['name']} {current_page}ページ目: {found}件")
-
-        next_link = soup.find("a", href=lambda h: h and f"PAGE={current_page + 1}" in h)
-        if not next_link:
-            break
-        current_page += 1
-
+    print(f"  [予約] {member['name']}: {len(reservations)}件")
     return reservations
 
 
