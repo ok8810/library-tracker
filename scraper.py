@@ -1,31 +1,25 @@
 import json
 from datetime import datetime
 from playwright.sync_api import sync_playwright
-from bs4 import NavigableString
+from bs4 import BeautifulSoup, NavigableString
 
-BASE_URL = "https://webopac.city.minoh.osaka.jp/opw/OPW"
+BASE_URL  = "https://webopac.city.minoh.osaka.jp/opw/OPW"
 LOGIN_URL = f"{BASE_URL}/OPWUSERCONF.CSP?DB=LIB&MODE=1&PREPID=OPWMAIN&NEXTPID=OPWMAIN&HEADFLG=1"
-LEND_URL  = f"{BASE_URL}/OPWUSERINFO.CSP?DB=LIB&PID=OPWUSERINFO&MODE=1&active=lend&SORTTYPE=1&LENDSORTTYPE=2"
 
-def login_and_get_loans(member: dict, page) -> list[dict]:
-    """1人分のアカウントでログインして貸出情報を取得する"""
-    from bs4 import BeautifulSoup
-
-    # ログインページを開く
+def _login(member: dict, page):
+    """ログイン処理"""
     page.goto(LOGIN_URL)
     page.wait_for_load_state("networkidle")
-
-    # 利用者番号と暗証番号を入力
     page.locator("input[name='usercardno']").fill(member["user_id"])
     page.locator("input[name='userpasswd']").fill(member["password"])
-
-    # ログインボタンをクリック
     page.locator("input[type='submit'], button[type='submit']").first.click()
     page.wait_for_load_state("networkidle")
 
+def get_loans(member: dict, page) -> list[dict]:
+    """1人分の貸出情報を取得する"""
     loans = []
     current_page = 1
-    max_pages = 2  # 無限ループ防止
+    max_pages = 5
 
     while current_page <= max_pages:
         url = (f"{BASE_URL}/OPWUSERINFO.CSP?DB=LIB&MODE=1"
@@ -39,7 +33,7 @@ def login_and_get_loans(member: dict, page) -> list[dict]:
             break
 
         found = 0
-        seen_titles = set()  # このページ内の重複タイトルを除外
+        seen = set()
         for row in rows:
             tds = row.find_all("td")
             if len(tds) != 7:
@@ -61,58 +55,153 @@ def login_and_get_loans(member: dict, page) -> list[dict]:
             except ValueError:
                 continue
 
-            # タイトル＋期限の組み合わせで重複チェック
             key = f"{title}_{due_text}"
-            if key in seen_titles:
+            if key in seen:
                 continue
-            seen_titles.add(key)
+            seen.add(key)
 
             loans.append({
-                "member": member["name"],
-                "title": title,
-                "due_date": due_text,
+                "member":       member["name"],
+                "title":        title,
+                "due_date":     due_text,
                 "due_date_obj": due_date,
             })
             found += 1
 
-        print(f"  {member['name']} {current_page}ページ目: {found}件")
+        print(f"  [貸出] {member['name']} {current_page}ページ目: {found}件")
 
-        # 次ページリンク確認
         next_link = soup.find("a", href=lambda h: h and f"PAGE={current_page + 1}" in h)
         if not next_link:
             break
-
         current_page += 1
 
     return loans
 
-def fetch_all_loans(config_path: str = "config.json") -> list[dict]:
+
+def get_reservations(member: dict, page) -> list[dict]:
+    """1人分の予約情報を取得する"""
+    reservations = []
+    current_page = 1
+    max_pages = 5
+
+    # ステータスの優先度（表示順ソート用）
+    STATUS_ORDER = {
+        "準備できました": 0,
+        "移送中":        1,
+    }
+
+    while current_page <= max_pages:
+        url = (f"{BASE_URL}/OPWUSERINFO.CSP?DB=LIB&MODE=1"
+               f"&active=rsv&PAGE={current_page}")
+        page.goto(url)
+        page.wait_for_load_state("networkidle")
+
+        soup = BeautifulSoup(page.content(), "html.parser")
+        rows = soup.find_all("tr", class_=["lightcolor", "basecolor"])
+        if not rows:
+            break
+
+        found = 0
+        seen = set()
+        for row in rows:
+            tds = row.find_all("td")
+            if len(tds) != 10:
+                continue
+
+            status    = tds[1].get_text(strip=True)
+            title_tag = tds[3].find("a")
+            title     = title_tag.get_text(strip=True) if title_tag else tds[3].get_text(strip=True)
+
+            # タイトル後のサブタイトル補完
+            if title_tag:
+                next_text = title_tag.next_sibling
+                if next_text and isinstance(next_text, str):
+                    extra = next_text.strip().split('[')[0].strip()
+                    if extra:
+                        title = f"{title} {extra}"
+
+            pickup_deadline = tds[6].get_text(strip=True)  # 取り置き期限（空欄あり）
+
+            if not title or not status:
+                continue
+
+            key = f"{title}_{status}"
+            if key in seen:
+                continue
+            seen.add(key)
+
+            # ソート用の優先度
+            sort_order = STATUS_ORDER.get(status, 99)
+
+            reservations.append({
+                "member":          member["name"],
+                "title":           title,
+                "status":          status,
+                "pickup_deadline": pickup_deadline,
+                "sort_order":      sort_order,
+            })
+            found += 1
+
+        print(f"  [予約] {member['name']} {current_page}ページ目: {found}件")
+
+        next_link = soup.find("a", href=lambda h: h and f"PAGE={current_page + 1}" in h)
+        if not next_link:
+            break
+        current_page += 1
+
+    return reservations
+
+
+def fetch_all(config_path: str = "config.json") -> dict:
     with open(config_path, encoding="utf-8") as f:
         config = json.load(f)
 
-    all_loans = []
+    all_loans        = []
+    all_reservations = []
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         for member in config["members"]:
             page = browser.new_page()
             try:
-                loans = login_and_get_loans(member, page)
+                _login(member, page)
+                loans = get_loans(member, page)
                 all_loans.extend(loans)
-                print(f"✅ {member['name']}: {len(loans)}件取得")
+
+                reservations = get_reservations(member, page)
+                all_reservations.extend(reservations)
+
+                print(f"✅ {member['name']}: 貸出{len(loans)}件 / 予約{len(reservations)}件")
             except Exception as e:
                 print(f"❌ {member['name']}: エラー - {e}")
             finally:
                 page.close()
         browser.close()
 
+    # 貸出：返却期限順
     all_loans.sort(key=lambda x: x["due_date_obj"])
     for loan in all_loans:
         del loan["due_date_obj"]
 
-    return all_loans
+    # 予約：ステータス優先度順 → 取り置き期限順（空欄は末尾）
+    all_reservations.sort(key=lambda x: (
+        x["sort_order"],
+        x["pickup_deadline"] if x["pickup_deadline"] else "9999"
+    ))
+    for rsv in all_reservations:
+        del rsv["sort_order"]
+
+    return {
+        "loans":        all_loans,
+        "reservations": all_reservations,
+    }
+
+
+# 後方互換：scraper単体実行・旧export_loans.pyからの呼び出し用
+def fetch_all_loans(config_path: str = "config.json") -> list[dict]:
+    return fetch_all(config_path)["loans"]
 
 
 if __name__ == "__main__":
-    loans = fetch_all_loans()
-    print(json.dumps(loans, ensure_ascii=False, indent=2))
+    result = fetch_all()
+    print(json.dumps(result, ensure_ascii=False, indent=2))
