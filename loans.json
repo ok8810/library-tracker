@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T22:38:09.143729+00:00",
+  "updated_at": "2026-04-16T22:36:12.948437+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -268,12 +268,6 @@
     }
   ],
   "reservations": [
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ20",
-      "status": "準備できました",
-      "pickup_deadline": "2026/04/11"
-    },
     {
       "member": "ママ",
       "title": "コウノドリ 31",
