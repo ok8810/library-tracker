@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T04:07:16.227507+00:00",
+  "updated_at": "2026-04-17T22:34:49.237472+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -19,21 +19,6 @@
     {
       "member": "ママ",
       "title": "コウノドリ 32 [モーニングKC]",
-      "due_date": "2026/04/21"
-    },
-    {
-      "member": "はる",
-      "title": "炎炎ノ消防隊 32 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
-      "due_date": "2026/04/21"
-    },
-    {
-      "member": "はる",
-      "title": "炎炎ノ消防隊 33 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
-      "due_date": "2026/04/21"
-    },
-    {
-      "member": "はる",
-      "title": "炎炎ノ消防隊 34 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
       "due_date": "2026/04/21"
     },
     {
@@ -232,6 +217,21 @@
       "due_date": "2026/05/01"
     },
     {
+      "member": "はる",
+      "title": "炎炎ノ消防隊 32 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
+      "due_date": "2026/05/01"
+    },
+    {
+      "member": "はる",
+      "title": "炎炎ノ消防隊 33 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
+      "due_date": "2026/05/01"
+    },
+    {
+      "member": "はる",
+      "title": "炎炎ノ消防隊 34 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
+      "due_date": "2026/05/01"
+    },
+    {
       "member": "ほの",
       "title": "いろいろパンダ",
       "due_date": "2026/05/01"
@@ -267,12 +267,54 @@
       "member": "パパ",
       "title": "本好きの下剋上 第4部",
       "status": "準備できました",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/04/24"
     },
     {
       "member": "パパ",
       "title": "本好きの下剋上 第4部",
       "status": "準備できました",
+      "pickup_deadline": "2026/04/24"
+    },
+    {
+      "member": "ほの",
+      "title": "僕のヒーローアカデミア Vol.31",
+      "status": "移送中",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "僕のヒーローアカデミア Vol.32",
+      "status": "移送中",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "僕のヒーローアカデミア Vol.33",
+      "status": "移送中",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "僕のヒーローアカデミア Vol.34",
+      "status": "移送中",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "僕のヒーローアカデミア Vol.35",
+      "status": "移送中",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "僕のヒーローアカデミア Vol.36",
+      "status": "移送中",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "僕のヒーローアカデミア Vol.37",
+      "status": "移送中",
       "pickup_deadline": ""
     },
     {
@@ -392,48 +434,6 @@
     {
       "member": "ほの",
       "title": "僕のヒーローアカデミア Vol.21",
-      "status": "予約解除可能",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "僕のヒーローアカデミア Vol.31",
-      "status": "予約解除可能",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "僕のヒーローアカデミア Vol.32",
-      "status": "予約解除可能",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "僕のヒーローアカデミア Vol.33",
-      "status": "予約解除可能",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "僕のヒーローアカデミア Vol.34",
-      "status": "予約解除可能",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "僕のヒーローアカデミア Vol.35",
-      "status": "予約解除可能",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "僕のヒーローアカデミア Vol.36",
-      "status": "予約解除可能",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "僕のヒーローアカデミア Vol.37",
       "status": "予約解除可能",
       "pickup_deadline": ""
     }
