@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T07:32:24.630282+00:00",
+  "updated_at": "2026-04-21T22:35:39.248768+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -501,7 +501,31 @@
     },
     {
       "member": "ほの",
+      "title": "僕のヒーローアカデミア Vol.40",
+      "status": "予約解除可能",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
       "title": "僕のヒーローアカデミア Vol.21",
+      "status": "予約解除可能",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "僕のヒーローアカデミア Vol.41",
+      "status": "予約解除可能",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "僕のヒーローアカデミアTHE MOVIEユアネクスト ノベライズ みらい文庫版",
+      "status": "予約解除可能",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "僕のヒーローアカデミア Vol.42",
       "status": "予約解除可能",
       "pickup_deadline": ""
     }
