@@ -1,34 +1,9 @@
 {
-  "updated_at": "2026-04-27T22:46:24.563536+00:00",
+  "updated_at": "2026-04-28T22:53:37.619626+00:00",
   "loans": [
     {
       "member": "はる",
       "title": "炎炎ノ消防隊 25 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
-      "due_date": "2026/04/26"
-    },
-    {
-      "member": "はる",
-      "title": "炎炎ノ消防隊 27 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
-      "due_date": "2026/04/26"
-    },
-    {
-      "member": "はる",
-      "title": "炎炎ノ消防隊 28 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
-      "due_date": "2026/04/26"
-    },
-    {
-      "member": "はる",
-      "title": "炎炎ノ消防隊 29 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
-      "due_date": "2026/04/26"
-    },
-    {
-      "member": "はる",
-      "title": "炎炎ノ消防隊 30 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
-      "due_date": "2026/04/26"
-    },
-    {
-      "member": "はる",
-      "title": "炎炎ノ消防隊 31 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
       "due_date": "2026/04/26"
     },
     {
@@ -89,26 +64,6 @@
     {
       "member": "ママ",
       "title": "あっぷっぷ [あかちゃんあそぼ]",
-      "due_date": "2026/05/01"
-    },
-    {
-      "member": "ママ",
-      "title": "コウノドリ 31 [モーニングKC]",
-      "due_date": "2026/05/01"
-    },
-    {
-      "member": "はる",
-      "title": "炎炎ノ消防隊 32 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
-      "due_date": "2026/05/01"
-    },
-    {
-      "member": "はる",
-      "title": "炎炎ノ消防隊 33 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
-      "due_date": "2026/05/01"
-    },
-    {
-      "member": "はる",
-      "title": "炎炎ノ消防隊 34 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
       "due_date": "2026/05/01"
     },
     {
@@ -212,11 +167,6 @@
       "due_date": "2026/05/05"
     },
     {
-      "member": "ママ",
-      "title": "コウノドリ 32 [モーニングKC]",
-      "due_date": "2026/05/05"
-    },
-    {
       "member": "ほの",
       "title": "僕のヒーローアカデミアTHE MOVIEヒーローズ:ライジング ノベライズ みらい文庫版 [集英社みらい文庫]",
       "due_date": "2026/05/07"
@@ -302,21 +252,6 @@
       "due_date": "2026/05/08"
     },
     {
-      "member": "ママ",
-      "title": "コウノドリ 28 [モーニングKC]",
-      "due_date": "2026/05/08"
-    },
-    {
-      "member": "ママ",
-      "title": "コウノドリ 29 [モーニングKC]",
-      "due_date": "2026/05/08"
-    },
-    {
-      "member": "ママ",
-      "title": "コウノドリ 30 [モーニングKC]",
-      "due_date": "2026/05/08"
-    },
-    {
       "member": "ほの",
       "title": "僕のヒーローアカデミア Vol.40 [ジャンプコミックス] [The End of An Era,And-]",
       "due_date": "2026/05/08"
@@ -330,6 +265,11 @@
       "member": "ほの",
       "title": "僕のヒーローアカデミア Vol.42 [ジャンプコミックス] [私が来た!]",
       "due_date": "2026/05/08"
+    },
+    {
+      "member": "ママ",
+      "title": "ザ・ロイヤルファミリー",
+      "due_date": "2026/05/12"
     },
     {
       "member": "ほの",
@@ -374,12 +314,6 @@
   ],
   "reservations": [
     {
-      "member": "ママ",
-      "title": "ザ・ロイヤルファミリー",
-      "status": "準備できました",
-      "pickup_deadline": "2026/05/01"
-    },
-    {
       "member": "はる",
       "title": "ふたごチャレンジ! 11",
       "status": "準備できました",
@@ -388,8 +322,8 @@
     {
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 5　 雛宮蝶鼠とりかえ伝",
-      "status": "移送中",
-      "pickup_deadline": ""
+      "status": "準備できました",
+      "pickup_deadline": "2026/05/05"
     },
     {
       "member": "パパ",
