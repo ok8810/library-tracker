@@ -92,6 +92,7 @@ def get_reservations(member: dict, page) -> list[dict]:
             continue
 
         status    = tds[1].get_text(strip=True)
+        queue_rank      = tds[2].get_text(strip=True)   # 順位（例："5 / 7"、空欄あり）
         title_tag = tds[3].find("a")
         title     = title_tag.get_text(strip=True) if title_tag else tds[3].get_text(strip=True)
 
@@ -116,6 +117,7 @@ def get_reservations(member: dict, page) -> list[dict]:
             "member":          member["name"],
             "title":           title,
             "status":          status,
+            "queue_rank":      queue_rank,
             "pickup_deadline": pickup_deadline,
             "sort_order":      {"準備できました": 0, "移送中": 1}.get(status, 99),
         })
@@ -149,19 +151,35 @@ def fetch_all(config_path: str = "config.json") -> dict:
             finally:
                 page.close()
         browser.close()
-
-    # 貸出：返却期限順
-    all_loans.sort(key=lambda x: x["due_date_obj"])
+        
+    # 貸出：重複除去（member + title + due_date が同じものを除外）→ 返却期限順
+    seen_loans = set()
+    unique_loans = []
     for loan in all_loans:
+        key = (loan["member"], loan["title"], loan["due_date"])
+        if key not in seen_loans:
+            seen_loans.add(key)
+            unique_loans.append(loan)
+    unique_loans.sort(key=lambda x: x["due_date_obj"])
+    for loan in unique_loans:
         del loan["due_date_obj"]
+    all_loans = unique_loans
 
-    # 予約：ステータス優先度順 → 取り置き期限順（空欄は末尾）
-    all_reservations.sort(key=lambda x: (
+    # 予約：重複除去（member + title + status が同じものを除外）→ ステータス優先度順
+    seen_rsvs = set()
+    unique_rsvs = []
+    for rsv in all_reservations:
+        key = (rsv["member"], rsv["title"], rsv["status"])
+        if key not in seen_rsvs:
+            seen_rsvs.add(key)
+            unique_rsvs.append(rsv)
+    unique_rsvs.sort(key=lambda x: (
         x["sort_order"],
         x["pickup_deadline"] if x["pickup_deadline"] else "9999"
     ))
-    for rsv in all_reservations:
+    for rsv in unique_rsvs:
         del rsv["sort_order"]
+    all_reservations = unique_rsvs
 
     return {
         "loans":        all_loans,
