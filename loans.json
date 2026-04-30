@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-04-30T06:10:16.651586+00:00",
+  "updated_at": "2026-04-30T20:57:21.796159+00:00",
   "loans": [
-    {
-      "member": "パパ",
-      "title": "Git&GitHubのしくみと操作がこれ1冊でしっかりわかる教科書 [図解即戦力]",
-      "due_date": "2026/05/01"
-    },
-    {
-      "member": "パパ",
-      "title": "よくわかる最新Oracleデータベースの基本と仕組み DBエンジニア&情シスのための基礎知識 [図解入門] [Visual Guide Book]",
-      "due_date": "2026/05/01"
-    },
     {
       "member": "ママ",
       "title": "できるかな?どうぶついえるかな",
@@ -315,6 +305,16 @@
       "member": "はる",
       "title": "ふたごチャレンジ! 11 [角川つばさ文庫] [夢いっぱい!みんなで作る物語]",
       "due_date": "2026/05/13"
+    },
+    {
+      "member": "パパ",
+      "title": "Git&GitHubのしくみと操作がこれ1冊でしっかりわかる教科書 [図解即戦力]",
+      "due_date": "2026/05/14"
+    },
+    {
+      "member": "パパ",
+      "title": "よくわかる最新Oracleデータベースの基本と仕組み DBエンジニア&情シスのための基礎知識 [図解入門] [Visual Guide Book]",
+      "due_date": "2026/05/14"
     }
   ],
   "reservations": [
@@ -364,7 +364,7 @@
       "member": "パパ",
       "title": "AIで作るプレゼン資料入門ガイド ChatGPT Claude Gemini Copilot活用",
       "status": "予約解除可能",
-      "queue_rank": "4 / 5",
+      "queue_rank": "3 / 4",
       "pickup_deadline": ""
     },
     {
@@ -389,10 +389,52 @@
       "pickup_deadline": ""
     },
     {
+      "member": "パパ",
+      "title": "本好きの下剋上 第4部",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 1",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 3",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "35 / 37",
+      "queue_rank": "34 / 36",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 2",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 4",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 5",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
