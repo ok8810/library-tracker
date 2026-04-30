@@ -432,9 +432,12 @@
     if (!rsvs.length) { container.innerHTML = '<div class="no-results">📭 予約中の本がありません</div>'; return; }
     container.innerHTML = rsvs.map((rsv, i) => {
       const st = rsvStyle(rsv.status);
-      const deadlineText = rsv.pickup_deadline
+      // 右下テキスト：取り置き期限 > 順位 > '－' の優先順で表示
+      const footerRight = rsv.pickup_deadline
         ? `取り置き期限: ${esc(rsv.pickup_deadline)}`
-        : '－';
+        : rsv.queue_rank
+          ? `順位: ${esc(rsv.queue_rank)}`
+          : '－';
       const dueClass = rsv.pickup_deadline
         ? (st === 'ready' ? 'ready' : 'muted')
         : 'muted';
@@ -444,7 +447,7 @@
           <span class="card-badge ${st}">${esc(rsv.status)}</span>
           <div class="card-footer">
             <span class="member-tag">${esc(rsv.member)}</span>
-            <span class="card-due ${dueClass}">${deadlineText}</span>
+            <span class="card-due ${dueClass}">${footerRight}</span>
           </div>
         </div>`;
     }).join('');
