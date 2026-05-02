@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T20:47:35.786125+00:00",
+  "updated_at": "2026-05-02T15:22:31.063732+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -259,31 +259,38 @@
   ],
   "reservations": [
     {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ18",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/05/09"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ20",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/05/09"
+    },
+    {
+      "member": "ママ",
+      "title": "つかめ!理科ダマン 8",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/05/09"
+    },
+    {
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 2　 雛宮蝶鼠とりかえ伝",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/05/09"
     },
     {
       "member": "パパ",
       "title": "月10万円を楽しく稼ぐちょいワーク図鑑 やりたいことが絶対見つかるおもしろ副業100",
       "status": "予約解除可能",
       "queue_rank": "4 / 6",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ18",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ20",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
@@ -350,6 +357,34 @@
       "pickup_deadline": ""
     },
     {
+      "member": "ママ",
+      "title": "つかめ!理科ダマン 7",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "つかめ!理科ダマン 9",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "つかめ!理科ダマン 10",
+      "status": "予約解除可能",
+      "queue_rank": "3 / 3",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "つかめ!理科ダマン 11",
+      "status": "予約解除可能",
+      "queue_rank": "31 / 31",
+      "pickup_deadline": ""
+    },
+    {
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 3　 雛宮蝶鼠とりかえ伝",
       "status": "予約解除可能",
@@ -388,14 +423,14 @@
       "member": "はる",
       "title": "時間割男子 19",
       "status": "予約解除可能",
-      "queue_rank": "6 / 12",
+      "queue_rank": "6 / 13",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "僕のヒーローアカデミア Vol.21",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
