@@ -94,16 +94,8 @@ def get_reservations(member: dict, page) -> list[dict]:
         status    = tds[1].get_text(strip=True)
         queue_rank      = tds[2].get_text(strip=True)   # 順位（例："5 / 7"、空欄あり）
         title_tag = tds[3].find("a")
-        title     = title_tag.get_text(strip=True) if title_tag else tds[3].get_text(strip=True)
-
-        # タイトル後のサブタイトル補完
-        if title_tag:
-            next_text = title_tag.next_sibling
-            if next_text and isinstance(next_text, str):
-                extra = next_text.strip().split('[')[0].strip()
-                if extra:
-                    title = f"{title} {extra}"
-
+        # （<a>の外にサブタイトルが複数ノードで分散していても全量取得できる）
+        title = " ".join(tds[3].get_text(" ", strip=True).split())
         pickup_deadline = tds[6].get_text(strip=True)  # 取り置き期限（空欄あり）
 
         # td[0] が数字（予約番号）の行だけを対象にする
