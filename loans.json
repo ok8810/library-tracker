@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T20:38:25.220941+00:00",
+  "updated_at": "2026-05-03T16:30:46.492042+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -260,31 +260,38 @@
   "reservations": [
     {
       "member": "パパ",
-      "title": "NARUTO 巻ノ18",
+      "title": "NARUTO 巻ノ18 [ジャンプ・コミックス] [綱手の決意!!]",
       "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": "2026/05/09"
     },
     {
       "member": "パパ",
-      "title": "NARUTO 巻ノ20",
+      "title": "NARUTO 巻ノ20 [ジャンプ・コミックス] [ナルトVSサスケ!!]",
       "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": "2026/05/09"
     },
     {
       "member": "ママ",
-      "title": "つかめ!理科ダマン 8",
+      "title": "つかめ!理科ダマン 8 [「昆虫のふしぎ」を探れ!編]",
       "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": "2026/05/09"
     },
     {
       "member": "はる",
-      "title": "ふつつかな悪女ではございますが 2　 雛宮蝶鼠とりかえ伝",
+      "title": "ふつつかな悪女ではございますが 2 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": "2026/05/09"
+    },
+    {
+      "member": "ほの",
+      "title": "僕のヒーローアカデミア Vol.21 [ジャンプコミックス] [彼は何故立ち続けたか]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/05/10"
     },
     {
       "member": "パパ",
@@ -302,30 +309,44 @@
     },
     {
       "member": "パパ",
-      "title": "実践Claude Code入門　 現場で活用するためのAIコーディングの思考法 [エンジニア選書]",
+      "title": "実践Claude Code入門 現場で活用するためのAIコーディングの思考法 [エンジニア選書]",
       "status": "予約解除可能リクエスト",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
-      "title": "炎炎ノ消防隊 26",
+      "title": "炎炎ノ消防隊 26 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
       "status": "予約解除可能",
       "queue_rank": "2 / 2",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
-      "title": "NARUTO 巻ノ19",
+      "title": "NARUTO 巻ノ19 [ジャンプ・コミックス] [受け継ぐ者]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
-      "title": "本好きの下剋上 第4部",
+      "title": "本好きの下剋上 第4部[3] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 4",
+      "queue_rank": "2 / 5",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "本好きの下剋上 第4部[4] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
+      "status": "予約解除可能",
+      "queue_rank": "3 / 5",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "本好きの下剋上 第4部[5] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 3",
       "pickup_deadline": ""
     },
     {
@@ -337,105 +358,98 @@
     },
     {
       "member": "ママ",
-      "title": "高校生家族 2",
+      "title": "高校生家族 2 [ジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
-      "title": "高校生家族 4",
+      "title": "高校生家族 4 [ジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
-      "title": "高校生家族 5",
+      "title": "高校生家族 5 [ジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
-      "title": "つかめ!理科ダマン 7",
+      "title": "つかめ!理科ダマン 7 [みんなで地球を冒険!編]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
-      "title": "つかめ!理科ダマン 9",
+      "title": "つかめ!理科ダマン 9 [「動物のふしぎ」を探れ!編]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
-      "title": "つかめ!理科ダマン 10",
+      "title": "つかめ!理科ダマン 10 [「地球のひみつ」を掘り起こせ!編]",
       "status": "予約解除可能",
-      "queue_rank": "3 / 3",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
-      "title": "つかめ!理科ダマン 11",
+      "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
       "queue_rank": "31 / 31",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
-      "title": "ふつつかな悪女ではございますが 3　 雛宮蝶鼠とりかえ伝",
+      "title": "ふつつかな悪女ではございますが 3 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
-      "title": "ふつつかな悪女ではございますが 4　 雛宮蝶鼠とりかえ伝",
+      "title": "ふつつかな悪女ではございますが 4 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
-      "title": "キングダム 69",
+      "title": "キングダム 69 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "17 / 18",
+      "queue_rank": "17 / 19",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
-      "title": "キングダム 70",
+      "title": "キングダム 70 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "28 / 30",
+      "queue_rank": "28 / 31",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
-      "title": "キングダム 71",
+      "title": "キングダム 71 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "32 / 32",
+      "queue_rank": "31 / 33",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
-      "title": "時間割男子 19",
+      "title": "時間割男子 19 [角川つばさ文庫] [お別れのハロウィン・ナイト]",
       "status": "予約解除可能",
       "queue_rank": "6 / 13",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
-      "title": "僕のヒーローアカデミア Vol.21",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "僕のヒーローアカデミアTHE MOVIEユアネクスト ノベライズ みらい文庫版",
+      "title": "僕のヒーローアカデミアTHE MOVIEユアネクスト ノベライズ みらい文庫版 [集英社みらい文庫]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
