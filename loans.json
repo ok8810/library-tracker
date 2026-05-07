@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T11:45:18.721200+00:00",
+  "updated_at": "2026-05-07T05:04:17.658602+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -343,8 +343,15 @@
     },
     {
       "member": "パパ",
+      "title": "NARUTO 巻ノ19 [ジャンプ・コミックス] [受け継ぐ者]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/05/14"
+    },
+    {
+      "member": "パパ",
       "title": "炎炎ノ消防隊 26 [講談社コミックス週刊少年マガジン] [SHONEN MAGAZINE COMICS]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -366,13 +373,6 @@
       "member": "パパ",
       "title": "実践Claude Code入門 現場で活用するためのAIコーディングの思考法 [エンジニア選書]",
       "status": "予約解除可能リクエスト",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ19 [ジャンプ・コミックス] [受け継ぐ者]",
-      "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
