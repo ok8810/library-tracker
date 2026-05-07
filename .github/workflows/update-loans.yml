@@ -3,9 +3,9 @@ name: 図書館 返却リスト 日次更新
 on:
   schedule:
     # 毎夕 14:00 JST（= UTC 6:00）に実行
-    - cron: '0 05 * * *'
+    - cron: '0 03 * * *'
     # 毎夕 19:00 JST（= UTC 10:00）に実行
-    - cron: '0 10 * * *'
+    - cron: '0 09 * * *'
   workflow_dispatch: # 手動実行も可能
 
 jobs:
