@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T05:33:16.526411+00:00",
+  "updated_at": "2026-05-08T10:15:32.454847+00:00",
   "loans": [
     {
       "member": "ほの",
@@ -319,6 +319,13 @@
   ],
   "reservations": [
     {
+      "member": "はる",
+      "title": "ふつつかな悪女ではございますが 3 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "月10万円を楽しく稼ぐちょいワーク図鑑 やりたいことが絶対見つかるおもしろ副業100",
       "status": "予約解除可能",
@@ -329,7 +336,7 @@
       "member": "パパ",
       "title": "AIで作るプレゼン資料入門ガイド ChatGPT Claude Gemini Copilot活用",
       "status": "予約解除可能",
-      "queue_rank": "3 / 5",
+      "queue_rank": "2 / 4",
       "pickup_deadline": ""
     },
     {
@@ -407,13 +414,6 @@
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
       "queue_rank": "29 / 29",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "はる",
-      "title": "ふつつかな悪女ではございますが 3 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
