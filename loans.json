@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T11:56:31.212984+00:00",
+  "updated_at": "2026-05-12T06:19:35.595752+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -275,40 +275,44 @@
       "member": "はる",
       "title": "マッシュル-MASHLE- 17 [ジャンプコミックス] [マッシュ・バーンデッドと時を遅くする魔法]",
       "due_date": "2026/05/24"
-    }
-  ],
-  "reservations": [
+    },
     {
       "member": "パパ",
       "title": "本好きの下剋上 第4部[3] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/05/16"
-    },
-    {
-      "member": "ほの",
-      "title": "世界一楽しい決算書の読み方 会計クイズを解くだけで財務3表がわかる",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/05/16"
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ21 [ジャンプ・コミックス] [許せない!!]",
-      "status": "移送中",
-      "queue_rank": "",
-      "pickup_deadline": ""
+      "due_date": "2026/05/26"
     },
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ22 [ジャンプ・コミックス] [転生…!!]",
+      "due_date": "2026/05/26"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ21 [ジャンプ・コミックス] [許せない!!]",
+      "due_date": "2026/05/26"
+    },
+    {
+      "member": "ほの",
+      "title": "NARUTO 巻ノ23 [ジャンプ・コミックス] [苦境…!!]",
+      "due_date": "2026/05/26"
+    },
+    {
+      "member": "ほの",
+      "title": "世界一楽しい決算書の読み方 会計クイズを解くだけで財務3表がわかる",
+      "due_date": "2026/05/26"
+    }
+  ],
+  "reservations": [
+    {
+      "member": "ママ",
+      "title": "高校生家族 4 [ジャンプコミックス]",
       "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
-      "member": "ほの",
-      "title": "NARUTO 巻ノ23 [ジャンプ・コミックス] [苦境…!!]",
+      "member": "ママ",
+      "title": "高校生家族 5 [ジャンプコミックス]",
       "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
@@ -317,7 +321,7 @@
       "member": "パパ",
       "title": "月10万円を楽しく稼ぐちょいワーク図鑑 やりたいことが絶対見つかるおもしろ副業100",
       "status": "予約解除可能",
-      "queue_rank": "4 / 7",
+      "queue_rank": "3 / 6",
       "pickup_deadline": ""
     },
     {
@@ -364,20 +368,6 @@
     },
     {
       "member": "ママ",
-      "title": "高校生家族 4 [ジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "高校生家族 5 [ジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
       "queue_rank": "27 / 27",
@@ -401,7 +391,7 @@
       "member": "はる",
       "title": "キングダム 70 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "27 / 29",
+      "queue_rank": "26 / 28",
       "pickup_deadline": ""
     },
     {
