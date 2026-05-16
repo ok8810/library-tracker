@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-05-16T05:58:10.281509+00:00",
+  "updated_at": "2026-05-16T10:07:43.387204+00:00",
   "loans": [
-    {
-      "member": "はる",
-      "title": "ふつつかな悪女ではございますが 5 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "due_date": "2026/05/13"
-    },
     {
       "member": "ママ",
       "title": "つかめ!理科ダマン 7 [みんなで地球を冒険!編]",
@@ -198,6 +193,36 @@
     },
     {
       "member": "ママ",
+      "title": "絶対に見ぬけない!! [3] [集英社みらい文庫] [あっとおどろく1分間ストーリー]",
+      "due_date": "2026/05/30"
+    },
+    {
+      "member": "ママ",
+      "title": "旅する54字の物語 超短編小説で読む47都道府県",
+      "due_date": "2026/05/30"
+    },
+    {
+      "member": "ママ",
+      "title": "おしえてくやさーい",
+      "due_date": "2026/05/30"
+    },
+    {
+      "member": "ママ",
+      "title": "おきがえあそび [あかちゃんのあそびえほん] [0・1・2才のほん]",
+      "due_date": "2026/05/30"
+    },
+    {
+      "member": "ママ",
+      "title": "こんなときどうする!?マインクラフトピンチおたすけ図鑑",
+      "due_date": "2026/05/30"
+    },
+    {
+      "member": "ママ",
+      "title": "おやすみなさいのうた [こんにちは!えほん] [ちいさなうたえほん]",
+      "due_date": "2026/05/30"
+    },
+    {
+      "member": "ママ",
       "title": "高校生家族 4 [ジャンプコミックス]",
       "due_date": "2026/05/30"
     },
@@ -205,13 +230,58 @@
       "member": "ママ",
       "title": "高校生家族 5 [ジャンプコミックス]",
       "due_date": "2026/05/30"
+    },
+    {
+      "member": "はる",
+      "title": "ふつつかな悪女ではございますが 4 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "due_date": "2026/05/30"
+    },
+    {
+      "member": "ほの",
+      "title": "とまとさんがね… [おいしいともだち]",
+      "due_date": "2026/05/30"
+    },
+    {
+      "member": "ほの",
+      "title": "はぶらしくんです。 [たのしいいちにち]",
+      "due_date": "2026/05/30"
+    },
+    {
+      "member": "ほの",
+      "title": "おさんぽのおやくそくだもの",
+      "due_date": "2026/05/30"
+    },
+    {
+      "member": "ほの",
+      "title": "ねこちゃんにゃんにゃん [あかちゃんとおかあさんの絵本]",
+      "due_date": "2026/05/30"
+    },
+    {
+      "member": "ほの",
+      "title": "とんとんとん",
+      "due_date": "2026/05/30"
+    },
+    {
+      "member": "ほの",
+      "title": "バナナをもって",
+      "due_date": "2026/05/30"
+    },
+    {
+      "member": "ほの",
+      "title": "おふろはいってらっしゃい [ぽかぽかおふろ]",
+      "due_date": "2026/05/30"
+    },
+    {
+      "member": "ほの",
+      "title": "すきなたべものおしえて",
+      "due_date": "2026/05/30"
     }
   ],
   "reservations": [
     {
-      "member": "はる",
-      "title": "ふつつかな悪女ではございますが 4 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "status": "準備できました",
+      "member": "パパ",
+      "title": "NARUTO 巻ノ26 [ジャンプ・コミックス] [別れの日…!!]",
+      "status": "予約解除可能",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -251,17 +321,94 @@
       "pickup_deadline": ""
     },
     {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ27 [ジャンプ・コミックス] [旅立ちの日!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ28 [ジャンプ・コミックス] [ナルトの帰郷!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ29 [ジャンプ・コミックス] [カカシVSイタチ!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ30 [ジャンプ・コミックス] [チヨバアとサクラ]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 6 [ジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 7 [ジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 8 [ジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 9 [ジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 10 [ジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 11 [ジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "32 / 37",
+      "queue_rank": "32 / 38",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "26 / 30",
+      "queue_rank": "25 / 30",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "Google NotebookLM徹底活用術 最速で仕事の進め方が激変する",
+      "status": "予約解除可能リクエスト",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
@@ -332,6 +479,13 @@
       "title": "暗殺教室 5 [ジャンプ・コミックス] [才能の時間]",
       "status": "予約解除可能",
       "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ふつつかな悪女ではございますが 5 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     }
   ]
