@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T06:26:40.456702+00:00",
+  "updated_at": "2026-05-17T10:16:54.663338+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -280,6 +280,13 @@
   "reservations": [
     {
       "member": "パパ",
+      "title": "ニュートン先生の筋肉講義 [知識ゼロから楽しく学べる!]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/05/24"
+    },
+    {
+      "member": "パパ",
       "title": "NARUTO 巻ノ26 [ジャンプ・コミックス] [別れの日…!!]",
       "status": "準備できました",
       "queue_rank": "",
@@ -346,13 +353,6 @@
       "title": "実践Claude Code入門 現場で活用するためのAIコーディングの思考法 [エンジニア選書]",
       "status": "予約解除可能リクエスト",
       "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "ニュートン先生の筋肉講義 [知識ゼロから楽しく学べる!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
