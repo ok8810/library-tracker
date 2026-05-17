@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T10:07:43.387204+00:00",
+  "updated_at": "2026-05-17T06:26:40.456702+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -281,9 +281,51 @@
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ26 [ジャンプ・コミックス] [別れの日…!!]",
-      "status": "予約解除可能",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/05/24"
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 6 [ジャンプコミックス]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/05/24"
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 7 [ジャンプコミックス]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/05/24"
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 8 [ジャンプコミックス]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/05/24"
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 9 [ジャンプコミックス]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/05/24"
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 10 [ジャンプコミックス]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/05/24"
+    },
+    {
+      "member": "ママ",
+      "title": "高校生家族 11 [ジャンプコミックス]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/05/24"
     },
     {
       "member": "パパ",
@@ -350,51 +392,9 @@
     },
     {
       "member": "ママ",
-      "title": "高校生家族 6 [ジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "高校生家族 7 [ジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "高校生家族 8 [ジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "高校生家族 9 [ジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "高校生家族 10 [ジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "高校生家族 11 [ジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "32 / 38",
+      "queue_rank": "30 / 36",
       "pickup_deadline": ""
     },
     {
