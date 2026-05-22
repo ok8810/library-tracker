@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T06:53:16.143791+00:00",
+  "updated_at": "2026-05-22T11:37:45.747834+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -282,7 +282,7 @@
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "24 / 31",
+      "queue_rank": "24 / 32",
       "pickup_deadline": ""
     },
     {
@@ -338,14 +338,14 @@
       "member": "ほの",
       "title": "暗殺教室 1 [ジャンプ・コミックス] [暗殺の時間]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "暗殺教室 5 [ジャンプ・コミックス] [才能の時間]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "2 / 3",
       "pickup_deadline": ""
     },
     {
