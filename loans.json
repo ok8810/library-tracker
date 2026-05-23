@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T11:37:45.747834+00:00",
+  "updated_at": "2026-05-23T06:15:47.418753+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -217,6 +217,41 @@
     },
     {
       "member": "パパ",
+      "title": "NARUTO 巻ノ27 [ジャンプ・コミックス] [旅立ちの日!!]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ28 [ジャンプ・コミックス] [ナルトの帰郷!!]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ29 [ジャンプ・コミックス] [カカシVSイタチ!!]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ30 [ジャンプ・コミックス] [チヨバアとサクラ]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
+      "title": "時間割男子 19 [角川つばさ文庫] [お別れのハロウィン・ナイト]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
       "title": "月10万円を楽しく稼ぐちょいワーク図鑑 やりたいことが絶対見つかるおもしろ副業100",
       "status": "予約解除可能",
       "queue_rank": "2 / 5",
@@ -241,34 +276,6 @@
       "title": "Google NotebookLMのツボとコツがゼッタイにわかる本 [最初からそう教えてくれればいいのに!]",
       "status": "予約解除可能",
       "queue_rank": "3 / 3",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ27 [ジャンプ・コミックス] [旅立ちの日!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ28 [ジャンプ・コミックス] [ナルトの帰郷!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ29 [ジャンプ・コミックス] [カカシVSイタチ!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ30 [ジャンプ・コミックス] [チヨバアとサクラ]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
@@ -303,7 +310,7 @@
       "member": "はる",
       "title": "キングダム 70 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "26 / 29",
+      "queue_rank": "25 / 28",
       "pickup_deadline": ""
     },
     {
@@ -311,13 +318,6 @@
       "title": "キングダム 71 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "28 / 30",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "はる",
-      "title": "時間割男子 19 [角川つばさ文庫] [お別れのハロウィン・ナイト]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 14",
       "pickup_deadline": ""
     },
     {
@@ -345,7 +345,7 @@
       "member": "ほの",
       "title": "暗殺教室 5 [ジャンプ・コミックス] [才能の時間]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 3",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
