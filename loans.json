@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T10:26:06.545795+00:00",
+  "updated_at": "2026-05-25T07:19:15.581778+00:00",
   "loans": [
     {
       "member": "はる",
@@ -235,6 +235,20 @@
   "reservations": [
     {
       "member": "パパ",
+      "title": "NARUTO 巻ノ31 [ジャンプ・コミックス] [託された想い!!]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ32 [ジャンプ・コミックス] [サスケへの道!!]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
       "title": "月10万円を楽しく稼ぐちょいワーク図鑑 やりたいことが絶対見つかるおもしろ副業100",
       "status": "予約解除可能",
       "queue_rank": "2 / 5",
@@ -262,6 +276,27 @@
       "pickup_deadline": ""
     },
     {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ33 [ジャンプ・コミックス] [極秘任務…!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ34 [ジャンプ・コミックス] [再会の時…!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ35 [ジャンプ・コミックス] [新たなる二人組!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
@@ -272,7 +307,7 @@
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "20 / 28",
+      "queue_rank": "20 / 29",
       "pickup_deadline": ""
     },
     {
@@ -342,7 +377,7 @@
       "member": "ほの",
       "title": "本好きの下剋上 第4部[6] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
       "status": "予約解除可能",
-      "queue_rank": "3 / 3",
+      "queue_rank": "3 / 4",
       "pickup_deadline": ""
     },
     {
