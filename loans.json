@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T12:18:14.230000+00:00",
+  "updated_at": "2026-05-26T06:50:53.136820+00:00",
   "loans": [
     {
       "member": "はる",
@@ -236,14 +236,35 @@
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ31 [ジャンプ・コミックス] [託された想い!!]",
-      "status": "予約解除可能",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/06/02"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ32 [ジャンプ・コミックス] [サスケへの道!!]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/06/02"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ33 [ジャンプ・コミックス] [極秘任務…!!]",
+      "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
-      "title": "NARUTO 巻ノ32 [ジャンプ・コミックス] [サスケへの道!!]",
-      "status": "予約解除可能",
+      "title": "NARUTO 巻ノ34 [ジャンプ・コミックス] [再会の時…!!]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ35 [ジャンプ・コミックス] [新たなる二人組!!]",
+      "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -272,28 +293,7 @@
       "member": "パパ",
       "title": "Google NotebookLMのツボとコツがゼッタイにわかる本 [最初からそう教えてくれればいいのに!]",
       "status": "予約解除可能",
-      "queue_rank": "3 / 3",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ33 [ジャンプ・コミックス] [極秘任務…!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ34 [ジャンプ・コミックス] [再会の時…!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ35 [ジャンプ・コミックス] [新たなる二人組!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "3 / 4",
       "pickup_deadline": ""
     },
     {
@@ -350,6 +350,13 @@
       "title": "ふつつかな悪女ではございますが 7 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
+      "title": "本好きの下剋上 ハンネローレの貴族院5年生3",
+      "status": "予約解除可能",
+      "queue_rank": "7 / 7",
       "pickup_deadline": ""
     },
     {
