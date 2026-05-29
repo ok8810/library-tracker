@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T12:18:45.435387+00:00",
+  "updated_at": "2026-05-29T06:58:46.677339+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -203,23 +203,23 @@
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ36 [ジャンプ・コミックス] [第十班]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/06/05"
     },
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ39 [ジャンプ・コミックス] [動き出す者たち]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/06/05"
     },
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ40 [ジャンプ・コミックス] [究極芸術!!]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/06/05"
     },
     {
       "member": "パパ",
@@ -274,7 +274,7 @@
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "20 / 31",
+      "queue_rank": "20 / 32",
       "pickup_deadline": ""
     },
     {
@@ -309,14 +309,14 @@
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 6 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 7 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
