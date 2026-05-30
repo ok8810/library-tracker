@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T12:01:25.456581+00:00",
+  "updated_at": "2026-05-30T06:27:02.027258+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -222,10 +222,38 @@
       "pickup_deadline": "2026/06/05"
     },
     {
+      "member": "ほの",
+      "title": "高校生家族 1 [ジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "高校生家族 2 [ジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "高校生家族 4 [ジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "高校生家族 5 [ジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "月10万円を楽しく稼ぐちょいワーク図鑑 やりたいことが絶対見つかるおもしろ副業100",
       "status": "予約解除可能",
-      "queue_rank": "2 / 5",
+      "queue_rank": "1 / 4",
       "pickup_deadline": ""
     },
     {
@@ -274,7 +302,7 @@
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "20 / 32",
+      "queue_rank": "19 / 30",
       "pickup_deadline": ""
     },
     {
@@ -349,35 +377,7 @@
     },
     {
       "member": "ほの",
-      "title": "高校生家族 1 [ジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "高校生家族 2 [ジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
       "title": "高校生家族 3 [ジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "高校生家族 4 [ジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "高校生家族 5 [ジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
