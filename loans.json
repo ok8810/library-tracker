@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T10:42:44.962565+00:00",
+  "updated_at": "2026-05-31T07:01:26.542377+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -224,36 +224,43 @@
     {
       "member": "ほの",
       "title": "高校生家族 1 [ジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/06/07"
     },
     {
       "member": "ほの",
       "title": "高校生家族 2 [ジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/06/07"
     },
     {
       "member": "ほの",
       "title": "高校生家族 4 [ジャンプコミックス]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/06/07"
+    },
+    {
+      "member": "ほの",
+      "title": "高校生家族 5 [ジャンプコミックス]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/06/07"
+    },
+    {
+      "member": "パパ",
+      "title": "月10万円を楽しく稼ぐちょいワーク図鑑 やりたいことが絶対見つかるおもしろ副業100",
       "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
-      "title": "高校生家族 5 [ジャンプコミックス]",
+      "title": "本好きの下剋上 第4部[6] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
       "status": "移送中",
       "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "月10万円を楽しく稼ぐちょいワーク図鑑 やりたいことが絶対見つかるおもしろ副業100",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 4",
       "pickup_deadline": ""
     },
     {
@@ -274,7 +281,7 @@
       "member": "パパ",
       "title": "Google NotebookLMのツボとコツがゼッタイにわかる本 [最初からそう教えてくれればいいのに!]",
       "status": "予約解除可能",
-      "queue_rank": "3 / 4",
+      "queue_rank": "2 / 3",
       "pickup_deadline": ""
     },
     {
@@ -295,14 +302,14 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "28 / 38",
+      "queue_rank": "28 / 39",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "19 / 30",
+      "queue_rank": "19 / 31",
       "pickup_deadline": ""
     },
     {
@@ -364,13 +371,6 @@
     {
       "member": "ほの",
       "title": "暗殺教室 5 [ジャンプ・コミックス] [才能の時間]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "本好きの下剋上 第4部[6] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
       "status": "予約解除可能",
       "queue_rank": "1 / 2",
       "pickup_deadline": ""
