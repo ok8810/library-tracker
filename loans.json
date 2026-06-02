@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T14:47:33.402520+00:00",
+  "updated_at": "2026-06-02T07:28:17.529277+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -252,20 +252,27 @@
     {
       "member": "パパ",
       "title": "月10万円を楽しく稼ぐちょいワーク図鑑 やりたいことが絶対見つかるおもしろ副業100",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/06/09"
     },
     {
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 6 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/06/09"
     },
     {
       "member": "ほの",
       "title": "本好きの下剋上 第4部[6] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/06/09"
+    },
+    {
+      "member": "ほの",
+      "title": "高校生家族 3 [ジャンプコミックス]",
       "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
@@ -316,7 +323,7 @@
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "19 / 31",
+      "queue_rank": "19 / 32",
       "pickup_deadline": ""
     },
     {
@@ -373,13 +380,6 @@
       "title": "暗殺教室 5 [ジャンプ・コミックス] [才能の時間]",
       "status": "予約解除可能",
       "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "高校生家族 3 [ジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     }
   ]
