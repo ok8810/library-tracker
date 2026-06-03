@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T12:33:36.590719+00:00",
+  "updated_at": "2026-06-03T08:22:52.336972+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -273,9 +273,9 @@
     {
       "member": "ほの",
       "title": "高校生家族 3 [ジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/06/10"
     },
     {
       "member": "パパ",
@@ -351,7 +351,7 @@
       "member": "はる",
       "title": "キングダム 71 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "28 / 31",
+      "queue_rank": "27 / 30",
       "pickup_deadline": ""
     },
     {
