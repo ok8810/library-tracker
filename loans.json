@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-06-03T13:05:07.579036+00:00",
+  "updated_at": "2026-06-04T07:27:50.073933+00:00",
   "loans": [
-    {
-      "member": "パパ",
-      "title": "本好きの下剋上 第4部[4] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
-      "due_date": "2026/05/30"
-    },
     {
       "member": "パパ",
       "title": "AIエージェント開発/運用入門 生成AI深掘りガイド",
@@ -170,37 +165,29 @@
       "member": "ほの",
       "title": "高校生家族 5 [ジャンプコミックス]",
       "due_date": "2026/06/17"
-    }
-  ],
-  "reservations": [
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ36 [ジャンプ・コミックス] [第十班]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/06/05"
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ39 [ジャンプ・コミックス] [動き出す者たち]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/06/05"
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ40 [ジャンプ・コミックス] [究極芸術!!]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/06/05"
     },
     {
       "member": "パパ",
       "title": "月10万円を楽しく稼ぐちょいワーク図鑑 やりたいことが絶対見つかるおもしろ副業100",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/06/09"
+      "due_date": "2026/06/18"
     },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ39 [ジャンプ・コミックス] [動き出す者たち]",
+      "due_date": "2026/06/18"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ36 [ジャンプ・コミックス] [第十班]",
+      "due_date": "2026/06/18"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ40 [ジャンプ・コミックス] [究極芸術!!]",
+      "due_date": "2026/06/18"
+    }
+  ],
+  "reservations": [
     {
       "member": "パパ",
       "title": "AIで作るプレゼン資料入門ガイド ChatGPT Claude Gemini Copilot活用",
@@ -211,7 +198,7 @@
     {
       "member": "パパ",
       "title": "実践Claude Code入門 現場で活用するためのAIコーディングの思考法 [エンジニア選書]",
-      "status": "予約解除可能リクエスト",
+      "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
@@ -253,7 +240,7 @@
     {
       "member": "ママ",
       "title": "Google NotebookLM徹底活用術 最速で仕事の進め方が激変する",
-      "status": "予約解除可能リクエスト",
+      "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
@@ -261,14 +248,14 @@
       "member": "はる",
       "title": "キングダム 69 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "15 / 18",
+      "queue_rank": "14 / 17",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
       "title": "キングダム 70 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "25 / 28",
+      "queue_rank": "24 / 27",
       "pickup_deadline": ""
     },
     {
@@ -289,7 +276,7 @@
       "member": "はる",
       "title": "本好きの下剋上 ハンネローレの貴族院5年生3",
       "status": "予約解除可能",
-      "queue_rank": "5 / 5",
+      "queue_rank": "4 / 4",
       "pickup_deadline": ""
     },
     {
