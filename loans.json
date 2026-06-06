@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T11:55:34.532015+00:00",
+  "updated_at": "2026-06-06T06:33:35.049882+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -205,9 +205,9 @@
     {
       "member": "ほの",
       "title": "暗殺教室 1 [ジャンプ・コミックス] [暗殺の時間]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/06/13"
     },
     {
       "member": "パパ",
@@ -241,14 +241,14 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "28 / 39",
+      "queue_rank": "28 / 40",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "16 / 29",
+      "queue_rank": "15 / 28",
       "pickup_deadline": ""
     },
     {
@@ -305,6 +305,27 @@
       "title": "暗殺教室 5 [ジャンプ・コミックス] [才能の時間]",
       "status": "予約解除可能",
       "queue_rank": "1 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "暗殺教室 6 [ジャンプ・コミックス] [水泳の時間]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "暗殺教室 7 [ジャンプ・コミックス] [島の時間]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "暗殺教室 8 [ジャンプ・コミックス] [チャンスの時間]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
       "pickup_deadline": ""
     }
   ]
