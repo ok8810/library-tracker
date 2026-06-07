@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T10:49:04.159955+00:00",
+  "updated_at": "2026-06-07T07:09:06.917653+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -210,6 +210,13 @@
       "pickup_deadline": "2026/06/13"
     },
     {
+      "member": "はる",
+      "title": "ふつつかな悪女ではございますが 7 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "AIで作るプレゼン資料入門ガイド ChatGPT Claude Gemini Copilot活用",
       "status": "予約解除可能",
@@ -220,7 +227,7 @@
       "member": "パパ",
       "title": "Google NotebookLMのツボとコツがゼッタイにわかる本 [最初からそう教えてくれればいいのに!]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 3",
+      "queue_rank": "2 / 4",
       "pickup_deadline": ""
     },
     {
@@ -248,7 +255,7 @@
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "15 / 28",
+      "queue_rank": "15 / 27",
       "pickup_deadline": ""
     },
     {
@@ -270,13 +277,6 @@
       "title": "キングダム 71 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "27 / 31",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "はる",
-      "title": "ふつつかな悪女ではございますが 7 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
@@ -318,7 +318,7 @@
       "member": "ほの",
       "title": "暗殺教室 7 [ジャンプ・コミックス] [島の時間]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
