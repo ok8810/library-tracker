@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T12:56:20.145290+00:00",
+  "updated_at": "2026-06-09T06:53:38.189871+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -210,30 +210,37 @@
       "pickup_deadline": "2026/06/13"
     },
     {
-      "member": "はる",
-      "title": "ふつつかな悪女ではございますが 7 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "status": "移送中",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
       "member": "パパ",
       "title": "本好きの下剋上 第4部[8] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
-      "status": "予約解除可能",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/06/16"
     },
     {
       "member": "パパ",
       "title": "本好きの下剋上 短編集1 司書になるためには手段を選んでいられません",
-      "status": "予約解除可能",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/06/16"
     },
     {
       "member": "パパ",
       "title": "本好きの下剋上 第4部[9] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
-      "status": "予約解除可能",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/06/16"
+    },
+    {
+      "member": "はる",
+      "title": "ふつつかな悪女ではございますが 7 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/06/16"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ37 [ジャンプ・コミックス] [シカマルの戦い!!]",
+      "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -241,7 +248,7 @@
       "member": "パパ",
       "title": "AIで作るプレゼン資料入門ガイド ChatGPT Claude Gemini Copilot活用",
       "status": "予約解除可能",
-      "queue_rank": "2 / 5",
+      "queue_rank": "1 / 4",
       "pickup_deadline": ""
     },
     {
@@ -249,13 +256,6 @@
       "title": "Google NotebookLMのツボとコツがゼッタイにわかる本 [最初からそう教えてくれればいいのに!]",
       "status": "予約解除可能",
       "queue_rank": "2 / 4",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ37 [ジャンプ・コミックス] [シカマルの戦い!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
@@ -269,7 +269,7 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "28 / 40",
+      "queue_rank": "28 / 41",
       "pickup_deadline": ""
     },
     {
