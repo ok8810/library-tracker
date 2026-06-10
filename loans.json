@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T07:13:15.835962+00:00",
+  "updated_at": "2026-06-10T12:12:49.926455+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -203,14 +203,14 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "28 / 41",
+      "queue_rank": "27 / 40",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "15 / 27",
+      "queue_rank": "14 / 26",
       "pickup_deadline": ""
     },
     {
@@ -238,7 +238,7 @@
       "member": "はる",
       "title": "本好きの下剋上 ハンネローレの貴族院5年生3",
       "status": "予約解除可能",
-      "queue_rank": "3 / 3",
+      "queue_rank": "3 / 4",
       "pickup_deadline": ""
     },
     {
