@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T12:12:49.926455+00:00",
+  "updated_at": "2026-06-11T08:08:03.926007+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -189,7 +189,7 @@
       "member": "パパ",
       "title": "Google NotebookLMのツボとコツがゼッタイにわかる本 [最初からそう教えてくれればいいのに!]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 4",
+      "queue_rank": "1 / 3",
       "pickup_deadline": ""
     },
     {
@@ -203,7 +203,7 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "27 / 40",
+      "queue_rank": "26 / 39",
       "pickup_deadline": ""
     },
     {
@@ -280,7 +280,7 @@
       "member": "ほの",
       "title": "暗殺教室 8 [ジャンプ・コミックス] [チャンスの時間]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     }
   ]
