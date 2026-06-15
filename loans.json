@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T09:27:51.502032+00:00",
+  "updated_at": "2026-06-15T14:53:57.358941+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -180,6 +180,20 @@
   "reservations": [
     {
       "member": "パパ",
+      "title": "NARUTO 巻ノ43 [ジャンプ・コミックス] [真実を知る者]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ45 [ジャンプ・コミックス] [戦場、木ノ葉!!]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
       "title": "AIで作るプレゼン資料入門ガイド ChatGPT Claude Gemini Copilot活用",
       "status": "予約解除可能",
       "queue_rank": "1 / 4",
@@ -197,6 +211,34 @@
       "title": "NARUTO 巻ノ38 [ジャンプ・コミックス] [修業の成果…!!]",
       "status": "予約解除可能",
       "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ41 [ジャンプ・コミックス] [自来也の選択!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ42 [ジャンプ・コミックス] [万華鏡の秘密…!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO秘伝・者の書 キャラクターオフィシャルデータBOOK [ジャンプ・コミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ44 [ジャンプ・コミックス] [仙術伝承…!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
