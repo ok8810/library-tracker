@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T14:53:57.358941+00:00",
+  "updated_at": "2026-06-16T08:49:41.106296+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -181,14 +181,28 @@
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ43 [ジャンプ・コミックス] [真実を知る者]",
-      "status": "予約解除可能",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/06/23"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ45 [ジャンプ・コミックス] [戦場、木ノ葉!!]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/06/23"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ42 [ジャンプ・コミックス] [万華鏡の秘密…!!]",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
-      "title": "NARUTO 巻ノ45 [ジャンプ・コミックス] [戦場、木ノ葉!!]",
-      "status": "予約解除可能",
+      "title": "NARUTO 巻ノ44 [ジャンプ・コミックス] [仙術伝承…!!]",
+      "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -222,21 +236,7 @@
     },
     {
       "member": "パパ",
-      "title": "NARUTO 巻ノ42 [ジャンプ・コミックス] [万華鏡の秘密…!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
       "title": "NARUTO秘伝・者の書 キャラクターオフィシャルデータBOOK [ジャンプ・コミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ44 [ジャンプ・コミックス] [仙術伝承…!!]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
@@ -252,7 +252,7 @@
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "13 / 26",
+      "queue_rank": "12 / 25",
       "pickup_deadline": ""
     },
     {
@@ -301,28 +301,28 @@
       "member": "ほの",
       "title": "暗殺教室 5 [ジャンプ・コミックス] [才能の時間]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 2",
+      "queue_rank": "1 / 3",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "暗殺教室 6 [ジャンプ・コミックス] [水泳の時間]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "2 / 3",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "暗殺教室 7 [ジャンプ・コミックス] [島の時間]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "暗殺教室 8 [ジャンプ・コミックス] [チャンスの時間]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     }
   ]
