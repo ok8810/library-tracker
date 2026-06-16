@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T08:49:41.106296+00:00",
+  "updated_at": "2026-06-16T13:22:48.853831+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -180,6 +180,13 @@
   "reservations": [
     {
       "member": "パパ",
+      "title": "NARUTO 巻ノ42 [ジャンプ・コミックス] [万華鏡の秘密…!!]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/06/23"
+    },
+    {
+      "member": "パパ",
       "title": "NARUTO 巻ノ43 [ジャンプ・コミックス] [真実を知る者]",
       "status": "準備できました",
       "queue_rank": "",
@@ -191,13 +198,6 @@
       "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": "2026/06/23"
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ42 [ジャンプ・コミックス] [万華鏡の秘密…!!]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": ""
     },
     {
       "member": "パパ",
@@ -252,7 +252,7 @@
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "12 / 25",
+      "queue_rank": "12 / 26",
       "pickup_deadline": ""
     },
     {
