@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T11:07:06.050428+00:00",
+  "updated_at": "2026-06-21T08:03:44.689138+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -100,6 +100,13 @@
   "reservations": [
     {
       "member": "パパ",
+      "title": "NARUTO 巻ノ41 [ジャンプ・コミックス] [自来也の選択!!]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
       "title": "AIで作るプレゼン資料入門ガイド ChatGPT Claude Gemini Copilot活用",
       "status": "予約解除可能",
       "queue_rank": "1 / 4",
@@ -121,13 +128,6 @@
     },
     {
       "member": "パパ",
-      "title": "NARUTO 巻ノ41 [ジャンプ・コミックス] [自来也の選択!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
       "title": "NARUTO秘伝・者の書 キャラクターオフィシャルデータBOOK [ジャンプ・コミックス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
@@ -144,21 +144,21 @@
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "8 / 25",
+      "queue_rank": "7 / 24",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
       "title": "キングダム 69 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "14 / 17",
+      "queue_rank": "13 / 17",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
       "title": "キングダム 70 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "24 / 26",
+      "queue_rank": "24 / 27",
       "pickup_deadline": ""
     },
     {
