@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T11:38:06.475797+00:00",
+  "updated_at": "2026-06-22T09:14:18.231252+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -107,6 +107,13 @@
     },
     {
       "member": "パパ",
+      "title": "NARUTO秘伝・者の書 キャラクターオフィシャルデータBOOK [ジャンプ・コミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
       "title": "AIで作るプレゼン資料入門ガイド ChatGPT Claude Gemini Copilot活用",
       "status": "予約解除可能",
       "queue_rank": "1 / 4",
@@ -124,13 +131,6 @@
       "title": "NARUTO 巻ノ38 [ジャンプ・コミックス] [修業の成果…!!]",
       "status": "予約解除可能",
       "queue_rank": "2 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO秘伝・者の書 キャラクターオフィシャルデータBOOK [ジャンプ・コミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
