@@ -1,14 +1,9 @@
 {
-  "updated_at": "2026-06-22T14:23:27.858222+00:00",
+  "updated_at": "2026-06-23T06:54:38.122910+00:00",
   "loans": [
     {
       "member": "パパ",
       "title": "実践Claude Code入門 現場で活用するためのAIコーディングの思考法 [エンジニア選書]",
-      "due_date": "2026/06/24"
-    },
-    {
-      "member": "パパ",
-      "title": "本好きの下剋上 第4部[9] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
       "due_date": "2026/06/24"
     },
     {
@@ -95,22 +90,55 @@
       "member": "ほの",
       "title": "暗殺教室 7 [ジャンプ・コミックス] [島の時間]",
       "due_date": "2026/07/03"
+    },
+    {
+      "member": "パパ",
+      "title": "本好きの下剋上 第4部[9] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
+      "due_date": "2026/07/07"
     }
   ],
   "reservations": [
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ41 [ジャンプ・コミックス] [自来也の選択!!]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/06/30"
     },
     {
       "member": "パパ",
       "title": "NARUTO秘伝・者の書 キャラクターオフィシャルデータBOOK [ジャンプ・コミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/06/30"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ46 [ジャンプ・コミックス] [ナルト帰還!!]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/06/30"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ50 [ジャンプ・コミックス] [水牢の死闘!!]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/06/30"
+    },
+    {
+      "member": "ほの",
+      "title": "暗殺教室 10 [ジャンプ・コミックス] [泥棒の時間]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/06/30"
+    },
+    {
+      "member": "ほの",
+      "title": "暗殺教室 11 [ジャンプ・コミックス] [体育祭の時間]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/06/30"
     },
     {
       "member": "パパ",
@@ -130,21 +158,42 @@
       "member": "パパ",
       "title": "NARUTO 巻ノ38 [ジャンプ・コミックス] [修業の成果…!!]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ47 [ジャンプ・コミックス] [封印破壊!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ48 [ジャンプ・コミックス] [歓呼の里!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ49 [ジャンプ・コミックス] [五影会談、開幕…!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "24 / 39",
+      "queue_rank": "24 / 41",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "7 / 24",
+      "queue_rank": "6 / 25",
       "pickup_deadline": ""
     },
     {
@@ -194,6 +243,13 @@
       "title": "暗殺教室 8 [ジャンプ・コミックス] [チャンスの時間]",
       "status": "予約解除可能",
       "queue_rank": "1 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "暗殺教室 9 [ジャンプ・コミックス] [衝撃の時間]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
       "pickup_deadline": ""
     }
   ]
