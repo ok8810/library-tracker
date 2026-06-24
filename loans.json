@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T06:52:20.521999+00:00",
+  "updated_at": "2026-06-24T11:37:32.905319+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -193,14 +193,14 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "24 / 41",
+      "queue_rank": "23 / 40",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "6 / 25",
+      "queue_rank": "6 / 26",
       "pickup_deadline": ""
     },
     {
