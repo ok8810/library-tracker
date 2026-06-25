@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T11:37:32.905319+00:00",
+  "updated_at": "2026-06-25T06:51:44.996785+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -149,16 +149,16 @@
     },
     {
       "member": "パパ",
-      "title": "AIで作るプレゼン資料入門ガイド ChatGPT Claude Gemini Copilot活用",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 4",
+      "title": "Google NotebookLMのツボとコツがゼッタイにわかる本 [最初からそう教えてくれればいいのに!]",
+      "status": "移送中",
+      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
-      "title": "Google NotebookLMのツボとコツがゼッタイにわかる本 [最初からそう教えてくれればいいのに!]",
+      "title": "AIで作るプレゼン資料入門ガイド ChatGPT Claude Gemini Copilot活用",
       "status": "予約解除可能",
-      "queue_rank": "1 / 5",
+      "queue_rank": "1 / 4",
       "pickup_deadline": ""
     },
     {
@@ -193,14 +193,14 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "23 / 40",
+      "queue_rank": "22 / 39",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "6 / 26",
+      "queue_rank": "5 / 26",
       "pickup_deadline": ""
     },
     {
