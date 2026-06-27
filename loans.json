@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T11:37:33.868037+00:00",
+  "updated_at": "2026-06-27T06:32:41.685031+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -156,6 +156,27 @@
     },
     {
       "member": "パパ",
+      "title": "NARUTO 巻ノ47 [ジャンプ・コミックス] [封印破壊!!]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/07/04"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ48 [ジャンプ・コミックス] [歓呼の里!!]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ49 [ジャンプ・コミックス] [五影会談、開幕…!!]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
       "title": "AIで作るプレゼン資料入門ガイド ChatGPT Claude Gemini Copilot活用",
       "status": "予約解除可能",
       "queue_rank": "1 / 4",
@@ -169,38 +190,17 @@
       "pickup_deadline": ""
     },
     {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ47 [ジャンプ・コミックス] [封印破壊!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ48 [ジャンプ・コミックス] [歓呼の里!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ49 [ジャンプ・コミックス] [五影会談、開幕…!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "22 / 39",
+      "queue_rank": "22 / 40",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "5 / 26",
+      "queue_rank": "5 / 27",
       "pickup_deadline": ""
     },
     {
@@ -214,7 +214,7 @@
       "member": "はる",
       "title": "キングダム 70 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "24 / 27",
+      "queue_rank": "23 / 26",
       "pickup_deadline": ""
     },
     {
