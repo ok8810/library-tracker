@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T06:32:41.685031+00:00",
+  "updated_at": "2026-06-27T10:52:16.321360+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -166,14 +166,14 @@
       "title": "NARUTO 巻ノ48 [ジャンプ・コミックス] [歓呼の里!!]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/07/04"
     },
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ49 [ジャンプ・コミックス] [五影会談、開幕…!!]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/07/04"
     },
     {
       "member": "パパ",
@@ -200,7 +200,7 @@
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "5 / 27",
+      "queue_rank": "4 / 27",
       "pickup_deadline": ""
     },
     {
