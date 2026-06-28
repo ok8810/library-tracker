@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T10:52:16.321360+00:00",
+  "updated_at": "2026-06-28T07:05:29.020556+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -178,8 +178,8 @@
     {
       "member": "パパ",
       "title": "AIで作るプレゼン資料入門ガイド ChatGPT Claude Gemini Copilot活用",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 4",
+      "status": "移送中",
+      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
@@ -200,7 +200,7 @@
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "4 / 27",
+      "queue_rank": "2 / 24",
       "pickup_deadline": ""
     },
     {
@@ -221,7 +221,7 @@
       "member": "はる",
       "title": "キングダム 71 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "27 / 31",
+      "queue_rank": "26 / 30",
       "pickup_deadline": ""
     },
     {
