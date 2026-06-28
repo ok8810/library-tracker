@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-06-28T07:05:29.020556+00:00",
+  "updated_at": "2026-06-28T10:57:53.968709+00:00",
   "loans": [
-    {
-      "member": "パパ",
-      "title": "実践Claude Code入門 現場で活用するためのAIコーディングの思考法 [エンジニア選書]",
-      "due_date": "2026/06/24"
-    },
-    {
-      "member": "パパ",
-      "title": "本好きの下剋上 第4部[8] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
-      "due_date": "2026/06/24"
-    },
-    {
-      "member": "パパ",
-      "title": "本好きの下剋上 短編集1 司書になるためには手段を選んでいられません",
-      "due_date": "2026/06/24"
-    },
-    {
-      "member": "ママ",
-      "title": "Google NotebookLM徹底活用術 最速で仕事の進め方が激変する",
-      "due_date": "2026/06/24"
-    },
-    {
-      "member": "はる",
-      "title": "ふつつかな悪女ではございますが 7 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "due_date": "2026/06/24"
-    },
-    {
-      "member": "ほの",
-      "title": "暗殺教室 1 [ジャンプ・コミックス] [暗殺の時間]",
-      "due_date": "2026/06/24"
-    },
     {
       "member": "ママ",
       "title": "だっこだっこだーいすき [0.1.2.えほん]",
@@ -95,86 +65,64 @@
       "member": "パパ",
       "title": "本好きの下剋上 第4部[9] 司書になるためには手段を選んでいられません [貴族院の自称図書委員]",
       "due_date": "2026/07/07"
-    }
-  ],
-  "reservations": [
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ41 [ジャンプ・コミックス] [自来也の選択!!]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/06/30"
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO秘伝・者の書 キャラクターオフィシャルデータBOOK [ジャンプ・コミックス]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/06/30"
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ46 [ジャンプ・コミックス] [ナルト帰還!!]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/06/30"
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ50 [ジャンプ・コミックス] [水牢の死闘!!]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/06/30"
-    },
-    {
-      "member": "ほの",
-      "title": "暗殺教室 10 [ジャンプ・コミックス] [泥棒の時間]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/06/30"
-    },
-    {
-      "member": "ほの",
-      "title": "暗殺教室 11 [ジャンプ・コミックス] [体育祭の時間]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/06/30"
-    },
-    {
-      "member": "はる",
-      "title": "本好きの下剋上 ハンネローレの貴族院5年生3",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/07/01"
     },
     {
       "member": "パパ",
       "title": "Google NotebookLMのツボとコツがゼッタイにわかる本 [最初からそう教えてくれればいいのに!]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/07/03"
+      "due_date": "2026/07/12"
     },
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ47 [ジャンプ・コミックス] [封印破壊!!]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/07/04"
+      "due_date": "2026/07/12"
     },
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ48 [ジャンプ・コミックス] [歓呼の里!!]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/07/04"
+      "due_date": "2026/07/12"
     },
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ49 [ジャンプ・コミックス] [五影会談、開幕…!!]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/07/04"
+      "due_date": "2026/07/12"
     },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ50 [ジャンプ・コミックス] [水牢の死闘!!]",
+      "due_date": "2026/07/12"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ46 [ジャンプ・コミックス] [ナルト帰還!!]",
+      "due_date": "2026/07/12"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO秘伝・者の書 キャラクターオフィシャルデータBOOK [ジャンプ・コミックス]",
+      "due_date": "2026/07/12"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ41 [ジャンプ・コミックス] [自来也の選択!!]",
+      "due_date": "2026/07/12"
+    },
+    {
+      "member": "はる",
+      "title": "本好きの下剋上 ハンネローレの貴族院5年生3",
+      "due_date": "2026/07/12"
+    },
+    {
+      "member": "ほの",
+      "title": "暗殺教室 11 [ジャンプ・コミックス] [体育祭の時間]",
+      "due_date": "2026/07/12"
+    },
+    {
+      "member": "ほの",
+      "title": "暗殺教室 10 [ジャンプ・コミックス] [泥棒の時間]",
+      "due_date": "2026/07/12"
+    }
+  ],
+  "reservations": [
     {
       "member": "パパ",
       "title": "AIで作るプレゼン資料入門ガイド ChatGPT Claude Gemini Copilot活用",
