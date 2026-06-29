@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T10:57:53.968709+00:00",
+  "updated_at": "2026-06-29T08:18:43.186954+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -132,7 +132,63 @@
     },
     {
       "member": "パパ",
+      "title": "ド根性忍伝 自来也 [JUMP J BOOKS]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "本好きの下剋上 第5部[1] 司書になるためには手段を選んでいられません [女神の化身]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "本好きの下剋上 第5部[2] 司書になるためには手段を選んでいられません [女神の化身]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
       "title": "NARUTO 巻ノ38 [ジャンプ・コミックス] [修業の成果…!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ51 [ジャンプ・コミックス] [サスケVSダンゾウ…!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ52 [ジャンプ・コミックス] [それぞれの第七班!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ53 [ジャンプ・コミックス] [ナルトの出生]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ54 [ジャンプ・コミックス] [平和への懸け橋]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ55 [ジャンプ・コミックス] [大戦、開戦!]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
