@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T12:54:59.573914+00:00",
+  "updated_at": "2026-06-30T06:58:49.322693+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -126,30 +126,30 @@
     {
       "member": "パパ",
       "title": "AIで作るプレゼン資料入門ガイド ChatGPT Claude Gemini Copilot活用",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/07/07"
     },
     {
       "member": "パパ",
       "title": "ド根性忍伝 自来也 [JUMP J BOOKS]",
-      "status": "予約解除可能",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/07/07"
     },
     {
       "member": "パパ",
       "title": "本好きの下剋上 第5部[1] 司書になるためには手段を選んでいられません [女神の化身]",
-      "status": "予約解除可能",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/07/07"
     },
     {
       "member": "パパ",
       "title": "本好きの下剋上 第5部[2] 司書になるためには手段を選んでいられません [女神の化身]",
-      "status": "予約解除可能",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/07/07"
     },
     {
       "member": "パパ",
@@ -204,7 +204,7 @@
       "member": "ママ",
       "title": "つかめ!理科ダマン 11 [みんながロボットに夢中!編]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 25",
+      "queue_rank": "1 / 24",
       "pickup_deadline": ""
     },
     {
