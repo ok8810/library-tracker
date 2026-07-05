@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T06:44:29.363852+00:00",
+  "updated_at": "2026-07-05T10:57:25.114718+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -184,6 +184,27 @@
   ],
   "reservations": [
     {
+      "member": "ほの",
+      "title": "暗殺教室 19 [ジャンプコミックス] [登校の時間]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "暗殺教室 20 [ジャンプコミックス] [卒業の時間]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ネットワーク構築&運用がこれ1冊でしっかりわかる教科書 [図解即戦力]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "NARUTO 巻ノ56 [ジャンプ・コミックス] [再会、アスマ班!]",
       "status": "予約解除可能",
@@ -215,7 +236,7 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "20 / 38",
+      "queue_rank": "20 / 39",
       "pickup_deadline": ""
     },
     {
@@ -251,13 +272,6 @@
       "title": "ふつつかな悪女ではございますが 9 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ネットワーク構築&運用がこれ1冊でしっかりわかる教科書 [図解即戦力]",
-      "status": "予約解除可能",
-      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
@@ -298,20 +312,6 @@
     {
       "member": "ほの",
       "title": "暗殺教室 18 [ジャンプコミックス] [バレンタインの時間]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "暗殺教室 19 [ジャンプコミックス] [登校の時間]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "暗殺教室 20 [ジャンプコミックス] [卒業の時間]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
