@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T06:50:29.051357+00:00",
+  "updated_at": "2026-07-07T11:36:15.149601+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -205,6 +205,41 @@
       "pickup_deadline": "2026/07/14"
     },
     {
+      "member": "ほの",
+      "title": "暗殺教室 13 [ジャンプコミックス] [進路の時間]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "暗殺教室 14 [ジャンプコミックス] [期末の時間]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "暗殺教室 15 [ジャンプコミックス] [嵐の時間]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "暗殺教室 16 [ジャンプコミックス] [過去の時間]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "暗殺教室 18 [ジャンプコミックス] [バレンタインの時間]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "NARUTO 巻ノ56 [ジャンプ・コミックス] [再会、アスマ班!]",
       "status": "予約解除可能",
@@ -276,42 +311,7 @@
     },
     {
       "member": "ほの",
-      "title": "暗殺教室 13 [ジャンプコミックス] [進路の時間]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "暗殺教室 14 [ジャンプコミックス] [期末の時間]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "暗殺教室 15 [ジャンプコミックス] [嵐の時間]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "暗殺教室 16 [ジャンプコミックス] [過去の時間]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
       "title": "暗殺教室 17 [ジャンプコミックス] [分裂の時間]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "暗殺教室 18 [ジャンプコミックス] [バレンタインの時間]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
