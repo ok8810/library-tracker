@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T12:34:25.043609+00:00",
+  "updated_at": "2026-07-07T06:50:29.051357+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -186,23 +186,23 @@
     {
       "member": "ほの",
       "title": "暗殺教室 19 [ジャンプコミックス] [登校の時間]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/07/14"
     },
     {
       "member": "ほの",
       "title": "暗殺教室 20 [ジャンプコミックス] [卒業の時間]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/07/14"
     },
     {
       "member": "ほの",
       "title": "ネットワーク構築&運用がこれ1冊でしっかりわかる教科書 [図解即戦力]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/07/14"
     },
     {
       "member": "パパ",
@@ -243,7 +243,7 @@
       "member": "はる",
       "title": "キングダム 69 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "13 / 17",
+      "queue_rank": "12 / 16",
       "pickup_deadline": ""
     },
     {
