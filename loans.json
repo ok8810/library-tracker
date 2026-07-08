@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T11:36:15.149601+00:00",
+  "updated_at": "2026-07-08T05:56:15.723900+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -207,35 +207,35 @@
     {
       "member": "ほの",
       "title": "暗殺教室 13 [ジャンプコミックス] [進路の時間]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "暗殺教室 14 [ジャンプコミックス] [期末の時間]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "暗殺教室 15 [ジャンプコミックス] [嵐の時間]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "暗殺教室 16 [ジャンプコミックス] [過去の時間]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "暗殺教室 18 [ジャンプコミックス] [バレンタインの時間]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -285,14 +285,14 @@
       "member": "はる",
       "title": "キングダム 70 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "22 / 25",
+      "queue_rank": "21 / 24",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
       "title": "キングダム 71 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "26 / 30",
+      "queue_rank": "25 / 29",
       "pickup_deadline": ""
     },
     {
