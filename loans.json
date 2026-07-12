@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T06:08:04.362091+00:00",
+  "updated_at": "2026-07-12T10:17:34.682444+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -207,6 +207,13 @@
     },
     {
       "member": "パパ",
+      "title": "本好きの下剋上 第5部[5] 司書になるためには手段を選んでいられません [女神の化身]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
       "title": "NARUTO 巻ノ56 [ジャンプ・コミックス] [再会、アスマ班!]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
@@ -234,17 +241,10 @@
       "pickup_deadline": ""
     },
     {
-      "member": "パパ",
-      "title": "本好きの下剋上 第5部[5] 司書になるためには手段を選んでいられません [女神の化身]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "18 / 38",
+      "queue_rank": "18 / 39",
       "pickup_deadline": ""
     },
     {
