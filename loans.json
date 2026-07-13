@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T10:17:34.682444+00:00",
+  "updated_at": "2026-07-13T06:23:55.660364+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -322,20 +322,6 @@
       "title": "呪術廻戦 3 [ジャンプコミックス] [幼魚と逆罰]",
       "status": "予約解除可能",
       "queue_rank": "4 / 4",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 4 [ジャンプコミックス] [殺してやる]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 5 [ジャンプコミックス] [京都姉妹校交流会]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     }
   ]
