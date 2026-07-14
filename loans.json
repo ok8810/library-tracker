@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T05:35:38.047169+00:00",
+  "updated_at": "2026-07-14T10:28:18.537555+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -210,7 +210,7 @@
       "title": "本好きの下剋上 第5部[5] 司書になるためには手段を選んでいられません [女神の化身]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/07/21"
     },
     {
       "member": "パパ",
@@ -242,6 +242,20 @@
     },
     {
       "member": "ママ",
+      "title": "トイ・ストーリー3“Toy to Toy” [えいごでよむディズニーえほん]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "トイ・ストーリー3 [ディズニーアニメ小説版]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
       "queue_rank": "18 / 39",
@@ -257,6 +271,20 @@
     {
       "member": "ママ",
       "title": "ふつつかな悪女ではございますが 3 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "トイ・ストーリー3 2歳から [ディズニーゴールド絵本ベスト]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "トイ・ストーリー3 2～4歳向け [ディズニースーパーゴールド絵本]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
