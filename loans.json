@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T05:37:03.362344+00:00",
+  "updated_at": "2026-07-15T10:41:10.753094+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -214,17 +214,17 @@
     },
     {
       "member": "ママ",
-      "title": "トイ・ストーリー3 [ディズニーアニメ小説版]",
+      "title": "トイ・ストーリー3“Toy to Toy” [えいごでよむディズニーえほん]",
       "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": "2026/07/22"
     },
     {
       "member": "ママ",
-      "title": "トイ・ストーリー3“Toy to Toy” [えいごでよむディズニーえほん]",
+      "title": "トイ・ストーリー3 [ディズニーアニメ小説版]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/07/22"
     },
     {
       "member": "パパ",
@@ -258,7 +258,7 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "17 / 38",
+      "queue_rank": "17 / 39",
       "pickup_deadline": ""
     },
     {
@@ -321,7 +321,7 @@
       "member": "はる",
       "title": "キングダム 70 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "21 / 25",
+      "queue_rank": "20 / 24",
       "pickup_deadline": ""
     },
     {
