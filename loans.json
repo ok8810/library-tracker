@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T10:28:18.537555+00:00",
+  "updated_at": "2026-07-15T05:37:03.362344+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -213,6 +213,20 @@
       "pickup_deadline": "2026/07/21"
     },
     {
+      "member": "ママ",
+      "title": "トイ・ストーリー3 [ディズニーアニメ小説版]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/07/22"
+    },
+    {
+      "member": "ママ",
+      "title": "トイ・ストーリー3“Toy to Toy” [えいごでよむディズニーえほん]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "NARUTO 巻ノ56 [ジャンプ・コミックス] [再会、アスマ班!]",
       "status": "予約解除可能",
@@ -242,23 +256,9 @@
     },
     {
       "member": "ママ",
-      "title": "トイ・ストーリー3“Toy to Toy” [えいごでよむディズニーえほん]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "トイ・ストーリー3 [ディズニーアニメ小説版]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "18 / 39",
+      "queue_rank": "17 / 38",
       "pickup_deadline": ""
     },
     {
@@ -285,6 +285,27 @@
     {
       "member": "ママ",
       "title": "トイ・ストーリー3 2～4歳向け [ディズニースーパーゴールド絵本]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "ふつつかな悪女ではございますが 4 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "ふつつかな悪女ではございますが 6 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "ふつつかな悪女ではございますが 5 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
