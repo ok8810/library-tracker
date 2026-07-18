@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T10:28:59.144774+00:00",
+  "updated_at": "2026-07-18T05:31:25.993986+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -219,6 +219,13 @@
   ],
   "reservations": [
     {
+      "member": "ママ",
+      "title": "トイ・ストーリー3 2～4歳向け [ディズニースーパーゴールド絵本]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/07/25"
+    },
+    {
       "member": "パパ",
       "title": "NARUTO 巻ノ56 [ジャンプ・コミックス] [再会、アスマ班!]",
       "status": "予約解除可能",
@@ -243,7 +250,7 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "17 / 39",
+      "queue_rank": "16 / 39",
       "pickup_deadline": ""
     },
     {
@@ -263,13 +270,6 @@
     {
       "member": "ママ",
       "title": "トイ・ストーリー3 2歳から [ディズニーゴールド絵本ベスト]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "トイ・ストーリー3 2～4歳向け [ディズニースーパーゴールド絵本]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
@@ -341,7 +341,7 @@
       "member": "ほの",
       "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
       "status": "予約解除可能",
-      "queue_rank": "7 / 7",
+      "queue_rank": "6 / 6",
       "pickup_deadline": ""
     },
     {
@@ -355,7 +355,7 @@
       "member": "ほの",
       "title": "呪術廻戦 3 [ジャンプコミックス] [幼魚と逆罰]",
       "status": "予約解除可能",
-      "queue_rank": "4 / 4",
+      "queue_rank": "3 / 3",
       "pickup_deadline": ""
     }
   ]
