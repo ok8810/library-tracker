@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T10:18:14.573989+00:00",
+  "updated_at": "2026-07-20T06:21:18.597575+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -223,9 +223,9 @@
     {
       "member": "ほの",
       "title": "Akira Part 6 [金田]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/07/28"
     },
     {
       "member": "パパ",
