@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T11:33:31.580618+00:00",
+  "updated_at": "2026-07-21T05:54:54.155248+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -230,15 +230,15 @@
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ59 [ジャンプ・コミックス] [五影集結…!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "status": "準備できました",
+      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ60 [ジャンプ・コミックス] [九喇嘛!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "status": "準備できました",
+      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
@@ -301,14 +301,14 @@
       "member": "ほの",
       "title": "呪術廻戦 2 [ジャンプコミックス] [呪胎戴天]",
       "status": "予約解除可能",
-      "queue_rank": "3 / 4",
+      "queue_rank": "2 / 4",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 3 [ジャンプコミックス] [幼魚と逆罰]",
       "status": "予約解除可能",
-      "queue_rank": "3 / 4",
+      "queue_rank": "3 / 5",
       "pickup_deadline": ""
     },
     {
