@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T05:54:54.155248+00:00",
+  "updated_at": "2026-07-21T10:54:48.762680+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -221,25 +221,25 @@
       "pickup_deadline": "2026/07/26"
     },
     {
-      "member": "ほの",
-      "title": "Akira Part 6 [金田]",
+      "member": "パパ",
+      "title": "NARUTO 巻ノ59 [ジャンプ・コミックス] [五影集結…!!]",
       "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": "2026/07/28"
     },
     {
       "member": "パパ",
-      "title": "NARUTO 巻ノ59 [ジャンプ・コミックス] [五影集結…!!]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
       "title": "NARUTO 巻ノ60 [ジャンプ・コミックス] [九喇嘛!!]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/07/28"
+    },
+    {
+      "member": "ほの",
+      "title": "Akira Part 6 [金田]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/07/28"
     },
     {
       "member": "ママ",
