@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T10:54:48.762680+00:00",
+  "updated_at": "2026-07-22T05:54:13.280817+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -240,6 +240,48 @@
       "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": "2026/07/28"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ62 [ジャンプ・コミックス] [皹]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "迅雷伝 狼の哭く日 [JUMP J BOOKS]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ61 [ジャンプ・コミックス] [兄弟、共闘!!]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ63 [ジャンプ・コミックス] [夢の世界]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ64 [ジャンプ・コミックス] [十尾]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ65 [ジャンプ・コミックス] [柱間とマダラ]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
     },
     {
       "member": "ママ",
