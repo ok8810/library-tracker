@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T12:08:52.241468+00:00",
+  "updated_at": "2026-07-28T05:51:04.810221+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -181,6 +181,27 @@
       "pickup_deadline": "2026/08/01"
     },
     {
+      "member": "はる",
+      "title": "ふつつかな悪女ではございますが 8 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
+      "title": "ふつつかな悪女ではございますが 9 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
+      "title": "ふつつかな悪女ではございますが 10 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "NARUTO 巻ノ61 [ジャンプ・コミックス] [兄弟、共闘!!]",
       "status": "予約解除可能",
@@ -219,14 +240,14 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "14 / 38",
+      "queue_rank": "13 / 37",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "ふつつかな悪女ではございますが 7 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
@@ -248,27 +269,6 @@
       "title": "キングダム 71 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "23 / 28",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "はる",
-      "title": "ふつつかな悪女ではございますが 8 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "はる",
-      "title": "ふつつかな悪女ではございますが 9 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "はる",
-      "title": "ふつつかな悪女ではございますが 10 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "status": "予約解除可能",
-      "queue_rank": "2 / 2",
       "pickup_deadline": ""
     },
     {
