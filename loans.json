@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T11:12:41.975841+00:00",
+  "updated_at": "2026-07-30T05:44:53.256757+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -19,11 +19,6 @@
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ58 [ジャンプ・コミックス] [ナルトVSイタチ]",
-      "due_date": "2026/07/31"
-    },
-    {
-      "member": "ママ",
-      "title": "トイ・ストーリー3 [ディズニーアニメ小説版]",
       "due_date": "2026/07/31"
     },
     {
@@ -170,6 +165,11 @@
       "member": "ほの",
       "title": "ネットワーク構築&運用がこれ1冊でしっかりわかる教科書 [図解即戦力]",
       "due_date": "2026/08/09"
+    },
+    {
+      "member": "ママ",
+      "title": "トイ・ストーリー3 [ディズニーアニメ小説版]",
+      "due_date": "2026/08/13"
     }
   ],
   "reservations": [
@@ -200,6 +200,13 @@
       "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": "2026/08/05"
+    },
+    {
+      "member": "はる",
+      "title": "ふつつかな悪女ではございますが 11 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/08/06"
     },
     {
       "member": "パパ",
@@ -272,24 +279,31 @@
       "pickup_deadline": ""
     },
     {
+      "member": "はる",
+      "title": "ふつつかな悪女ではございますが 12 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "status": "予約解除可能",
+      "queue_rank": "8 / 8",
+      "pickup_deadline": ""
+    },
+    {
       "member": "ほの",
       "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
       "status": "予約解除可能",
-      "queue_rank": "6 / 7",
+      "queue_rank": "5 / 7",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 2 [ジャンプコミックス] [呪胎戴天]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 4",
+      "queue_rank": "2 / 5",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 3 [ジャンプコミックス] [幼魚と逆罰]",
       "status": "予約解除可能",
-      "queue_rank": "3 / 5",
+      "queue_rank": "2 / 5",
       "pickup_deadline": ""
     },
     {
