@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T10:56:56.735027+00:00",
+  "updated_at": "2026-07-31T06:17:04.792159+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -247,14 +247,14 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "13 / 37",
+      "queue_rank": "12 / 36",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "ふつつかな悪女ではございますが 7 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
@@ -275,7 +275,7 @@
       "member": "はる",
       "title": "キングダム 71 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "23 / 28",
+      "queue_rank": "22 / 27",
       "pickup_deadline": ""
     },
     {
@@ -289,14 +289,14 @@
       "member": "ほの",
       "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
       "status": "予約解除可能",
-      "queue_rank": "5 / 7",
+      "queue_rank": "5 / 8",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 2 [ジャンプコミックス] [呪胎戴天]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 5",
+      "queue_rank": "2 / 6",
       "pickup_deadline": ""
     },
     {
