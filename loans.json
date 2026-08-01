@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T05:59:35.888048+00:00",
+  "updated_at": "2026-08-01T10:25:15.371126+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -29,16 +29,6 @@
     {
       "member": "ママ",
       "title": "トイ・ストーリー3 2歳から [ディズニーゴールド絵本ベスト]",
-      "due_date": "2026/08/02"
-    },
-    {
-      "member": "はる",
-      "title": "脱炭素のビジネス戦略と技術がこれ1冊でしっかりわかる教科書 [図解即戦力]",
-      "due_date": "2026/08/02"
-    },
-    {
-      "member": "ほの",
-      "title": "Akira Part1 [鉄雄]",
       "due_date": "2026/08/02"
     },
     {
@@ -135,55 +125,122 @@
       "member": "ママ",
       "title": "トイ・ストーリー3 [ディズニーアニメ小説版]",
       "due_date": "2026/08/13"
-    }
-  ],
-  "reservations": [
+    },
     {
       "member": "パパ",
       "title": "本好きの下剋上 第5部[6] 司書になるためには手段を選んでいられません [女神の化身]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/08/01"
+      "due_date": "2026/08/15"
+    },
+    {
+      "member": "はる",
+      "title": "脱炭素のビジネス戦略と技術がこれ1冊でしっかりわかる教科書 [図解即戦力]",
+      "due_date": "2026/08/15"
+    },
+    {
+      "member": "はる",
+      "title": "パンケーキ [アンパンマンおままごとえほん]",
+      "due_date": "2026/08/15"
+    },
+    {
+      "member": "はる",
+      "title": "本当にあった?世にも奇妙なお話",
+      "due_date": "2026/08/15"
+    },
+    {
+      "member": "はる",
+      "title": "アンパンマンとはみがきやま [アンパンマンのおはなしでてこい]",
+      "due_date": "2026/08/15"
+    },
+    {
+      "member": "はる",
+      "title": "マッシュル-MASHLE- 11 [ジャンプコミックス] [マッシュ・バーンデッドと水の神]",
+      "due_date": "2026/08/15"
+    },
+    {
+      "member": "はる",
+      "title": "アンパンマンとおでかけいってきます! [ベイビー・アンパンマン]",
+      "due_date": "2026/08/15"
+    },
+    {
+      "member": "はる",
+      "title": "100億円求人 [KADOKAWA TSUBASA BOOKS]",
+      "due_date": "2026/08/15"
     },
     {
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 8 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/08/05"
+      "due_date": "2026/08/15"
     },
     {
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 9 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/08/05"
+      "due_date": "2026/08/15"
+    },
+    {
+      "member": "はる",
+      "title": "メロンパンナとこおりのじょおう [それいけ!アンパンマンアニメストーリーズ]",
+      "due_date": "2026/08/15"
     },
     {
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 10 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/08/05"
+      "due_date": "2026/08/15"
     },
     {
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 11 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/08/06"
+      "due_date": "2026/08/15"
     },
+    {
+      "member": "はる",
+      "title": "転校先の小学校が思っていたのとちがった 3",
+      "due_date": "2026/08/15"
+    },
+    {
+      "member": "ほの",
+      "title": "Akira Part1 [鉄雄]",
+      "due_date": "2026/08/15"
+    },
+    {
+      "member": "ほの",
+      "title": "あたまがよくなる!最強なぞなぞだいじてんデラックス なぞなぞ605もん",
+      "due_date": "2026/08/15"
+    },
+    {
+      "member": "ほの",
+      "title": "超もりあがる!5分間ゲーム [大人にはないしょだよ]",
+      "due_date": "2026/08/15"
+    },
+    {
+      "member": "ほの",
+      "title": "ぴょこたんのなぞなぞ1616(いろいろ)",
+      "due_date": "2026/08/15"
+    },
+    {
+      "member": "ほの",
+      "title": "ふしぎなグミ実験室 作って食べて科学のナゾをおいしく解き明かす! [まなぶっく]",
+      "due_date": "2026/08/15"
+    }
+  ],
+  "reservations": [
     {
       "member": "ほの",
       "title": "Akira Part4 [ケイ]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/08/08"
     },
     {
       "member": "ほの",
       "title": "Akira Part 5 [ケイ]",
       "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/08/08"
+    },
+    {
+      "member": "ほの",
+      "title": "Akira Part2 [アキラ]",
+      "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -220,6 +277,13 @@
       "title": "本好きの下剋上 第5部[7] 司書になるためには手段を選んでいられません [女神の化身]",
       "status": "予約解除可能",
       "queue_rank": "1 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "Akira Part3 [アキラ]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
       "pickup_deadline": ""
     },
     {
@@ -283,13 +347,6 @@
       "title": "呪術廻戦 3 [ジャンプコミックス] [幼魚と逆罰]",
       "status": "予約解除可能",
       "queue_rank": "2 / 5",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "Akira Part2 [アキラ]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     }
   ]
