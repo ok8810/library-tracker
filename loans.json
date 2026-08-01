@@ -1,31 +1,6 @@
 {
-  "updated_at": "2026-07-31T11:15:56.378255+00:00",
+  "updated_at": "2026-08-01T05:59:35.888048+00:00",
   "loans": [
-    {
-      "member": "パパ",
-      "title": "ド根性忍伝 自来也 [JUMP J BOOKS]",
-      "due_date": "2026/07/31"
-    },
-    {
-      "member": "パパ",
-      "title": "本好きの下剋上 第5部[5] 司書になるためには手段を選んでいられません [女神の化身]",
-      "due_date": "2026/07/31"
-    },
-    {
-      "member": "パパ",
-      "title": "本好きの下剋上 第5部[4] 司書になるためには手段を選んでいられません [女神の化身]",
-      "due_date": "2026/07/31"
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ58 [ジャンプ・コミックス] [ナルトVSイタチ]",
-      "due_date": "2026/07/31"
-    },
-    {
-      "member": "ママ",
-      "title": "トイ・ストーリー3“Toy to Toy” [えいごでよむディズニーえほん]",
-      "due_date": "2026/07/31"
-    },
     {
       "member": "ママ",
       "title": "図解でよくわかるネットワークの重要用語解説",
@@ -49,11 +24,6 @@
     {
       "member": "ママ",
       "title": "トイ・ストーリー3 2～4歳向け [ディズニースーパーゴールド絵本]",
-      "due_date": "2026/08/02"
-    },
-    {
-      "member": "ママ",
-      "title": "ふつつかな悪女ではございますが 5 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "due_date": "2026/08/02"
     },
     {
@@ -94,11 +64,6 @@
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ62 [ジャンプ・コミックス] [皹]",
-      "due_date": "2026/08/07"
-    },
-    {
-      "member": "ママ",
-      "title": "ふつつかな悪女ではございますが 6 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "due_date": "2026/08/07"
     },
     {
@@ -209,6 +174,20 @@
       "pickup_deadline": "2026/08/06"
     },
     {
+      "member": "ほの",
+      "title": "Akira Part4 [ケイ]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "Akira Part 5 [ケイ]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "NARUTO 巻ノ61 [ジャンプ・コミックス] [兄弟、共闘!!]",
       "status": "予約解除可能",
@@ -309,20 +288,6 @@
     {
       "member": "ほの",
       "title": "Akira Part2 [アキラ]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "Akira Part4 [ケイ]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "Akira Part 5 [ケイ]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
