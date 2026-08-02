@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T10:25:15.371126+00:00",
+  "updated_at": "2026-08-02T06:06:16.480917+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -74,11 +74,6 @@
     {
       "member": "はる",
       "title": "おぱっけ～ [あかちゃんといっしょ0・1・2]",
-      "due_date": "2026/08/07"
-    },
-    {
-      "member": "ほの",
-      "title": "Akira Part 6 [金田]",
       "due_date": "2026/08/07"
     },
     {
@@ -220,6 +215,11 @@
       "member": "ほの",
       "title": "ふしぎなグミ実験室 作って食べて科学のナゾをおいしく解き明かす! [まなぶっく]",
       "due_date": "2026/08/15"
+    },
+    {
+      "member": "ほの",
+      "title": "Akira Part 6 [金田]",
+      "due_date": "2026/08/16"
     }
   ],
   "reservations": [
@@ -240,9 +240,9 @@
     {
       "member": "ほの",
       "title": "Akira Part2 [アキラ]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/08/09"
     },
     {
       "member": "パパ",
@@ -339,7 +339,7 @@
       "member": "ほの",
       "title": "呪術廻戦 2 [ジャンプコミックス] [呪胎戴天]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 6",
+      "queue_rank": "2 / 7",
       "pickup_deadline": ""
     },
     {
