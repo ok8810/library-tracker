@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-08-02T06:06:16.480917+00:00",
+  "updated_at": "2026-08-02T10:23:40.952547+00:00",
   "loans": [
-    {
-      "member": "ママ",
-      "title": "図解でよくわかるネットワークの重要用語解説",
-      "due_date": "2026/08/02"
-    },
-    {
-      "member": "ママ",
-      "title": "完全図解ネットワーク構築入門 これ1冊で丸わかり [日経BPムック]",
-      "due_date": "2026/08/02"
-    },
-    {
-      "member": "ママ",
-      "title": "ネットワークのしくみと技術がこれ1冊でしっかりわかる本 [図解即戦力]",
-      "due_date": "2026/08/02"
-    },
-    {
-      "member": "ママ",
-      "title": "ネットワーク図の描き方入門 分かりやすさ・見やすさのルールを学ぶ",
-      "due_date": "2026/08/02"
-    },
-    {
-      "member": "ママ",
-      "title": "トイ・ストーリー3 2～4歳向け [ディズニースーパーゴールド絵本]",
-      "due_date": "2026/08/02"
-    },
-    {
-      "member": "ママ",
-      "title": "トイ・ストーリー3 2歳から [ディズニーゴールド絵本ベスト]",
-      "due_date": "2026/08/02"
-    },
     {
       "member": "ほの",
       "title": "Akira Part3 [アキラ]",
@@ -193,11 +163,6 @@
     },
     {
       "member": "ほの",
-      "title": "Akira Part1 [鉄雄]",
-      "due_date": "2026/08/15"
-    },
-    {
-      "member": "ほの",
       "title": "あたまがよくなる!最強なぞなぞだいじてんデラックス なぞなぞ605もん",
       "due_date": "2026/08/15"
     },
@@ -217,32 +182,38 @@
       "due_date": "2026/08/15"
     },
     {
+      "member": "パパ",
+      "title": "思考を150%言語化するAI文章術 メール、企画書、プレゼン資料",
+      "due_date": "2026/08/16"
+    },
+    {
       "member": "ほの",
       "title": "Akira Part 6 [金田]",
+      "due_date": "2026/08/16"
+    },
+    {
+      "member": "ほの",
+      "title": "Akira Part2 [アキラ]",
+      "due_date": "2026/08/16"
+    },
+    {
+      "member": "ほの",
+      "title": "Akira Part 5 [ケイ]",
+      "due_date": "2026/08/16"
+    },
+    {
+      "member": "ほの",
+      "title": "Akira Part4 [ケイ]",
       "due_date": "2026/08/16"
     }
   ],
   "reservations": [
     {
-      "member": "ほの",
-      "title": "Akira Part4 [ケイ]",
-      "status": "準備できました",
+      "member": "パパ",
+      "title": "1冊ですべてわかるネットワーク運用・保守の基本",
+      "status": "予約解除可能",
       "queue_rank": "",
-      "pickup_deadline": "2026/08/08"
-    },
-    {
-      "member": "ほの",
-      "title": "Akira Part 5 [ケイ]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/08/08"
-    },
-    {
-      "member": "ほの",
-      "title": "Akira Part2 [アキラ]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/08/09"
+      "pickup_deadline": ""
     },
     {
       "member": "パパ",
@@ -304,7 +275,7 @@
       "member": "はる",
       "title": "キングダム 69 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "11 / 17",
+      "queue_rank": "11 / 18",
       "pickup_deadline": ""
     },
     {
