@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-08-03T12:10:28.737406+00:00",
+  "updated_at": "2026-08-04T05:52:00.581087+00:00",
   "loans": [
-    {
-      "member": "ほの",
-      "title": "Akira Part3 [アキラ]",
-      "due_date": "2026/08/02"
-    },
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ59 [ジャンプ・コミックス] [五影集結…!!]",
@@ -187,74 +182,81 @@
       "due_date": "2026/08/16"
     },
     {
-      "member": "ほの",
-      "title": "Akira Part 6 [金田]",
-      "due_date": "2026/08/16"
+      "member": "パパ",
+      "title": "NARUTO 巻ノ65 [ジャンプ・コミックス] [柱間とマダラ]",
+      "due_date": "2026/08/18"
     },
     {
-      "member": "ほの",
-      "title": "Akira Part2 [アキラ]",
-      "due_date": "2026/08/16"
+      "member": "パパ",
+      "title": "NARUTO 巻ノ61 [ジャンプ・コミックス] [兄弟、共闘!!]",
+      "due_date": "2026/08/18"
     },
     {
-      "member": "ほの",
-      "title": "Akira Part 5 [ケイ]",
-      "due_date": "2026/08/16"
+      "member": "パパ",
+      "title": "NARUTO 巻ノ63 [ジャンプ・コミックス] [夢の世界]",
+      "due_date": "2026/08/18"
     },
     {
-      "member": "ほの",
-      "title": "Akira Part4 [ケイ]",
-      "due_date": "2026/08/16"
+      "member": "パパ",
+      "title": "NARUTO 巻ノ64 [ジャンプ・コミックス] [十尾]",
+      "due_date": "2026/08/18"
     }
   ],
   "reservations": [
     {
       "member": "パパ",
       "title": "1冊ですべてわかるネットワーク運用・保守の基本",
-      "status": "予約解除可能",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ61 [ジャンプ・コミックス] [兄弟、共闘!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ63 [ジャンプ・コミックス] [夢の世界]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ64 [ジャンプ・コミックス] [十尾]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "NARUTO 巻ノ65 [ジャンプ・コミックス] [柱間とマダラ]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
+      "member": "ほの",
+      "title": "呪術廻戦 2 [ジャンプコミックス] [呪胎戴天]",
+      "status": "準備できました",
+      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
       "title": "本好きの下剋上 第5部[7] 司書になるためには手段を選んでいられません [女神の化身]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 2",
+      "queue_rank": "1 / 3",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ66 [ジャンプ・コミックス] [新たなる三竦み]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ67 [ジャンプ・コミックス] [突破口]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ68 [ジャンプ・コミックス] [轍]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ69 [ジャンプ・コミックス] [紅き春の始まり]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "12 / 36",
+      "queue_rank": "11 / 35",
       "pickup_deadline": ""
     },
     {
@@ -297,13 +299,6 @@
       "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
       "status": "予約解除可能",
       "queue_rank": "5 / 8",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 2 [ジャンプコミックス] [呪胎戴天]",
-      "status": "予約解除可能",
-      "queue_rank": "2 / 7",
       "pickup_deadline": ""
     },
     {
