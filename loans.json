@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T11:10:51.276067+00:00",
+  "updated_at": "2026-08-06T05:53:16.033170+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -220,14 +220,14 @@
     {
       "member": "パパ",
       "title": "本好きの下剋上 第5部[7] 司書になるためには手段を選んでいられません [女神の化身]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ66 [ジャンプ・コミックス] [新たなる三竦み]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -256,7 +256,7 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "11 / 35",
+      "queue_rank": "10 / 34",
       "pickup_deadline": ""
     },
     {
