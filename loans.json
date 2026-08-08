@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T09:48:04.421751+00:00",
+  "updated_at": "2026-08-08T04:12:51.989865+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -277,14 +277,14 @@
       "member": "はる",
       "title": "キングダム 70 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "19 / 24",
+      "queue_rank": "19 / 25",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
       "title": "キングダム 71 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "22 / 27",
+      "queue_rank": "22 / 28",
       "pickup_deadline": ""
     },
     {
@@ -305,7 +305,7 @@
       "member": "ほの",
       "title": "呪術廻戦 3 [ジャンプコミックス] [幼魚と逆罰]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 5",
+      "queue_rank": "2 / 4",
       "pickup_deadline": ""
     }
   ]
