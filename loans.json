@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T04:54:08.601974+00:00",
+  "updated_at": "2026-08-13T09:52:19.181151+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -185,19 +185,26 @@
       "title": "NARUTO 巻ノ67 [ジャンプ・コミックス] [突破口]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/08/20"
     },
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ68 [ジャンプ・コミックス] [轍]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/08/20"
     },
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ69 [ジャンプ・コミックス] [紅き春の始まり]",
       "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/08/20"
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ70 [ジャンプ・コミックス] [ナルトと六道仙人…!!]",
+      "status": "予約解除可能",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -226,6 +233,13 @@
       "member": "パパ",
       "title": "仮予約 中央１４３ 143",
       "status": "予約解除可能リクエスト",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "NARUTO 巻ノ71 [ジャンプ・コミックス] [大好きだ]",
+      "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
@@ -276,6 +290,13 @@
       "title": "ふつつかな悪女ではございますが 12 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
       "queue_rank": "6 / 6",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "NARUTO 巻ノ72 [ジャンプコミックス] [うずまきナルト!!]",
+      "status": "予約解除可能",
+      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
