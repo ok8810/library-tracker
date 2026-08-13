@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T09:52:28.717359+00:00",
+  "updated_at": "2026-08-13T04:54:08.601974+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -183,29 +183,29 @@
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ67 [ジャンプ・コミックス] [突破口]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "status": "準備できました",
+      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ68 [ジャンプ・コミックス] [轍]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "status": "準備できました",
+      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ69 [ジャンプ・コミックス] [紅き春の始まり]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "status": "準備できました",
+      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
       "title": "Claude仕事術 仕事時間は1/100に成果は200%になる",
       "status": "予約解除可能",
-      "queue_rank": "1 / 2",
+      "queue_rank": "1 / 3",
       "pickup_deadline": ""
     },
     {
@@ -240,7 +240,7 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "10 / 35",
+      "queue_rank": "9 / 34",
       "pickup_deadline": ""
     },
     {
@@ -254,21 +254,21 @@
       "member": "はる",
       "title": "キングダム 69 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "10 / 17",
+      "queue_rank": "10 / 18",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
       "title": "キングダム 70 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "19 / 26",
+      "queue_rank": "19 / 27",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
       "title": "キングダム 71 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "22 / 28",
+      "queue_rank": "22 / 29",
       "pickup_deadline": ""
     },
     {
