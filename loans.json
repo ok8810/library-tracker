@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T09:52:19.181151+00:00",
+  "updated_at": "2026-08-14T04:51:34.735805+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -59,11 +59,6 @@
     {
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 10 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "due_date": "2026/08/15"
-    },
-    {
-      "member": "はる",
-      "title": "ふつつかな悪女ではございますが 11 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "due_date": "2026/08/15"
     },
     {
@@ -170,6 +165,11 @@
       "member": "ほの",
       "title": "呪術廻戦 2 [ジャンプコミックス] [呪胎戴天]",
       "due_date": "2026/08/25"
+    },
+    {
+      "member": "はる",
+      "title": "ふつつかな悪女ではございますが 11 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "due_date": "2026/08/28"
     }
   ],
   "reservations": [
@@ -204,7 +204,14 @@
     {
       "member": "パパ",
       "title": "NARUTO 巻ノ70 [ジャンプ・コミックス] [ナルトと六道仙人…!!]",
-      "status": "予約解除可能",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "NARUTO 巻ノ72 [ジャンプコミックス] [うずまきナルト!!]",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -212,7 +219,7 @@
       "member": "パパ",
       "title": "Claude仕事術 仕事時間は1/100に成果は200%になる",
       "status": "予約解除可能",
-      "queue_rank": "1 / 3",
+      "queue_rank": "1 / 4",
       "pickup_deadline": ""
     },
     {
@@ -254,7 +261,7 @@
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "9 / 34",
+      "queue_rank": "8 / 33",
       "pickup_deadline": ""
     },
     {
@@ -294,13 +301,6 @@
     },
     {
       "member": "ほの",
-      "title": "NARUTO 巻ノ72 [ジャンプコミックス] [うずまきナルト!!]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
       "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
       "status": "予約解除可能",
       "queue_rank": "4 / 7",
@@ -323,6 +323,13 @@
     {
       "member": "ほの",
       "title": "呪術廻戦 6 [ジャンプコミックス] [黒閃]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "トイ・ストーリー3 [ディズニーアニメ小説版]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
