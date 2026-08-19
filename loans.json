@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T03:50:05.189313+00:00",
+  "updated_at": "2026-08-19T09:22:36.678922+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -275,35 +275,35 @@
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 12 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
-      "queue_rank": "6 / 6",
+      "queue_rank": "6 / 7",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
       "status": "予約解除可能",
-      "queue_rank": "4 / 7",
+      "queue_rank": "4 / 8",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 4 [ジャンプコミックス] [殺してやる]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 5 [ジャンプコミックス] [京都姉妹校交流会]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 6 [ジャンプコミックス] [黒閃]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     }
   ]
