@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T03:49:54.051629+00:00",
+  "updated_at": "2026-08-20T09:21:55.108993+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -195,6 +195,20 @@
       "pickup_deadline": "2026/08/25"
     },
     {
+      "member": "ほの",
+      "title": "呪術廻戦 4 [ジャンプコミックス] [殺してやる]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "入門監視 モダンなモニタリングのためのデザインパターン",
+      "status": "準備できましたリクエスト",
+      "queue_rank": "",
+      "pickup_deadline": "2026/08/27"
+    },
+    {
       "member": "パパ",
       "title": "Claude仕事術 仕事時間は1/100に成果は200%になる",
       "status": "予約解除可能",
@@ -226,13 +240,6 @@
       "member": "パパ",
       "title": "NARUTO 巻ノ71 [ジャンプ・コミックス] [大好きだ]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "入門監視 モダンなモニタリングのためのデザインパターン",
-      "status": "市外図書館依頼中ですリクエスト",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
@@ -283,13 +290,6 @@
       "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
       "status": "予約解除可能",
       "queue_rank": "4 / 8",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 4 [ジャンプコミックス] [殺してやる]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
