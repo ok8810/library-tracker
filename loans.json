@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T09:23:53.501161+00:00",
+  "updated_at": "2026-08-22T03:45:09.979266+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -154,6 +154,13 @@
   ],
   "reservations": [
     {
+      "member": "ママ",
+      "title": "アオアシ 5 [ビッグコミックス] [スピリッツ]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "Claude仕事術 仕事時間は1/100に成果は200%になる",
       "status": "予約解除可能",
@@ -203,6 +210,34 @@
       "pickup_deadline": ""
     },
     {
+      "member": "ママ",
+      "title": "アオアシ 1 [ビッグコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 2 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 3 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 4 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
       "member": "はる",
       "title": "キングダム 69 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
@@ -249,6 +284,27 @@
       "title": "呪術廻戦 6 [ジャンプコミックス] [黒閃]",
       "status": "予約解除可能",
       "queue_rank": "1 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 7 [ジャンプコミックス] [起首雷同]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 8 [ジャンプコミックス] [懐玉]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 9 [ジャンプコミックス] [玉折]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
       "pickup_deadline": ""
     }
   ]
