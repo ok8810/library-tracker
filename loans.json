@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T09:23:05.574458+00:00",
+  "updated_at": "2026-08-26T03:56:49.072947+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -177,8 +177,8 @@
     {
       "member": "パパ",
       "title": "Claude仕事術 仕事時間は1/100に成果は200%になる",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 6",
+      "status": "移送中",
+      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
@@ -235,6 +235,20 @@
       "title": "アオアシ 3 [ビッグコミックス] [スピリッツ]",
       "status": "予約解除可能",
       "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
+      "title": "歴史ゴーストバスターズ 6 [ポプラキミノベル] [消えてくれるな、コオリくん!]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
+      "title": "歴史ゴーストバスターズ 7 [ポプラキミノベル] [新時代の字消士、大集結!]",
+      "status": "予約解除可能",
+      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
