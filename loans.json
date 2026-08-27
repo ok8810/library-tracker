@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T09:28:43.564347+00:00",
+  "updated_at": "2026-08-27T13:57:43.563995+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -168,19 +168,33 @@
       "title": "歴史ゴーストバスターズ 6 [ポプラキミノベル] [消えてくれるな、コオリくん!]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/09/02"
     },
     {
       "member": "パパ",
       "title": "Claude仕事術 仕事時間は1/100に成果は200%になる",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/09/03"
+    },
+    {
+      "member": "はる",
+      "title": "歴史ゴーストバスターズ 7 [ポプラキミノベル] [新時代の字消士、大集結!]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/09/03"
+    },
+    {
+      "member": "ママ",
+      "title": "地図でわかる!国旗の由来ずかん 地図で見る199カ国の国旗の由来!",
       "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
-      "member": "はる",
-      "title": "歴史ゴーストバスターズ 7 [ポプラキミノベル] [新時代の字消士、大集結!]",
-      "status": "移送中",
+      "member": "パパ",
+      "title": "本好きの下剋上 第5部[10] 司書になるためには手段を選んでいられません [女神の化身]",
+      "status": "予約解除可能",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -213,10 +227,24 @@
       "pickup_deadline": ""
     },
     {
+      "member": "パパ",
+      "title": "本好きの下剋上 第5部[11] 司書になるためには手段を選んでいられません [女神の化身]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "自分でつくる!なぞ解き みんなが夢中になるゲームを考えよう! [まなぶっく]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "6 / 31",
+      "queue_rank": "6 / 32",
       "pickup_deadline": ""
     },
     {
@@ -238,6 +266,20 @@
       "title": "アオアシ 3 [ビッグコミックス] [スピリッツ]",
       "status": "予約解除可能",
       "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "2人でもみんなでも楽しめる!解くだけじゃない!謎解きゲームの作り方 謎解き、脱出ゲーム、水平思考クイズ… [I/O BOOKS]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "好きなものを食べて・飲んで中性脂肪・コレステロールを減らすスゴ技100 脂質異常症専門医が教える!",
+      "status": "予約解除可能",
+      "queue_rank": "7 / 8",
       "pickup_deadline": ""
     },
     {
