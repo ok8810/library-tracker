@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T19:18:48.153961+00:00",
+  "updated_at": "2026-08-28T15:09:08.412193+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -160,41 +160,105 @@
       "member": "ママ",
       "title": "アオアシ 5 [ビッグコミックス] [スピリッツ]",
       "due_date": "2026/09/09"
-    }
-  ],
-  "reservations": [
+    },
     {
-      "member": "はる",
-      "title": "歴史ゴーストバスターズ 6 [ポプラキミノベル] [消えてくれるな、コオリくん!]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/09/02"
+      "member": "パパ",
+      "title": "本好きの下剋上 第5部[10] 司書になるためには手段を選んでいられません [女神の化身]",
+      "due_date": "2026/09/11"
     },
     {
       "member": "パパ",
       "title": "Claude仕事術 仕事時間は1/100に成果は200%になる",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/09/03"
+      "due_date": "2026/09/11"
     },
     {
-      "member": "はる",
-      "title": "歴史ゴーストバスターズ 7 [ポプラキミノベル] [新時代の字消士、大集結!]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/09/03"
+      "member": "パパ",
+      "title": "NARUTO 巻ノ71 [ジャンプ・コミックス] [大好きだ]",
+      "due_date": "2026/09/11"
+    },
+    {
+      "member": "ママ",
+      "title": "自分でつくる!なぞ解き みんなが夢中になるゲームを考えよう! [まなぶっく]",
+      "due_date": "2026/09/11"
     },
     {
       "member": "ママ",
       "title": "地図でわかる!国旗の由来ずかん 地図で見る199カ国の国旗の由来!",
+      "due_date": "2026/09/11"
+    },
+    {
+      "member": "はる",
+      "title": "絶対ダマされる!!ひっかけ&10回クイズ 100連発 [大人にはないしょだよ]",
+      "due_date": "2026/09/11"
+    },
+    {
+      "member": "はる",
+      "title": "歴史ゴーストバスターズ 6 [ポプラキミノベル] [消えてくれるな、コオリくん!]",
+      "due_date": "2026/09/11"
+    },
+    {
+      "member": "はる",
+      "title": "実験キング 1 実験対決 シーズン2 [かがくるBOOK] [実験対決シリーズ明日は実験王] [拡張現実と仮想現実]",
+      "due_date": "2026/09/11"
+    },
+    {
+      "member": "はる",
+      "title": "歴史ゴーストバスターズ 7 [ポプラキミノベル] [新時代の字消士、大集結!]",
+      "due_date": "2026/09/11"
+    },
+    {
+      "member": "はる",
+      "title": "超スペシャル版ひっかけクイズ [大人にはないしょだよ]",
+      "due_date": "2026/09/11"
+    }
+  ],
+  "reservations": [
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 5 [ジャンプコミックス] [京都姉妹校交流会]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/09/04"
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 6 [ジャンプコミックス] [黒閃]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/09/04"
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 7 [ジャンプコミックス] [起首雷同]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/09/04"
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 8 [ジャンプコミックス] [懐玉]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/09/04"
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 9 [ジャンプコミックス] [玉折]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/09/04"
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 2 [ビッグコミックス] [スピリッツ]",
       "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
-      "member": "パパ",
-      "title": "本好きの下剋上 第5部[10] 司書になるためには手段を選んでいられません [女神の化身]",
-      "status": "予約解除可能",
+      "member": "ママ",
+      "title": "アオアシ 3 [ビッグコミックス] [スピリッツ]",
+      "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -221,23 +285,9 @@
     },
     {
       "member": "パパ",
-      "title": "NARUTO 巻ノ71 [ジャンプ・コミックス] [大好きだ]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
       "title": "本好きの下剋上 第5部[11] 司書になるためには手段を選んでいられません [女神の化身]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "自分でつくる!なぞ解き みんなが夢中になるゲームを考えよう! [まなぶっく]",
-      "status": "予約解除可能",
-      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
@@ -251,21 +301,7 @@
       "member": "ママ",
       "title": "アオアシ 1 [ビッグコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "アオアシ 2 [ビッグコミックス] [スピリッツ]",
-      "status": "予約解除可能",
-      "queue_rank": "2 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "アオアシ 3 [ビッグコミックス] [スピリッツ]",
-      "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
@@ -311,45 +347,17 @@
       "pickup_deadline": ""
     },
     {
+      "member": "はる",
+      "title": "仮予約 中央１２８ 128",
+      "status": "予約解除可能リクエスト",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
       "member": "ほの",
       "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
       "status": "予約解除可能",
       "queue_rank": "3 / 7",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 5 [ジャンプコミックス] [京都姉妹校交流会]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 3",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 6 [ジャンプコミックス] [黒閃]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 3",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 7 [ジャンプコミックス] [起首雷同]",
-      "status": "予約解除可能",
-      "queue_rank": "2 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 8 [ジャンプコミックス] [懐玉]",
-      "status": "予約解除可能",
-      "queue_rank": "2 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 9 [ジャンプコミックス] [玉折]",
-      "status": "予約解除可能",
-      "queue_rank": "2 / 2",
       "pickup_deadline": ""
     }
   ]
