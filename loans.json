@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T20:27:59.577350+00:00",
+  "updated_at": "2026-08-29T09:51:41.511873+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -251,16 +251,16 @@
     {
       "member": "ママ",
       "title": "アオアシ 2 [ビッグコミックス] [スピリッツ]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/09/05"
     },
     {
       "member": "ママ",
       "title": "アオアシ 3 [ビッグコミックス] [スピリッツ]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/09/05"
     },
     {
       "member": "パパ",
@@ -287,14 +287,14 @@
       "member": "パパ",
       "title": "本好きの下剋上 第5部[11] 司書になるためには手段を選んでいられません [女神の化身]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "6 / 32",
+      "queue_rank": "4 / 30",
       "pickup_deadline": ""
     },
     {
@@ -336,14 +336,14 @@
       "member": "はる",
       "title": "キングダム 71 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "20 / 29",
+      "queue_rank": "19 / 28",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 12 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
-      "queue_rank": "5 / 6",
+      "queue_rank": "4 / 6",
       "pickup_deadline": ""
     },
     {
