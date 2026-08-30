@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T05:15:29.848901+00:00",
+  "updated_at": "2026-08-30T06:35:39.566246+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -267,21 +267,21 @@
       "title": "カカシ秘伝 氷天の雷 [JUMP J BOOKS]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/09/06"
     },
     {
       "member": "パパ",
       "title": "シカマル秘伝 闇の黙に浮ぶ雲 [JUMP J BOOKS]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/09/06"
     },
     {
       "member": "パパ",
       "title": "サクラ秘伝 思恋、春風にのせて [JUMP J BOOKS]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/09/06"
     },
     {
       "member": "パパ",
@@ -371,7 +371,7 @@
       "member": "はる",
       "title": "歴史ゴーストバスターズ 12 [ポプラキミノベル] [字消士ご一行珍道中!?]",
       "status": "予約解除可能リクエスト",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
