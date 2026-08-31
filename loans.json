@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T11:32:52.096481+00:00",
+  "updated_at": "2026-08-31T13:33:12.547472+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -270,6 +270,27 @@
       "pickup_deadline": ""
     },
     {
+      "member": "ママ",
+      "title": "アオアシ 6 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 7 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 8 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
       "member": "はる",
       "title": "キングダム 69 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
@@ -306,9 +327,65 @@
     },
     {
       "member": "ほの",
+      "title": "呪術廻戦 10 [ジャンプコミックス] [宵祭り]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
       "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
       "status": "予約解除可能",
       "queue_rank": "3 / 7",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 11 [ジャンプコミックス] [渋谷事変-開門-]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 12 [ジャンプコミックス] [渋谷事変-降霊-]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 13 [ジャンプコミックス] [渋谷事変-霹靂-]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 14 [ジャンプコミックス] [渋谷事変-理非-]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 15 [ジャンプコミックス] [渋谷事変-変身-]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 16 [ジャンプコミックス] [渋谷事変-閉門-]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 17 [ジャンプコミックス] [葦を啣む]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     }
   ]
