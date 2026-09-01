@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T17:33:05.340409+00:00",
+  "updated_at": "2026-09-01T04:57:40.173524+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -214,6 +214,34 @@
   ],
   "reservations": [
     {
+      "member": "ほの",
+      "title": "呪術廻戦 10 [ジャンプコミックス] [宵祭り]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/09/08"
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 6 [ビッグコミックス] [スピリッツ]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 8 [ビッグコミックス] [スピリッツ]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "本好きの下剋上 第5部[11] 司書になるためには手段を選んでいられません [女神の化身]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "Microsoft 365 Copilot活用大全 成果を最大化するAI時代の働き方",
       "status": "予約解除可能リクエスト",
@@ -235,17 +263,10 @@
       "pickup_deadline": ""
     },
     {
-      "member": "パパ",
-      "title": "本好きの下剋上 第5部[11] 司書になるためには手段を選んでいられません [女神の化身]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
-      "queue_rank": "4 / 29",
+      "queue_rank": "3 / 28",
       "pickup_deadline": ""
     },
     {
@@ -271,21 +292,7 @@
     },
     {
       "member": "ママ",
-      "title": "アオアシ 6 [ビッグコミックス] [スピリッツ]",
-      "status": "予約解除可能",
-      "queue_rank": "2 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
       "title": "アオアシ 7 [ビッグコミックス] [スピリッツ]",
-      "status": "予約解除可能",
-      "queue_rank": "2 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "アオアシ 8 [ビッグコミックス] [スピリッツ]",
       "status": "予約解除可能",
       "queue_rank": "2 / 2",
       "pickup_deadline": ""
@@ -323,13 +330,6 @@
       "title": "歴史ゴーストバスターズ 12 [ポプラキミノベル] [字消士ご一行珍道中!?]",
       "status": "予約解除可能リクエスト",
       "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 10 [ジャンプコミックス] [宵祭り]",
-      "status": "予約解除可能",
-      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
