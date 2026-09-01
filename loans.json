@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T04:57:40.173524+00:00",
+  "updated_at": "2026-09-01T06:13:43.391740+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -214,25 +214,25 @@
   ],
   "reservations": [
     {
-      "member": "ほの",
-      "title": "呪術廻戦 10 [ジャンプコミックス] [宵祭り]",
+      "member": "ママ",
+      "title": "アオアシ 6 [ビッグコミックス] [スピリッツ]",
       "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": "2026/09/08"
     },
     {
       "member": "ママ",
-      "title": "アオアシ 6 [ビッグコミックス] [スピリッツ]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
       "title": "アオアシ 8 [ビッグコミックス] [スピリッツ]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/09/08"
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 10 [ジャンプコミックス] [宵祭り]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/09/08"
     },
     {
       "member": "パパ",
@@ -293,6 +293,13 @@
     {
       "member": "ママ",
       "title": "アオアシ 7 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "歴史を変えた100の科学・技術 [超年表図鑑]",
       "status": "予約解除可能",
       "queue_rank": "2 / 2",
       "pickup_deadline": ""
