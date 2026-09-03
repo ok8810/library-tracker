@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T14:30:48.260880+00:00",
+  "updated_at": "2026-09-03T04:14:27.944686+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -276,14 +276,14 @@
     {
       "member": "パパ",
       "title": "Microsoft 365 Copilot活用大全 成果を最大化するAI時代の働き方",
-      "status": "予約解除可能リクエスト",
+      "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
       "title": "文系・非エンジニアがClaude Codeで自走するAIチームをつくる本 必要なのは国語力!あなたの経験がそのまま活きる!",
-      "status": "予約解除可能リクエスト",
+      "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
@@ -298,7 +298,7 @@
       "member": "パパ",
       "title": "本好きの下剋上 第5部[12] 司書になるためには手段を選んでいられません [女神の化身]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
