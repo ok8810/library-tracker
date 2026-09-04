@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T09:30:36.602655+00:00",
+  "updated_at": "2026-09-04T11:08:40.695390+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -303,6 +303,27 @@
     },
     {
       "member": "ママ",
+      "title": "アオアシ 10 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 11 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 12 [ビッグコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
       "queue_rank": "1 / 26",
@@ -334,6 +355,13 @@
       "title": "歴史を変えた100の科学・技術 [超年表図鑑]",
       "status": "予約解除可能",
       "queue_rank": "2 / 3",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 9 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
