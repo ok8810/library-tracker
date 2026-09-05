@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T14:13:38.086231+00:00",
+  "updated_at": "2026-09-05T04:17:01.554794+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -274,6 +274,34 @@
   ],
   "reservations": [
     {
+      "member": "ママ",
+      "title": "アオアシ 9 [ビッグコミックス] [スピリッツ]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 10 [ビッグコミックス] [スピリッツ]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 11 [ビッグコミックス] [スピリッツ]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 12 [ビッグコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "Microsoft 365 Copilot活用大全 成果を最大化するAI時代の働き方",
       "status": "予約解除可能",
@@ -303,27 +331,6 @@
     },
     {
       "member": "ママ",
-      "title": "アオアシ 10 [ビッグコミックス] [スピリッツ]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "アオアシ 11 [ビッグコミックス] [スピリッツ]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "アオアシ 12 [ビッグコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "予約解除可能",
       "queue_rank": "1 / 26",
@@ -347,7 +354,7 @@
       "member": "ママ",
       "title": "好きなものを食べて・飲んで中性脂肪・コレステロールを減らすスゴ技100 脂質異常症専門医が教える!",
       "status": "予約解除可能",
-      "queue_rank": "7 / 9",
+      "queue_rank": "6 / 8",
       "pickup_deadline": ""
     },
     {
@@ -355,13 +362,6 @@
       "title": "歴史を変えた100の科学・技術 [超年表図鑑]",
       "status": "予約解除可能",
       "queue_rank": "2 / 3",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "アオアシ 9 [ビッグコミックス] [スピリッツ]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
@@ -389,7 +389,7 @@
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 12 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
-      "queue_rank": "4 / 6",
+      "queue_rank": "3 / 5",
       "pickup_deadline": ""
     },
     {
