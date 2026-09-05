@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T08:58:00.414047+00:00",
+  "updated_at": "2026-09-05T10:29:07.022813+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -275,6 +275,13 @@
   "reservations": [
     {
       "member": "ママ",
+      "title": "アオアシ 9 [ビッグコミックス] [スピリッツ]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/09/12"
+    },
+    {
+      "member": "ママ",
       "title": "アオアシ 10 [ビッグコミックス] [スピリッツ]",
       "status": "準備できました",
       "queue_rank": "",
@@ -293,13 +300,6 @@
       "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": "2026/09/12"
-    },
-    {
-      "member": "ママ",
-      "title": "アオアシ 9 [ビッグコミックス] [スピリッツ]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": ""
     },
     {
       "member": "パパ",
