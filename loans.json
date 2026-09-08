@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T04:25:20.507181+00:00",
+  "updated_at": "2026-09-08T05:54:54.407205+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -291,21 +291,21 @@
     },
     {
       "member": "ママ",
-      "title": "アオアシ 13 [ビッグコミックス]",
-      "status": "移送中",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
       "title": "アオアシ 15 [ビッグコミックス] [スピリッツ]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "アオアシ 16 [ビッグコミックス] [スピリッツ]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 13 [ビッグコミックス]",
       "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
