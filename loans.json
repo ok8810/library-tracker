@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T14:25:30.498306+00:00",
+  "updated_at": "2026-09-10T04:29:35.603821+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -284,6 +284,41 @@
   ],
   "reservations": [
     {
+      "member": "ほの",
+      "title": "呪術廻戦 11 [ジャンプコミックス] [渋谷事変-開門-]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/09/17"
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 12 [ジャンプコミックス] [渋谷事変-降霊-]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/09/17"
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 13 [ジャンプコミックス] [渋谷事変-霹靂-]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/09/17"
+    },
+    {
+      "member": "ママ",
+      "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 14 [ビッグコミックス] [スピリッツ]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "Claude活用大全 AIと共に-学び働き遊ぶ実践ガイド",
       "status": "予約解除可能",
@@ -295,13 +330,6 @@
       "title": "本好きの下剋上 第5部[12] 司書になるためには手段を選んでいられません [女神の化身]",
       "status": "予約解除可能",
       "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 26",
       "pickup_deadline": ""
     },
     {
@@ -323,13 +351,6 @@
       "title": "歴史を変えた100の科学・技術 [超年表図鑑]",
       "status": "予約解除可能",
       "queue_rank": "2 / 4",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "アオアシ 14 [ビッグコミックス] [スピリッツ]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
@@ -372,27 +393,6 @@
       "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
       "status": "予約解除可能",
       "queue_rank": "3 / 7",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 11 [ジャンプコミックス] [渋谷事変-開門-]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 12 [ジャンプコミックス] [渋谷事変-降霊-]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 13 [ジャンプコミックス] [渋谷事変-霹靂-]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
