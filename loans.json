@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T08:53:35.812396+00:00",
+  "updated_at": "2026-09-11T09:32:40.348916+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -312,6 +312,13 @@
       "pickup_deadline": "2026/09/17"
     },
     {
+      "member": "パパ",
+      "title": "Claude活用大全 AIと共に-学び働き遊ぶ実践ガイド",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/09/18"
+    },
+    {
       "member": "ママ",
       "title": "つかめ!英語ダマン 英会話で世界にとびだせ!編",
       "status": "準備できました",
@@ -324,13 +331,6 @@
       "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": "2026/09/18"
-    },
-    {
-      "member": "パパ",
-      "title": "Claude活用大全 AIと共に-学び働き遊ぶ実践ガイド",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
-      "pickup_deadline": ""
     },
     {
       "member": "ママ",
