@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T14:17:55.843427+00:00",
+  "updated_at": "2026-09-12T04:25:58.905196+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -334,6 +334,20 @@
     },
     {
       "member": "ママ",
+      "title": "アオアシ 17 [ビッグコミックス] [スピリッツ]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 18 [ビッグコミックス] [スピリッツ]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
       "title": "アオアシ 1 [ビッグコミックス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 2",
@@ -351,6 +365,27 @@
       "title": "歴史を変えた100の科学・技術 [超年表図鑑]",
       "status": "予約解除可能",
       "queue_rank": "2 / 4",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 19 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 20 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 21 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
