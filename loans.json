@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T11:35:24.092988+00:00",
+  "updated_at": "2026-09-12T12:04:41.282248+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -346,6 +346,27 @@
       "pickup_deadline": ""
     },
     {
+      "member": "ママ",
+      "title": "アオアシ 22 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 23 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 24 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
       "member": "はる",
       "title": "キングダム 69 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
@@ -382,6 +403,13 @@
     },
     {
       "member": "ほの",
+      "title": "劇場版呪術廻戦0 ノベライズ みらい文庫版 [集英社みらい文庫]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
       "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
       "status": "予約解除可能",
       "queue_rank": "3 / 8",
@@ -411,6 +439,20 @@
     {
       "member": "ほの",
       "title": "呪術廻戦 17 [ジャンプコミックス] [葦を啣む]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 18 [ジャンプコミックス] [熱]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 19 [ジャンプコミックス] [東京第一結界-怒れる男-]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
