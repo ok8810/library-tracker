@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T13:32:36.482111+00:00",
+  "updated_at": "2026-09-13T06:03:05.089806+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -304,6 +304,27 @@
   ],
   "reservations": [
     {
+      "member": "ほの",
+      "title": "劇場版呪術廻戦0 ノベライズ みらい文庫版 [集英社みらい文庫]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 22 [ビッグコミックス] [スピリッツ]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 23 [ビッグコミックス] [スピリッツ]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "ママ",
       "title": "アオアシ 1 [ビッグコミックス]",
       "status": "予約解除可能",
@@ -341,20 +362,6 @@
     {
       "member": "ママ",
       "title": "アオアシ 21 [ビッグコミックス] [スピリッツ]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "アオアシ 22 [ビッグコミックス] [スピリッツ]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "アオアシ 23 [ビッグコミックス] [スピリッツ]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
@@ -399,13 +406,6 @@
       "title": "歴史ゴーストバスターズ 12 [ポプラキミノベル] [字消士ご一行珍道中!?]",
       "status": "予約解除可能リクエスト",
       "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "劇場版呪術廻戦0 ノベライズ みらい文庫版 [集英社みらい文庫]",
-      "status": "予約解除可能",
-      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
