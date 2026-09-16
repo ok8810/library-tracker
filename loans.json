@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T14:52:14.633413+00:00",
+  "updated_at": "2026-09-16T04:42:18.342231+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -333,15 +333,22 @@
     },
     {
       "member": "ママ",
+      "title": "アオアシ 19 [ビッグコミックス] [スピリッツ]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
       "title": "アオアシ 20 [ビッグコミックス] [スピリッツ]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "アオアシ 21 [ビッグコミックス] [スピリッツ]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -361,13 +368,6 @@
     },
     {
       "member": "ママ",
-      "title": "アオアシ 19 [ビッグコミックス] [スピリッツ]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
       "title": "アオアシ 24 [ビッグコミックス] [スピリッツ]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
@@ -377,7 +377,7 @@
       "member": "はる",
       "title": "キングダム 69 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "8 / 16",
+      "queue_rank": "7 / 15",
       "pickup_deadline": ""
     },
     {
@@ -412,7 +412,7 @@
       "member": "ほの",
       "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
       "status": "予約解除可能",
-      "queue_rank": "3 / 8",
+      "queue_rank": "2 / 7",
       "pickup_deadline": ""
     },
     {
