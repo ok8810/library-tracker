@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T14:54:47.661330+00:00",
+  "updated_at": "2026-09-25T04:47:07.260480+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -189,6 +189,13 @@
   ],
   "reservations": [
     {
+      "member": "ママ",
+      "title": "アオアシ 34 [ビッグコミックス] [スピリッツ]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "我愛羅秘伝 砂塵幻想 [JUMP J BOOKS]",
       "status": "予約解除可能",
@@ -213,14 +220,14 @@
       "member": "ママ",
       "title": "アオアシ 27 [ビッグコミックス] [スピリッツ]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "アオアシ 28 [ビッグコミックス] [スピリッツ]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
@@ -247,13 +254,6 @@
     {
       "member": "ママ",
       "title": "アオアシ 33 [ビッグコミックス] [スピリッツ]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "アオアシ 34 [ビッグコミックス] [スピリッツ]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
