@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T09:48:58.503154+00:00",
+  "updated_at": "2026-09-26T11:16:15.797534+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -197,87 +197,87 @@
     },
     {
       "member": "ママ",
-      "title": "アオアシ 34 [ビッグコミックス] [スピリッツ]",
+      "title": "アオアシ 31 [ビッグコミックス] [スピリッツ]",
       "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": "2026/10/03"
     },
     {
       "member": "ママ",
-      "title": "アオアシ 31 [ビッグコミックス] [スピリッツ]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
       "title": "アオアシ 32 [ビッグコミックス] [スピリッツ]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/03"
     },
     {
       "member": "ママ",
       "title": "アオアシ 33 [ビッグコミックス] [スピリッツ]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/03"
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 34 [ビッグコミックス] [スピリッツ]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/10/03"
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 14 [ジャンプコミックス] [渋谷事変-理非-]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/03"
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 15 [ジャンプコミックス] [渋谷事変-変身-]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/03"
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 16 [ジャンプコミックス] [渋谷事変-閉門-]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/03"
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 17 [ジャンプコミックス] [葦を啣む]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/03"
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 18 [ジャンプコミックス] [熱]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/03"
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 19 [ジャンプコミックス] [東京第一結界-怒れる男-]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/03"
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 20 [ジャンプコミックス] [仙台結界-宴半ば-]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/03"
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 21 [ジャンプコミックス] [東京第二結界-豪運-]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/03"
     },
     {
       "member": "パパ",
