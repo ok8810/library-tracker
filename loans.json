@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T06:34:21.041219+00:00",
+  "updated_at": "2026-09-27T08:03:23.644870+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -206,6 +206,20 @@
       "pickup_deadline": "2026/10/04"
     },
     {
+      "member": "ほの",
+      "title": "呪術廻戦 24 [ジャンプコミックス] [呪胎戴天-再帰-]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 25 [ジャンプコミックス] [人外魔境新宿決戦]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "我愛羅秘伝 砂塵幻想 [JUMP J BOOKS]",
       "status": "予約解除可能",
@@ -223,7 +237,7 @@
       "member": "ママ",
       "title": "アオアシ 29 [ビッグコミックス] [スピリッツ]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
@@ -315,20 +329,6 @@
       "title": "呪術廻戦 23 [ジャンプコミックス] [星と油]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 24 [ジャンプコミックス] [呪胎戴天-再帰-]",
-      "status": "予約解除可能",
-      "queue_rank": "2 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 25 [ジャンプコミックス] [人外魔境新宿決戦]",
-      "status": "予約解除可能",
-      "queue_rank": "2 / 2",
       "pickup_deadline": ""
     },
     {
