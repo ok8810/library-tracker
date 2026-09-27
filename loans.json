@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T05:10:36.779691+00:00",
+  "updated_at": "2026-09-27T06:34:21.041219+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -203,7 +203,7 @@
       "title": "50歳からの逆転キャリア戦略 「定年=リタイア」ではない時代の一番いい働き方、辞め方 [PHPビジネス新書]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/04"
     },
     {
       "member": "パパ",
@@ -231,6 +231,41 @@
       "title": "アオアシ 35 [ビッグコミックス] [スピリッツ]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 36 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 37 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 38 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 39 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 40 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
       "pickup_deadline": ""
     },
     {
@@ -273,6 +308,62 @@
       "title": "呪術廻戦 22 [ジャンプコミックス] [桜島結界-転生-]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 23 [ジャンプコミックス] [星と油]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 24 [ジャンプコミックス] [呪胎戴天-再帰-]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 25 [ジャンプコミックス] [人外魔境新宿決戦]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 26 [ジャンプコミックス] [南へ]",
+      "status": "予約解除可能",
+      "queue_rank": "3 / 3",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 27 [ジャンプコミックス] [バカサバイバー!!]",
+      "status": "予約解除可能",
+      "queue_rank": "3 / 3",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 28 [ジャンプコミックス] [人外魔境新宿決戦-星目-]",
+      "status": "予約解除可能",
+      "queue_rank": "3 / 3",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 29 [ジャンプコミックス] [人外魔境新宿決戦-活死-]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 30 [ジャンプコミックス] [これから]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
       "pickup_deadline": ""
     }
   ]
