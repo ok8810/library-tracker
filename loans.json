@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T18:05:40.650265+00:00",
+  "updated_at": "2026-09-29T05:36:04.172117+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -222,14 +222,14 @@
     {
       "member": "パパ",
       "title": "本好きの下剋上 ハンネローレの貴族院5年生1",
-      "status": "予約解除可能",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/06"
     },
     {
       "member": "パパ",
       "title": "本好きの下剋上 短編集3 司書になるためには手段を選んでいられません",
-      "status": "予約解除可能",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -300,7 +300,7 @@
       "member": "はる",
       "title": "キングダム 69 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "5 / 15",
+      "queue_rank": "5 / 16",
       "pickup_deadline": ""
     },
     {
