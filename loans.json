@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T16:29:52.603812+00:00",
+  "updated_at": "2026-10-01T05:40:56.276109+00:00",
   "loans": [
     {
       "member": "はる",
@@ -229,7 +229,7 @@
       "member": "ママ",
       "title": "好きなものを食べて・飲んで中性脂肪・コレステロールを減らすスゴ技100 脂質異常症専門医が教える!",
       "status": "予約解除可能",
-      "queue_rank": "5 / 7",
+      "queue_rank": "4 / 6",
       "pickup_deadline": ""
     },
     {
@@ -355,14 +355,14 @@
       "member": "ほの",
       "title": "呪術廻戦 29 [ジャンプコミックス] [人外魔境新宿決戦-活死-]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 30 [ジャンプコミックス] [これから]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     }
   ]
