@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-10-05T19:13:38.692426+00:00",
+  "updated_at": "2026-10-06T06:11:17.195433+00:00",
   "loans": [
-    {
-      "member": "パパ",
-      "title": "暁秘伝 咲き乱れる悪の華 [JUMP J BOOKS]",
-      "due_date": "2026/10/06"
-    },
-    {
-      "member": "パパ",
-      "title": "木ノ葉秘伝 祝言日和 [JUMP J BOOKS]",
-      "due_date": "2026/10/06"
-    },
     {
       "member": "ママ",
       "title": "アオアシ 24 [ビッグコミックス] [スピリッツ]",
@@ -230,15 +220,25 @@
       "member": "はる",
       "title": "織田信長 新時代を呼んだ戦国の風雲児 [学研まんが日本と世界の伝記]",
       "due_date": "2026/10/18"
+    },
+    {
+      "member": "パパ",
+      "title": "暁秘伝 咲き乱れる悪の華 [JUMP J BOOKS]",
+      "due_date": "2026/10/20"
+    },
+    {
+      "member": "パパ",
+      "title": "木ノ葉秘伝 祝言日和 [JUMP J BOOKS]",
+      "due_date": "2026/10/20"
     }
   ],
   "reservations": [
     {
       "member": "ママ",
       "title": "アオアシ 29 [ビッグコミックス] [スピリッツ]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/13"
     },
     {
       "member": "ママ",
@@ -265,7 +265,7 @@
       "member": "ママ",
       "title": "アオアシ 38 [ビッグコミックス] [スピリッツ]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 3",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
@@ -349,14 +349,14 @@
       "member": "ほの",
       "title": "呪術廻戦 27 [ジャンプコミックス] [バカサバイバー!!]",
       "status": "予約解除可能",
-      "queue_rank": "3 / 3",
+      "queue_rank": "2 / 2",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 28 [ジャンプコミックス] [人外魔境新宿決戦-星目-]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
