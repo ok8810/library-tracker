@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T17:23:54.125199+00:00",
+  "updated_at": "2026-10-08T05:52:58.190390+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -164,6 +164,27 @@
   ],
   "reservations": [
     {
+      "member": "パパ",
+      "title": "Claude Code実践入門 Agentic Coding [生成AI深掘りガイド]",
+      "status": "予約解除可能",
+      "queue_rank": "3 / 3",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "Claude Code徹底活用術 あらゆる仕事が爆速化する",
+      "status": "予約解除可能",
+      "queue_rank": "7 / 7",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "60分でわかる!フィジカルAI最前線",
+      "status": "予約解除可能",
+      "queue_rank": "4 / 4",
+      "pickup_deadline": ""
+    },
+    {
       "member": "ママ",
       "title": "好きなものを食べて・飲んで中性脂肪・コレステロールを減らすスゴ技100 脂質異常症専門医が教える!",
       "status": "予約解除可能",
@@ -216,7 +237,7 @@
       "member": "ママ",
       "title": "ハイキュー!! 1 [ジャンプ・コミックス] [日向と影山]",
       "status": "予約解除可能",
-      "queue_rank": "6 / 6",
+      "queue_rank": "5 / 5",
       "pickup_deadline": ""
     },
     {
@@ -265,7 +286,7 @@
       "member": "ほの",
       "title": "呪術廻戦 26 [ジャンプコミックス] [南へ]",
       "status": "予約解除可能",
-      "queue_rank": "3 / 3",
+      "queue_rank": "2 / 2",
       "pickup_deadline": ""
     },
     {
