@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T23:54:50.696488+00:00",
+  "updated_at": "2026-10-15T00:28:57.330551+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -190,6 +190,13 @@
       "pickup_deadline": "2026/10/20"
     },
     {
+      "member": "ほの",
+      "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "Claude Code実践入門 Agentic Coding [生成AI深掘りガイド]",
       "status": "予約解除可能",
@@ -299,13 +306,6 @@
       "title": "ふつつかな悪女ではございますが 12 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 4",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 6",
       "pickup_deadline": ""
     },
     {
