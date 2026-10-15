@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T01:23:51.656278+00:00",
+  "updated_at": "2026-10-15T04:26:26.399852+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -194,7 +194,7 @@
       "title": "呪術廻戦 1 [ジャンプコミックス] [両面宿儺]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/22"
     },
     {
       "member": "パパ",
@@ -340,7 +340,7 @@
       "member": "ほの",
       "title": "ゴールデンカムイ 1 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     }
   ]
