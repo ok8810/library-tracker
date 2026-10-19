@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T22:52:07.825144+00:00",
+  "updated_at": "2026-10-19T23:34:42.606555+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -92,14 +92,14 @@
       "member": "パパ",
       "title": "Claude Code実践入門 Agentic Coding [生成AI深掘りガイド]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 3",
+      "queue_rank": "2 / 4",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
       "title": "Claude Code徹底活用術 あらゆる仕事が爆速化する",
       "status": "予約解除可能",
-      "queue_rank": "6 / 6",
+      "queue_rank": "6 / 7",
       "pickup_deadline": ""
     },
     {
