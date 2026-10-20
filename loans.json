@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T07:27:11.118605+00:00",
+  "updated_at": "2026-10-20T08:25:43.098540+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -127,14 +127,14 @@
       "member": "パパ",
       "title": "呪術廻戦 29 [ジャンプコミックス] [人外魔境新宿決戦-活死-]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
       "title": "呪術廻戦 30 [ジャンプコミックス] [これから]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
@@ -225,21 +225,21 @@
       "member": "ほの",
       "title": "呪術廻戦 26 [ジャンプコミックス] [南へ]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 27 [ジャンプコミックス] [バカサバイバー!!]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 28 [ジャンプコミックス] [人外魔境新宿決戦-星目-]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
