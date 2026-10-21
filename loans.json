@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T09:19:54.116760+00:00",
+  "updated_at": "2026-10-21T21:34:07.663554+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -209,6 +209,34 @@
     },
     {
       "member": "はる",
+      "title": "おめんです 4 [ビッグブック] [あっ!とおどろくしかけえほん]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
+      "title": "おめんです あっ!とおどろくしかけえほん [ビッグブック]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
+      "title": "いいえいえです [MOEのえほん]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
+      "title": "やさいさん tupera tuperaのおおきなしかけ絵本",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
       "title": "キングダム 69 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "4 / 15",
@@ -218,14 +246,14 @@
       "member": "はる",
       "title": "キングダム 70 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "15 / 25",
+      "queue_rank": "15 / 26",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
       "title": "キングダム 71 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "16 / 28",
+      "queue_rank": "16 / 29",
       "pickup_deadline": ""
     },
     {
@@ -233,6 +261,20 @@
       "title": "ふつつかな悪女ではございますが 12 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 4",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 4 [ヤングジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 5 [ヤングジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
@@ -259,6 +301,27 @@
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 1 [ヤングジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 22 [ジャンプコミックス] [桜島結界-転生-]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 2 [ヤングジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 3 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
