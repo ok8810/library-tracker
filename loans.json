@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T23:14:30.083592+00:00",
+  "updated_at": "2026-10-21T23:59:43.054982+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -91,7 +91,42 @@
     {
       "member": "パパ",
       "title": "紙1枚で身につく!外資系コンサルのロジカルシンキング",
-      "status": "予約解除可能",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
+      "title": "おめんです 4 [ビッグブック] [あっ!とおどろくしかけえほん]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
+      "title": "おめんです あっ!とおどろくしかけえほん [ビッグブック]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
+      "title": "やさいさん tupera tuperaのおおきなしかけ絵本",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 4 [ヤングジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 5 [ヤングジャンプコミックス]",
+      "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -209,28 +244,7 @@
     },
     {
       "member": "はる",
-      "title": "おめんです 4 [ビッグブック] [あっ!とおどろくしかけえほん]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "はる",
-      "title": "おめんです あっ!とおどろくしかけえほん [ビッグブック]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "はる",
       "title": "いいえいえです [MOEのえほん]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "はる",
-      "title": "やさいさん tupera tuperaのおおきなしかけ絵本",
       "status": "予約解除可能",
       "queue_rank": "",
       "pickup_deadline": ""
@@ -261,20 +275,6 @@
       "title": "ふつつかな悪女ではございますが 12 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 4",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 4 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 5 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
