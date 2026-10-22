@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T23:59:43.054982+00:00",
+  "updated_at": "2026-10-22T00:38:19.007201+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -105,6 +105,13 @@
     {
       "member": "はる",
       "title": "おめんです あっ!とおどろくしかけえほん [ビッグブック]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
+      "title": "いいえいえです [MOEのえほん]",
       "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
@@ -225,7 +232,7 @@
       "member": "ママ",
       "title": "ハイキュー!! 1 [ジャンプ・コミックス] [日向と影山]",
       "status": "予約解除可能",
-      "queue_rank": "4 / 4",
+      "queue_rank": "3 / 3",
       "pickup_deadline": ""
     },
     {
@@ -240,13 +247,6 @@
       "title": "ハイキュー!! 3 [ジャンプ・コミックス] [チーム烏野、始動]",
       "status": "予約解除可能",
       "queue_rank": "6 / 6",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "はる",
-      "title": "いいえいえです [MOEのえほん]",
-      "status": "予約解除可能",
-      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
