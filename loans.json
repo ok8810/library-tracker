@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T04:31:28.355239+00:00",
+  "updated_at": "2026-10-22T06:04:14.075266+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -111,6 +111,13 @@
     },
     {
       "member": "はる",
+      "title": "いいえいえです [MOEのえほん]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "はる",
       "title": "やさいさん tupera tuperaのおおきなしかけ絵本",
       "status": "準備できました",
       "queue_rank": "",
@@ -127,13 +134,6 @@
       "member": "ほの",
       "title": "ゴールデンカムイ 5 [ヤングジャンプコミックス]",
       "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "はる",
-      "title": "いいえいえです [MOEのえほん]",
-      "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
