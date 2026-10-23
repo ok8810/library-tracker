@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T23:05:33.217875+00:00",
+  "updated_at": "2026-10-23T23:51:11.048828+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -145,6 +145,13 @@
       "pickup_deadline": ""
     },
     {
+      "member": "ママ",
+      "title": "問題発見力を鍛える [講談社現代新書]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "Claude Code実践入門 Agentic Coding [生成AI深掘りガイド]",
       "status": "予約解除可能",
@@ -205,13 +212,6 @@
       "title": "コンサルが1年目に叩き込まれる問題解決思考問題",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "問題発見力を鍛える [講談社現代新書]",
-      "status": "予約解除可能",
-      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
