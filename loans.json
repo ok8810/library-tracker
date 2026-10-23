@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T01:25:25.177899+00:00",
+  "updated_at": "2026-10-23T04:36:39.618250+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -138,6 +138,13 @@
       "pickup_deadline": "2026/10/29"
     },
     {
+      "member": "ママ",
+      "title": "アオアシ 38 [ビッグコミックス] [スピリッツ]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "Claude Code実践入門 Agentic Coding [生成AI深掘りガイド]",
       "status": "予約解除可能",
@@ -209,13 +216,6 @@
     },
     {
       "member": "ママ",
-      "title": "アオアシ 38 [ビッグコミックス] [スピリッツ]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 3",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
       "title": "アオアシ 39 [ビッグコミックス] [スピリッツ]",
       "status": "予約解除可能",
       "queue_rank": "1 / 2",
@@ -253,7 +253,7 @@
       "member": "はる",
       "title": "キングダム 69 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "4 / 14",
+      "queue_rank": "3 / 13",
       "pickup_deadline": ""
     },
     {
