@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T01:29:56.098463+00:00",
+  "updated_at": "2026-10-24T04:26:42.644283+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -142,14 +142,14 @@
       "title": "呪術廻戦 24 [ジャンプコミックス] [呪胎戴天-再帰-]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/31"
     },
     {
       "member": "はる",
       "title": "ライト、ついてますか 問題発見の人間学",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/10/31"
     },
     {
       "member": "ママ",
@@ -302,7 +302,7 @@
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 12 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 4",
+      "queue_rank": "1 / 5",
       "pickup_deadline": ""
     },
     {
