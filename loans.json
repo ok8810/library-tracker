@@ -1,16 +1,6 @@
 {
-  "updated_at": "2026-10-24T04:26:42.644283+00:00",
+  "updated_at": "2026-10-24T05:44:31.080149+00:00",
   "loans": [
-    {
-      "member": "パパ",
-      "title": "暁秘伝 咲き乱れる悪の華 [JUMP J BOOKS]",
-      "due_date": "2026/10/20"
-    },
-    {
-      "member": "パパ",
-      "title": "木ノ葉秘伝 祝言日和 [JUMP J BOOKS]",
-      "due_date": "2026/10/20"
-    },
     {
       "member": "ママ",
       "title": "アオアシ 37 [ビッグコミックス] [スピリッツ]",
@@ -85,6 +75,11 @@
       "member": "ほの",
       "title": "呪術廻戦 30 [ジャンプコミックス] [これから]",
       "due_date": "2026/11/01"
+    },
+    {
+      "member": "はる",
+      "title": "都会(まち)のトム&ソーヤ最強ガイド [YA!ENTERTAINMENT]",
+      "due_date": "2026/11/07"
     }
   ],
   "reservations": [
@@ -154,14 +149,14 @@
     {
       "member": "ママ",
       "title": "アオアシ 38 [ビッグコミックス] [スピリッツ]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "問題発見力を鍛える [講談社現代新書]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
