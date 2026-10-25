@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T23:08:30.007154+00:00",
+  "updated_at": "2026-10-25T00:16:33.082975+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -172,7 +172,28 @@
     {
       "member": "パパ",
       "title": "解像度を上げる 曖昧な思考を明晰にする「深さ・広さ・構造・時間」の4視点と行動法",
-      "status": "予約解除可能",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 26 [ジャンプコミックス] [南へ]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 27 [ジャンプコミックス] [バカサバイバー!!]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 28 [ジャンプコミックス] [人外魔境新宿決戦-星目-]",
+      "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -314,27 +335,6 @@
       "title": "ふつつかな悪女ではございますが 12 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 5",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 26 [ジャンプコミックス] [南へ]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 27 [ジャンプコミックス] [バカサバイバー!!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "呪術廻戦 28 [ジャンプコミックス] [人外魔境新宿決戦-星目-]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
