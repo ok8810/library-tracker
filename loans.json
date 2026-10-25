@@ -1,11 +1,6 @@
 {
-  "updated_at": "2026-10-25T06:00:26.012837+00:00",
+  "updated_at": "2026-10-25T07:32:41.779475+00:00",
   "loans": [
-    {
-      "member": "ママ",
-      "title": "アオアシ 37 [ビッグコミックス] [スピリッツ]",
-      "due_date": "2026/10/24"
-    },
     {
       "member": "パパ",
       "title": "さわれるまなべるいきもののあかちゃん",
@@ -19,11 +14,6 @@
     {
       "member": "パパ",
       "title": "ピアノおんがくのおやすみえほん [おとがなるしかけえほん]",
-      "due_date": "2026/10/27"
-    },
-    {
-      "member": "パパ",
-      "title": "本好きの下剋上 ハンネローレの貴族院5年生1",
       "due_date": "2026/10/27"
     },
     {
@@ -145,62 +135,74 @@
       "member": "ほの",
       "title": "ゴールデンカムイ 5 [ヤングジャンプコミックス]",
       "due_date": "2026/11/07"
-    }
-  ],
-  "reservations": [
-    {
-      "member": "はる",
-      "title": "おめんです 4 [ビッグブック] [あっ!とおどろくしかけえほん]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/10/29"
-    },
-    {
-      "member": "はる",
-      "title": "おめんです あっ!とおどろくしかけえほん [ビッグブック]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/10/29"
-    },
-    {
-      "member": "はる",
-      "title": "やさいさん tupera tuperaのおおきなしかけ絵本",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/10/29"
-    },
-    {
-      "member": "ママ",
-      "title": "システム開発と「具体と抽象」 問題発見と問題解決を往復する「思考のメタ化」を身につける",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/11/01"
     },
     {
       "member": "パパ",
       "title": "解像度を上げる 曖昧な思考を明晰にする「深さ・広さ・構造・時間」の4視点と行動法",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": ""
+      "due_date": "2026/11/08"
+    },
+    {
+      "member": "ママ",
+      "title": "システム開発と「具体と抽象」 問題発見と問題解決を往復する「思考のメタ化」を身につける",
+      "due_date": "2026/11/08"
+    },
+    {
+      "member": "はる",
+      "title": "やさいさん tupera tuperaのおおきなしかけ絵本",
+      "due_date": "2026/11/08"
+    },
+    {
+      "member": "はる",
+      "title": "おめんです 4 [ビッグブック] [あっ!とおどろくしかけえほん]",
+      "due_date": "2026/11/08"
+    },
+    {
+      "member": "はる",
+      "title": "おめんです あっ!とおどろくしかけえほん [ビッグブック]",
+      "due_date": "2026/11/08"
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 26 [ジャンプコミックス] [南へ]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": ""
+      "due_date": "2026/11/08"
     },
     {
       "member": "ほの",
       "title": "呪術廻戦 27 [ジャンプコミックス] [バカサバイバー!!]",
-      "status": "準備できました",
+      "due_date": "2026/11/08"
+    },
+    {
+      "member": "ほの",
+      "title": "呪術廻戦 28 [ジャンプコミックス] [人外魔境新宿決戦-星目-]",
+      "due_date": "2026/11/08"
+    }
+  ],
+  "reservations": [
+    {
+      "member": "パパ",
+      "title": "コンサルが1年目に叩き込まれる問題解決思考問題",
+      "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
-      "title": "呪術廻戦 28 [ジャンプコミックス] [人外魔境新宿決戦-星目-]",
-      "status": "準備できました",
+      "title": "ゴールデンカムイ 6 [ヤングジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 7 [ヤングジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 8 [ヤングジャンプコミックス]",
+      "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -234,16 +236,37 @@
     },
     {
       "member": "パパ",
-      "title": "コンサルが1年目に叩き込まれる問題解決思考問題",
+      "title": "コンサル一年目が学ぶこと",
       "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "外資系コンサルの仕事の進め方 実践の場で使える問題解決の基盤スキル",
+      "status": "予約解除可能リクエスト",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
-      "title": "コンサル一年目が学ぶこと",
-      "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "title": "外資系コンサルが教えるプロジェクトマネジメント",
+      "status": "予約解除可能リクエスト",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "ポストAI革命 組織とあなたの生存戦略",
+      "status": "予約解除可能リクエスト",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "プロジェクトリーダーの教科書 外資系コンサルが教える難題を解決する12ステップ",
+      "status": "市外図書館依頼中ですリクエスト",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
@@ -324,24 +347,10 @@
       "pickup_deadline": ""
     },
     {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 6 [ヤングジャンプコミックス]",
+      "member": "はる",
+      "title": "本好きの下剋上 ハンネローレの貴族院5年生2",
       "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 7 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 8 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
+      "queue_rank": "2 / 2",
       "pickup_deadline": ""
     },
     {
