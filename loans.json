@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T09:54:30.395792+00:00",
+  "updated_at": "2026-10-27T22:06:24.555860+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -244,7 +244,7 @@
     {
       "member": "パパ",
       "title": "ポストAI革命 組織とあなたの生存戦略",
-      "status": "予約解除可能リクエスト",
+      "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
@@ -322,21 +322,21 @@
       "member": "はる",
       "title": "キングダム 69 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "3 / 13",
+      "queue_rank": "3 / 14",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
       "title": "キングダム 70 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "14 / 26",
+      "queue_rank": "14 / 27",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
       "title": "キングダム 71 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "16 / 30",
+      "queue_rank": "16 / 31",
       "pickup_deadline": ""
     },
     {
