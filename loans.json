@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T10:31:44.879283+00:00",
+  "updated_at": "2026-10-28T22:30:00.599524+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -355,6 +355,20 @@
     },
     {
       "member": "ほの",
+      "title": "ゴールデンカムイ 9 [ヤングジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 10 [ヤングジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
       "title": "ゴールデンカムイ 1 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 2",
@@ -372,6 +386,13 @@
       "title": "ゴールデンカムイ 3 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "アオアシ 40 [ビッグコミックス] [スピリッツ]",
+      "status": "予約解除可能",
+      "queue_rank": "3 / 3",
       "pickup_deadline": ""
     }
   ]
