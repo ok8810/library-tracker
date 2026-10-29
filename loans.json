@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T05:36:35.256589+00:00",
+  "updated_at": "2026-10-29T07:00:05.495271+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -211,21 +211,21 @@
       "title": "本好きの下剋上 ハンネローレの貴族院5年生2",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/11/05"
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 9 [ヤングジャンプコミックス]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/11/05"
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 10 [ヤングジャンプコミックス]",
       "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/11/05"
     },
     {
       "member": "パパ",
@@ -337,6 +337,20 @@
       "title": "AIが化ける問題解決の全技術 10倍差がつく「思考の補助線」-インプット、プロセス、アウトプットの型",
       "status": "予約解除可能",
       "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "ハイキュー!! 5 [ジャンプ・コミックス] [IH突入!]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "ハイキュー!! 6 [ジャンプ・コミックス] [ザ・セッター対決]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
