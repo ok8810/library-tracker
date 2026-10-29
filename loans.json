@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T02:19:59.068434+00:00",
+  "updated_at": "2026-10-29T05:36:35.256589+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -207,16 +207,23 @@
       "pickup_deadline": "2026/11/03"
     },
     {
+      "member": "はる",
+      "title": "本好きの下剋上 ハンネローレの貴族院5年生2",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "ほの",
       "title": "ゴールデンカムイ 9 [ヤングジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 10 [ヤングジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -362,9 +369,9 @@
     },
     {
       "member": "はる",
-      "title": "本好きの下剋上 ハンネローレの貴族院5年生2",
+      "title": "ふつつかな悪女ではございますが 13 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 1",
+      "queue_rank": "11 / 11",
       "pickup_deadline": ""
     },
     {
