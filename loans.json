@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T01:54:04.402997+00:00",
+  "updated_at": "2026-10-30T02:32:41.962451+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -154,6 +154,13 @@
   ],
   "reservations": [
     {
+      "member": "パパ",
+      "title": "ポストAI革命 組織とあなたの生存戦略",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "ママ",
       "title": "アオアシ 39 [ビッグコミックス] [スピリッツ]",
       "status": "移送中",
@@ -193,13 +200,6 @@
       "title": "コンサル一年目が学ぶこと",
       "status": "予約解除可能",
       "queue_rank": "2 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "ポストAI革命 組織とあなたの生存戦略",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
