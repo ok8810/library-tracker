@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T02:15:15.504613+00:00",
+  "updated_at": "2026-10-31T05:24:29.735436+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -163,13 +163,20 @@
     {
       "member": "パパ",
       "title": "ポストAI革命 組織とあなたの生存戦略",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 12 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 1 [ヤングジャンプコミックス]",
       "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
@@ -269,7 +276,7 @@
       "member": "ママ",
       "title": "AIが化ける問題解決の全技術 10倍差がつく「思考の補助線」-インプット、プロセス、アウトプットの型",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
@@ -312,13 +319,6 @@
       "title": "ふつつかな悪女ではございますが 13 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
       "queue_rank": "11 / 12",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 1 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
