@@ -1,19 +1,9 @@
 {
-  "updated_at": "2026-11-01T02:06:52.850117+00:00",
+  "updated_at": "2026-11-01T05:50:52.213239+00:00",
   "loans": [
     {
       "member": "ママ",
       "title": "アオアシ 40 [ビッグコミックス] [スピリッツ]",
-      "due_date": "2026/11/01"
-    },
-    {
-      "member": "はる",
-      "title": "アンパンマンとちくりん [アンパンマンのぼうけん]",
-      "due_date": "2026/11/01"
-    },
-    {
-      "member": "はる",
-      "title": "アンパンマンとゆうれいせん [アンパンマンのおはなしたんけん]",
       "due_date": "2026/11/01"
     },
     {
@@ -150,78 +140,61 @@
       "member": "はる",
       "title": "ドクターひっぱれのあっぱれしんさつ",
       "due_date": "2026/11/14"
-    }
-  ],
-  "reservations": [
+    },
     {
-      "member": "ママ",
-      "title": "アオアシ 39 [ビッグコミックス] [スピリッツ]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/11/06"
+      "member": "パパ",
+      "title": "すぐに使えるビジネス教養宗教",
+      "due_date": "2026/11/15"
     },
     {
       "member": "パパ",
       "title": "ポストAI革命 組織とあなたの生存戦略",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/11/07"
+      "due_date": "2026/11/15"
+    },
+    {
+      "member": "ママ",
+      "title": "アオアシ 39 [ビッグコミックス] [スピリッツ]",
+      "due_date": "2026/11/15"
     },
     {
       "member": "はる",
       "title": "ふつつかな悪女ではございますが 12 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/11/07"
+      "due_date": "2026/11/15"
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 1 [ヤングジャンプコミックス]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/11/07"
-    },
+      "due_date": "2026/11/15"
+    }
+  ],
+  "reservations": [
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 11 [ヤングジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 12 [ヤングジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 13 [ヤングジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 14 [ヤングジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "外資系コンサルの仕事の進め方 実践の場で使える問題解決の基盤スキル",
-      "status": "準備できましたリクエスト",
-      "queue_rank": "",
-      "pickup_deadline": "2026/11/06"
-    },
-    {
-      "member": "パパ",
-      "title": "外資系コンサルが教えるプロジェクトマネジメント",
-      "status": "準備できましたリクエスト",
-      "queue_rank": "",
-      "pickup_deadline": "2026/11/06"
     },
     {
       "member": "パパ",
@@ -276,7 +249,7 @@
       "member": "ママ",
       "title": "機嫌のいいママになりたい! 更年期VS反抗期 母と娘のキレない関係 [コドモエBOOKS]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 3",
+      "queue_rank": "2 / 4",
       "pickup_deadline": ""
     },
     {
@@ -346,14 +319,14 @@
       "member": "ほの",
       "title": "ゴールデンカムイ 2 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 2",
+      "queue_rank": "1 / 3",
       "pickup_deadline": ""
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 3 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "1 / 2",
+      "queue_rank": "1 / 3",
       "pickup_deadline": ""
     },
     {
