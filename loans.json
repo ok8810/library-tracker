@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T23:20:21.367045+00:00",
+  "updated_at": "2026-11-01T00:05:16.731285+00:00",
   "loans": [
     {
       "member": "ママ",
@@ -182,6 +182,34 @@
       "pickup_deadline": "2026/11/07"
     },
     {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 11 [ヤングジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 12 [ヤングジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 13 [ヤングジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 14 [ヤングジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "外資系コンサルの仕事の進め方 実践の場で使える問題解決の基盤スキル",
       "status": "準備できましたリクエスト",
@@ -312,34 +340,6 @@
       "title": "ふつつかな悪女ではございますが 13 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
       "queue_rank": "11 / 12",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 11 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 12 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 13 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 14 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
