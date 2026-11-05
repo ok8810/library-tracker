@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T07:52:40.024837+00:00",
+  "updated_at": "2026-11-05T09:23:21.092189+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -313,6 +313,20 @@
     },
     {
       "member": "ほの",
+      "title": "ゴールデンカムイ 18 [ヤングジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 19 [ヤングジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
       "title": "ゴールデンカムイ 2 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 3",
@@ -323,6 +337,34 @@
       "title": "ゴールデンカムイ 3 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 3",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 16 [ヤングジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 17 [ヤングジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 20 [ヤングジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 21 [ヤングジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     }
   ]
