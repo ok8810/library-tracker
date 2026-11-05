@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T06:30:37.522800+00:00",
+  "updated_at": "2026-11-05T07:52:40.024837+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -187,6 +187,13 @@
     },
     {
       "member": "パパ",
+      "title": "プロジェクトリーダーの教科書 外資系コンサルが教える難題を解決する12ステップ",
+      "status": "準備できましたリクエスト",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
       "title": "Claude Code実践入門 Agentic Coding [生成AI深掘りガイド]",
       "status": "予約解除可能",
       "queue_rank": "1 / 3",
@@ -225,13 +232,6 @@
       "title": "ゴールデンカムイ 4 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "2 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "パパ",
-      "title": "プロジェクトリーダーの教科書 外資系コンサルが教える難題を解決する12ステップ",
-      "status": "市外図書館依頼中ですリクエスト",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
