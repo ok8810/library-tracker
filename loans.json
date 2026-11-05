@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T03:26:04.885618+00:00",
+  "updated_at": "2026-11-05T06:30:37.522800+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -181,9 +181,9 @@
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 15 [ヤングジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/11/12"
     },
     {
       "member": "パパ",
@@ -196,7 +196,7 @@
       "member": "パパ",
       "title": "Claude Code徹底活用術 あらゆる仕事が爆速化する",
       "status": "予約解除可能",
-      "queue_rank": "6 / 7",
+      "queue_rank": "5 / 6",
       "pickup_deadline": ""
     },
     {
@@ -301,7 +301,7 @@
       "member": "はる",
       "title": "キングダム 71 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "16 / 31",
+      "queue_rank": "15 / 30",
       "pickup_deadline": ""
     },
     {
