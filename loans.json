@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T03:22:29.343551+00:00",
+  "updated_at": "2026-11-06T06:26:48.446405+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -188,16 +188,16 @@
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 18 [ヤングジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/11/13"
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 19 [ヤングジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/11/13"
     },
     {
       "member": "パパ",
