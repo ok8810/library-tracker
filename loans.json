@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T01:27:27.061568+00:00",
+  "updated_at": "2026-11-10T02:00:31.091564+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -151,6 +151,20 @@
       "pickup_deadline": ""
     },
     {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 20 [ヤングジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 21 [ヤングジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "Claude Code実践入門 Agentic Coding [生成AI深掘りガイド]",
       "status": "予約解除可能",
@@ -279,20 +293,6 @@
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 17 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 20 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 21 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
