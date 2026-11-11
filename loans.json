@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T01:53:02.392103+00:00",
+  "updated_at": "2026-11-11T02:42:14.686685+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -172,6 +172,13 @@
       "pickup_deadline": ""
     },
     {
+      "member": "ママ",
+      "title": "AIが化ける問題解決の全技術 10倍差がつく「思考の補助線」-インプット、プロセス、アウトプットの型",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "Claude Code実践入門 Agentic Coding [生成AI深掘りガイド]",
       "status": "予約解除可能",
@@ -232,13 +239,6 @@
       "title": "ハイキュー!! 3 [ジャンプ・コミックス] [チーム烏野、始動]",
       "status": "予約解除可能",
       "queue_rank": "4 / 4",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "AIが化ける問題解決の全技術 10倍差がつく「思考の補助線」-インプット、プロセス、アウトプットの型",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     },
     {
