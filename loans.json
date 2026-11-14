@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T07:33:31.203438+00:00",
+  "updated_at": "2026-11-14T08:55:35.620955+00:00",
   "loans": [
     {
       "member": "はる",
@@ -140,58 +140,49 @@
       "member": "ママ",
       "title": "ITガバナンスのしくみと導入がこれ1冊でしっかりわかる教科書 [図解即戦力]",
       "due_date": "2026/11/26"
-    }
-  ],
-  "reservations": [
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 2 [ヤングジャンプコミックス]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/11/17"
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 20 [ヤングジャンプコミックス]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/11/17"
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 21 [ヤングジャンプコミックス]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/11/17"
-    },
-    {
-      "member": "パパ",
-      "title": "コンサル一年目が学ぶこと",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/11/18"
     },
     {
       "member": "パパ",
       "title": "Claude Code実践入門 Agentic Coding [生成AI深掘りガイド]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/11/19"
+      "due_date": "2026/11/28"
+    },
+    {
+      "member": "パパ",
+      "title": "コンサル一年目が学ぶこと",
+      "due_date": "2026/11/28"
     },
     {
       "member": "ママ",
       "title": "AIが化ける問題解決の全技術 10倍差がつく「思考の補助線」-インプット、プロセス、アウトプットの型",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/11/19"
+      "due_date": "2026/11/28"
+    },
+    {
+      "member": "はる",
+      "title": "都会のトム&ソーヤ 21 [YA!ENTERTAINMENT] [神々のゲーム]",
+      "due_date": "2026/11/28"
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 2 [ヤングジャンプコミックス]",
+      "due_date": "2026/11/28"
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 3 [ヤングジャンプコミックス]",
-      "status": "準備できました",
-      "queue_rank": "",
-      "pickup_deadline": "2026/11/19"
+      "due_date": "2026/11/28"
     },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 20 [ヤングジャンプコミックス]",
+      "due_date": "2026/11/28"
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 21 [ヤングジャンプコミックス]",
+      "due_date": "2026/11/28"
+    }
+  ],
+  "reservations": [
     {
       "member": "パパ",
       "title": "Claude Code徹底活用術 あらゆる仕事が爆速化する",
