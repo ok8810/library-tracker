@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T03:04:04.074584+00:00",
+  "updated_at": "2026-11-14T06:07:00.361653+00:00",
   "loans": [
     {
       "member": "はる",
@@ -210,7 +210,7 @@
       "member": "パパ",
       "title": "ハイキュー!! 4 [ジャンプ・コミックス] [ライバル]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 3",
+      "queue_rank": "2 / 4",
       "pickup_deadline": ""
     },
     {
@@ -224,35 +224,35 @@
       "member": "ママ",
       "title": "機嫌のいいママになりたい! 更年期VS反抗期 母と娘のキレない関係 [コドモエBOOKS]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 4",
+      "queue_rank": "1 / 3",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "ハイキュー!! 1 [ジャンプ・コミックス] [日向と影山]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "2 / 3",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "ハイキュー!! 2 [ジャンプ・コミックス] [頂の景色]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 2",
+      "queue_rank": "2 / 3",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "ハイキュー!! 3 [ジャンプ・コミックス] [チーム烏野、始動]",
       "status": "予約解除可能",
-      "queue_rank": "4 / 4",
+      "queue_rank": "4 / 5",
       "pickup_deadline": ""
     },
     {
       "member": "ママ",
       "title": "ハイキュー!! 5 [ジャンプ・コミックス] [IH突入!]",
       "status": "予約解除可能",
-      "queue_rank": "2 / 3",
+      "queue_rank": "2 / 4",
       "pickup_deadline": ""
     },
     {
