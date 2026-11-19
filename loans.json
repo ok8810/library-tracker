@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T04:05:33.743219+00:00",
+  "updated_at": "2026-11-19T07:12:50.441684+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -181,48 +181,48 @@
     {
       "member": "パパ",
       "title": "本好きの下剋上 ハンネローレの貴族院5年生3",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 16 [ヤングジャンプコミックス]",
-      "status": "移送中",
-      "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/11/26"
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 22 [ヤングジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/11/26"
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 23 [ヤングジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/11/26"
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 24 [ヤングジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/11/26"
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 25 [ヤングジャンプコミックス]",
-      "status": "移送中",
+      "status": "準備できました",
       "queue_rank": "",
-      "pickup_deadline": ""
+      "pickup_deadline": "2026/11/26"
     },
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 26 [ヤングジャンプコミックス]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": "2026/11/26"
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 16 [ヤングジャンプコミックス]",
       "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
@@ -301,7 +301,7 @@
       "member": "はる",
       "title": "キングダム 70 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
-      "queue_rank": "13 / 26",
+      "queue_rank": "12 / 25",
       "pickup_deadline": ""
     },
     {
