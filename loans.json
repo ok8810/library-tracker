@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T12:55:41.663856+00:00",
+  "updated_at": "2026-11-20T00:33:29.453682+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -221,6 +221,13 @@
       "pickup_deadline": "2026/11/26"
     },
     {
+      "member": "はる",
+      "title": "キングダム 69 [ヤングジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "ほの",
       "title": "ゴールデンカムイ 16 [ヤングジャンプコミックス]",
       "status": "移送中",
@@ -288,13 +295,6 @@
       "title": "ハイキュー!! 5 [ジャンプ・コミックス] [IH突入!]",
       "status": "予約解除可能",
       "queue_rank": "1 / 3",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "はる",
-      "title": "キングダム 69 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 12",
       "pickup_deadline": ""
     },
     {
