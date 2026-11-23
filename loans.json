@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T12:14:58.615313+00:00",
+  "updated_at": "2026-11-23T14:30:31.989979+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -300,6 +300,20 @@
     {
       "member": "ほの",
       "title": "ゴールデンカムイ 29 [ヤングジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 30 [ヤングジャンプコミックス]",
+      "status": "予約解除可能",
+      "queue_rank": "1 / 1",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 31 [ヤングジャンプコミックス]",
       "status": "予約解除可能",
       "queue_rank": "1 / 1",
       "pickup_deadline": ""
