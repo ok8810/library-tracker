@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T14:30:31.989979+00:00",
+  "updated_at": "2026-11-24T03:56:15.416724+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -214,6 +214,27 @@
   ],
   "reservations": [
     {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 29 [ヤングジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 30 [ヤングジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ゴールデンカムイ 31 [ヤングジャンプコミックス]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "Claude Code徹底活用術 あらゆる仕事が爆速化する",
       "status": "予約解除可能",
@@ -295,27 +316,6 @@
       "title": "ふつつかな悪女ではございますが 13 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
       "queue_rank": "9 / 14",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 29 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 30 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ほの",
-      "title": "ゴールデンカムイ 31 [ヤングジャンプコミックス]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 1",
       "pickup_deadline": ""
     }
   ]
