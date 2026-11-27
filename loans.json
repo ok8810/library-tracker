@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T13:50:14.277961+00:00",
+  "updated_at": "2026-11-27T01:40:44.226659+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -243,15 +243,43 @@
     },
     {
       "member": "パパ",
+      "title": "ハイキュー!! 4 [ジャンプ・コミックス] [ライバル]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
       "title": "図解まるわかりPMO・PMのきほん PMOとPMの役割を対比しながら一気通貫に理解できる!",
-      "status": "予約解除可能",
+      "status": "準備できました",
       "queue_rank": "",
       "pickup_deadline": ""
     },
     {
       "member": "パパ",
       "title": "中小企業の基本と仕組みがよくわかる本 役割、組織、経営課題までまるごと解説! [図解入門ビジネス]",
-      "status": "予約解除可能",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "ハイキュー!! 5 [ジャンプ・コミックス] [IH突入!]",
+      "status": "準備できました",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "パパ",
+      "title": "THE TEAM5つの法則 [NEWSPICKS BOOK]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ママ",
+      "title": "ハイキュー!! 1 [ジャンプ・コミックス] [日向と影山]",
+      "status": "移送中",
       "queue_rank": "",
       "pickup_deadline": ""
     },
@@ -270,24 +298,10 @@
       "pickup_deadline": ""
     },
     {
-      "member": "パパ",
-      "title": "ハイキュー!! 4 [ジャンプ・コミックス] [ライバル]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 3",
-      "pickup_deadline": ""
-    },
-    {
       "member": "ママ",
       "title": "機嫌のいいママになりたい! 更年期VS反抗期 母と娘のキレない関係 [コドモエBOOKS]",
       "status": "予約解除可能",
       "queue_rank": "1 / 3",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "ハイキュー!! 1 [ジャンプ・コミックス] [日向と影山]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 2",
       "pickup_deadline": ""
     },
     {
@@ -302,13 +316,6 @@
       "title": "ハイキュー!! 3 [ジャンプ・コミックス] [チーム烏野、始動]",
       "status": "予約解除可能",
       "queue_rank": "3 / 4",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "ハイキュー!! 5 [ジャンプ・コミックス] [IH突入!]",
-      "status": "予約解除可能",
-      "queue_rank": "1 / 3",
       "pickup_deadline": ""
     },
     {
@@ -330,6 +337,13 @@
       "title": "ふつつかな悪女ではございますが 13 雛宮蝶鼠とりかえ伝 [一迅社ノベルス]",
       "status": "予約解除可能",
       "queue_rank": "9 / 14",
+      "pickup_deadline": ""
+    },
+    {
+      "member": "ほの",
+      "title": "ダンジョン飯 1 [BEAM COMIX]",
+      "status": "予約解除可能",
+      "queue_rank": "2 / 2",
       "pickup_deadline": ""
     }
   ]
