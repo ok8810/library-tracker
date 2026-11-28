@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T13:47:05.748765+00:00",
+  "updated_at": "2026-11-28T01:22:07.255693+00:00",
   "loans": [
     {
       "member": "パパ",
@@ -220,6 +220,13 @@
       "pickup_deadline": ""
     },
     {
+      "member": "ママ",
+      "title": "ハイキュー!! 7 [ジャンプ・コミックス] [進化]",
+      "status": "移送中",
+      "queue_rank": "",
+      "pickup_deadline": ""
+    },
+    {
       "member": "パパ",
       "title": "Claude Code徹底活用術 あらゆる仕事が爆速化する",
       "status": "予約解除可能",
@@ -231,13 +238,6 @@
       "title": "60分でわかる!フィジカルAI最前線",
       "status": "予約解除可能",
       "queue_rank": "2 / 2",
-      "pickup_deadline": ""
-    },
-    {
-      "member": "ママ",
-      "title": "ハイキュー!! 7 [ジャンプ・コミックス] [進化]",
-      "status": "予約解除可能",
-      "queue_rank": "",
       "pickup_deadline": ""
     },
     {
